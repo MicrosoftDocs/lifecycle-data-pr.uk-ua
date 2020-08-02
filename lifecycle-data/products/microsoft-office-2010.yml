@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office 2010
+  description: Microsoft Office 2010 відповідає фіксованою політикою життєвого циклу.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 38b07316aaa247313848fcb558d54d4dad2d9c37
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: uk-UA
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "845423"
+name: Microsoft Office 2010
+summary: >+
+  Microsoft Office 2010 відповідає [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+
+
+  Це відноситься до наступних видань: eAcademy, дому та бізнесу, будинку і студента, особистий, професійний, професійний академічний, професійний плюс, професійний плюс домашнє використання програми, стандарт, стартер
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Service Pack 2
+  startDate: 07/23/2013
+  endDate: 10/13/2020
+- version: Service Pack 1
+  startDate: 06/28/2011
+  endDate: 10/14/2014
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 07/10/2012
+content: "\n## <a name=\"links\"></a>Посилання \n* [Office 2010 завершення підтримки дорожньої карти](/DeployOffice/office-2010-end-support-roadmap)\n* [Політика пакета оновлень](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Видання \n* eAcademy\n* Дому та бізнесу\n* Дому та навчання\n* Особисті\n* Професійних\n* Професійні академічні\n* Професійний плюс\n* Професійна плюс Головна програма використання\n* Стандартний\n* Стартер"
