@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Основи ідентифікації Windows
+  description: Фонд ідентифікації Windows дотримується фіксованої політики життєвого циклу.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: bf0feb07b0de728c2a1e19c8e9476a943719a6b6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: uk-UA
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "845107"
+name: Основи ідентифікації Windows
+summary: >+
+  Фонд ідентифікації Windows дотримується [фіксованої](/lifecycle/policies/fixed) політики життєвого циклу.
+
+
+products:
+- m365
+policyType: fixed
+supportDates:
+  start: 02/14/2010
+  end: 04/14/2015
+  extendedEnd: 04/14/2020
+releases:
+- version: Original Release
+  startDate: 02/14/2010
+  endDate: 04/14/2020
+content: ''
