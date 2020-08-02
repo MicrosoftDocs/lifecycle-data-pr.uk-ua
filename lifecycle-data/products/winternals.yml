@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Wнутрощі
+  description: Wнутрощі слідує за фіксованою політикою життєвого циклу.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c53494de8a74f1c533ad0de10eff126605f0d85a
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: uk-UA
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "845263"
+name: Wнутрощі
+summary: >+
+  Wнутрощі слідує за [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+
+
+  Це стосується такі випуски: адміністратор Пак 5,0, дефрагментації Manager 3,0, менеджер захисту 2,0, відновлення Manager 3,0
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 01/01/2007
+  end: 01/12/2010
+  extendedEnd: 01/12/2010
+releases:
+- version: Original Release
+  startDate: 01/01/2007
+  endDate: 01/12/2010
+content: "\n## <a name=\"links\"></a>Посилання \n* [Політика життєвого циклу для Microsoft придбань](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Виключає версії, які раніше не підтримувалися. Підтримка цього продукту регулюється умовами його придбання.\n\n## <a name=\"editions\"></a>Видання \n* Адміністратор Пак 5,0\n* Дефрагментації Manager 3,0\n* Диспетчер для захисту 2,0\n* Відновлення, диспетчер 3,0"

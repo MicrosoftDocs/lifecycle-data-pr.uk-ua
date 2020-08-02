@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Веб-компоненти Microsoft Office 2003 для системи 2007 Microsoft Office
+  description: Веб-компоненти Microsoft Office 2003 для системи 2007 Microsoft Office наслідує політику життєвого циклу компонентів.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 82cc956a80008bea8b985ccf8b1b6c3c4927b4c7
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: uk-UA
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "845183"
+name: Веб-компоненти Microsoft Office 2003 для системи 2007 Microsoft Office
+summary: >+
+  Веб-компоненти Microsoft Office 2003 для системи 2007 Microsoft Office наслідує політику життєвого циклу [компонентів](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+
+
+products:
+- office
+policyType: component
+supportDates:
+  start: 01/27/2007
+  end: 10/10/2017
+releases:
+- version: Original Release
+  startDate: 01/27/2007
+  endDate: 10/10/2017
+content: "\n## <a name=\"links\"></a>Посилання \n* [Міграційне керівництво](/office/troubleshoot/support/office-2007-not-support)"
