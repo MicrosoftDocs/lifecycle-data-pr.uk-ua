@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: SoftGrid віртуалізації застосунків
+  description: Програма віртуалізації застосунків SoftGrid дотримується фіксованої політики життєвого циклу.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 17b8078138b718a634c2561ac4b1e73f3966ce24
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: uk-UA
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "845134"
+name: SoftGrid віртуалізації застосунків
+summary: >
+  Програма віртуалізації застосунків SoftGrid дотримується [фіксованої](/lifecycle/policies/fixed) політики життєвого циклу.
+
+
+  Це стосується таких випусків: 4,1 для настільних комп'ютерів, 4,2 для настільних комп'ютерів, служби терміналів 4,1
+
+
+  > [!IMPORTANT]
+
+  > Підтримку завершено. Перегляньте інструкції з міграції, наведені нижче.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/25/2007
+  end: 07/10/2012
+  extendedEnd: 07/11/2017
+releases:
+- version: Original Release
+  startDate: 05/25/2007
+  endDate: 07/11/2017
+content: "\n## <a name=\"links\"></a>Посилання \n* [Міграційне керівництво](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Видання \n* 4,1 для настільних комп'ютерів\n* 4,2 для настільних комп'ютерів\n* для служб терміналів 4,1"
