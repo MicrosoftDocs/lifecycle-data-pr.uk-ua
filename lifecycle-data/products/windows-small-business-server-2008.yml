@@ -1,0 +1,24 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Малий бізнес-сервер Windows 2008
+  description: Сервер малого бізнесу Windows 2008, слід фіксована політика життєвого циклу.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ca524a5b2238d362198454212c1b53d9946cdb05
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: uk-UA
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "845270"
+name: Малий бізнес-сервер Windows 2008
+summary: "Сервер малого бізнесу Windows 2008, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.\n\nЦе стосується таких випусків: Premium, Standard\n\n> [!IMPORTANT]\n> Підтримка цього продукту закінчилася. \n\nДата підтримки цього пакета продуктів визначається відповідними на його індивідуальними пакетами. Будь ласка, перегляньте життєвий цикл окремого компонента продукту, щоб визначити його довжину підтримки.\n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/21/2008
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 11/21/2008
+  endDate: 01/14/2020
+content: "\n## <a name=\"links\"></a>Посилання \n* [Міграційне керівництво](https://aka.ms/AA1ovn4)\n* [Windows Server 2008](/lifecycle/browse/listings/windows-server-2008)\n* [Exchange Server 2007](/lifecycle/browse/listings/exchange-server-2007)\n* [Microsoft Windows SharePoint Services 3,0](/lifecycle/browse/listings/microsoft-windows-sharepoint-services-30)\n\n\n## <a name=\"editions\"></a>Видання \n* Преміум\n* Стандартний"

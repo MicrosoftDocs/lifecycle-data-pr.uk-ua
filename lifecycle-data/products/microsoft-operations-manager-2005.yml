@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Диспетчер операцій Microsoft (мама) 2005
+  description: Диспетчер операцій Microsoft (мама) 2005 відповідає фіксованою політикою життєвого циклу.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 537a6fbd4ff1d9f82a9ffd0dcd3b456bee05cc55
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: uk-UA
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "845167"
+name: Диспетчер операцій Microsoft (мама) 2005
+summary: >
+  Диспетчер операцій Microsoft (мама) 2005 відповідає [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+
+
+  Це стосується таких випусків: робоча група
+
+
+  > [!IMPORTANT]
+
+  > Підтримка цього продукту закінчилася.
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 11/24/2004
+  end: 01/12/2010
+  extendedEnd: 01/13/2015
+releases:
+- version: Service Pack 1
+  startDate: 08/01/2005
+  endDate: 01/13/2015
+- version: Original Release
+  startDate: 11/24/2004
+  endDate: 10/10/2006
+content: "\n## <a name=\"links\"></a>Посилання \n* [Політика пакета оновлень](/lifecycle/policies/fixed#service-packs)\n* [Операційний менеджер](/system-center/scom/welcome?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>Видання \n* Робочої групи\n\nКлючові слова: мама"
