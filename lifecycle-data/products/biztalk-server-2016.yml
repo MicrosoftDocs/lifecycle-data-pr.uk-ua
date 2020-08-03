@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: BizTalk Server 2016
+  description: BizTalk Server 2016 відповідає фіксованою політикою життєвого циклу.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0cce3539c4760d2472891e36f8edfa267a44c7ac
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: uk-UA
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "865354"
+name: BizTalk Server 2016
+summary: >+
+  BizTalk Server 2016 відповідає [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+
+
+  Це стосується таких випусків: філія, розробник, підприємство, стандарт
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 12/01/2016
+  end: 01/11/2022
+  extendedEnd: 01/11/2027
+releases:
+- version: Original Release
+  startDate: 12/01/2016
+  endDate: 01/11/2027
+content: "\n## <a name=\"links\"></a>Посилання \n* [Інформація про виріб](/biztalk/install-and-config-guides/biztalk-server-2016-what-s-new-and-installation)\n\n\n## <a name=\"editions\"></a>Видання \n* Відділення\n* Розробник\n* Підприємство\n* Стандартний"

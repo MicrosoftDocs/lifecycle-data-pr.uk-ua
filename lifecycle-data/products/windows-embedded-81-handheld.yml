@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Embedded 8,1 ручний
+  description: Windows Embedded 8,1 ручний слід фіксована політика життєвого циклу.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0b19ad1d2a53ee16861bf63a21f6924b3bea1c67
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: uk-UA
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "865836"
+name: Windows Embedded 8,1 ручний
+summary: >
+  Windows Embedded 8,1 ручний слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+
+
+
+  > [!IMPORTANT]
+
+  > Підтримка цього продукту закінчилася. Якщо ваша організація все ще підтримує ці платформи та має додаткові запитання, зверніться до команди свого облікового запису.
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 06/24/2014
+  end: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 06/24/2014
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Посилання \n* [Windows 10 IoT](/windows/iot-core/windows-iot-core)"

@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Сховища Windows Server 2012 R2
+  description: У сховищі Windows Storage Server 2012 R2 слід фіксована політика життєвого циклу.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4a27e9c473e898353e7d8d5f47cf6e19274320d8
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: uk-UA
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "865771"
+name: Сховища Windows Server 2012 R2
+summary: >+
+  У сховищі Windows Storage Server 2012 R2 слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+
+
+  Це стосується таких випусків: основи, стандарт, робоча група
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/25/2013
+  end: 10/09/2018
+  extendedEnd: 10/10/2023
+releases:
+- version: Original Release
+  startDate: 11/25/2013
+  endDate: 10/10/2023
+content: "\n## <a name=\"links\"></a>Посилання \n* [Міграційне керівництво](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> Основну та розширену підтримку цього продукту було розширено, щоб надати клієнтам стандартну хронологію переходу на життєвий цикл.\n> [!NOTE]\n> Дата початку для Essentials Edition-25 вересня 2014. \n\n## <a name=\"editions\"></a>Видання \n* Основне\n* Стандартний\n* Робочої групи"
