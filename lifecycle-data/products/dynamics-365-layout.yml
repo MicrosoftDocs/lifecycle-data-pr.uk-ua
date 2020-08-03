@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics 365 макет
+  description: Макет Dynamics 365 відповідає сучасній політиці життєвого циклу.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b3dff3d9a8e33fd57896f487fdf4e5702dd1dfd6
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: uk-UA
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "873011"
+name: Dynamics 365 макет
+summary: >+
+  Макет Dynamics 365 відповідає [сучасній](/lifecycle/policies/modern) політиці життєвого циклу.
+
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 09/30/2018
+  end: 12/31/2021
+releases:
+- version: Original Release
+  startDate: 09/30/2018
+  endDate: 12/31/2021
+content: "\n## <a name=\"links\"></a>Посилання \n* [Верстка та Віддалена допомога](/dynamics365/mixed-reality/layout/faq)"
