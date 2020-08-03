@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Підключення продукту engyro для диспетчера операцій Microsoft 2005
+  description: Підключення продукту engyro для диспетчера операцій Microsoft 2005, слід фіксована політика життєвого циклу.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b421124e88b9e5ee8e28e9added4a7876c9405dd
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: uk-UA
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "845887"
+name: Підключення продукту engyro для диспетчера операцій Microsoft 2005
+summary: >+
+  Підключення продукту engyro для диспетчера операцій Microsoft 2005, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 10/01/2007
+  end: 12/31/2010
+  extendedEnd: 01/13/2015
+releases:
+- version: Original Release
+  startDate: 10/01/2007
+  endDate: 01/13/2015
+content: ''

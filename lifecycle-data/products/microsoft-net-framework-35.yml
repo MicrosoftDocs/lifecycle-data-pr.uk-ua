@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft .NET Framework 3,5
+  description: Microsoft .NET Framework 3,5, слід фіксована політика життєвого циклу.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c5b5899c1b89f49d5795e0514b17c0385346a671
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: uk-UA
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846127"
+name: Microsoft .NET Framework 3,5
+summary: >+
+  Microsoft .NET Framework 3,5, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+
+
+products:
+- dotnet
+policyType: fixed
+supportDates:
+  start: 11/19/2007
+  end: 10/10/2023
+  extendedEnd: 01/09/2029
+releases:
+- version: Service Pack 1
+  startDate: 11/18/2008
+  endDate: 01/09/2029
+- version: Original Release
+  startDate: 11/19/2007
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>Посилання \n* [Поширені питання про життєвий цикл-.NET Framework](/lifecycle/faq/dotnet-framework)\n* [Інформація про виріб](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-35)\n\n> [!NOTE]\n> Підтримка для .NET Framework 3. x версії до 3,5 SP1 закінчився 12 липня 2011. \n> [!NOTE]\n> Дати життєвого циклу застосовуються до .NET 3,5 SP1 під час роботи з Windows 10 версії 1809, Windows Server 2019 або пізнішої версії. У старих версіях Windows, .NET 3,5 SP1 приймає життєвий цикл базової ОС Windows."
