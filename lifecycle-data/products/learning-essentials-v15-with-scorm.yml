@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Основи навчання v 1.5 з СКОРМ
+  description: Навчання Essentials v 1.5 з СКОРМ слідує політиці життєвого циклу компонента.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 7d1881def5a4b9f675b435cc766a3594b8ad7e56
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: uk-UA
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "845844"
+name: Основи навчання v 1.5 з СКОРМ
+summary: >+
+  Навчання Essentials v 1.5 з СКОРМ слідує політиці життєвого циклу [компонента](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+
+
+products:
+- office
+policyType: component
+supportDates:
+  start: 12/06/2006
+  end: 01/10/2012
+releases:
+- version: Original Release
+  startDate: 12/06/2006
+  endDate: 01/10/2012
+content: ''
