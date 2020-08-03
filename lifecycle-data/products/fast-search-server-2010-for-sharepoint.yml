@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: ШВИДКИЙ пошук сервера 2010 (для SharePoint, для веб-сайтів SharePoint)
+  description: ШВИДКИЙ пошук сервера 2010 (для SharePoint, для веб-сайтів SharePoint) відповідає фіксованою політикою життєвого циклу.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 2a2c66a5a5e5b2ffc3fbbf82d4a96803e06ee2e5
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: uk-UA
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "845881"
+name: ШВИДКИЙ пошук сервера 2010 (для SharePoint, для веб-сайтів SharePoint)
+summary: >+
+  ШВИДКИЙ пошук сервера 2010 (для SharePoint, для веб-сайтів SharePoint) відповідає [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+
+
+  Це стосується такі випуски: для SharePoint, для SharePoint інтернет-сайтів
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 06/16/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Service Pack 2
+  startDate: 07/23/2013
+  endDate: 10/13/2020
+- version: Service Pack 1
+  startDate: 06/24/2011
+  endDate: 07/23/2014
+- version: Original Release
+  startDate: 06/16/2010
+  endDate: 07/10/2012
+content: "\n## <a name=\"links\"></a>Посилання \n* [Міграційне керівництво](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)\n* [Політика пакета оновлень](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Виключає версії, які раніше не підтримувалися. Підтримка цього продукту регулюється умовами його придбання.\n\n## <a name=\"editions\"></a>Видання \n* для SharePoint\n* для SharePoint інтернет-сайтів"
