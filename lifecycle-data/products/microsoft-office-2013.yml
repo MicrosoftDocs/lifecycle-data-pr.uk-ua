@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office 2013
+  description: Microsoft Office 2013 відповідає фіксованою політикою життєвого циклу.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 57eeaf9939d11f53914fef0e92795621dfb9db44
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: uk-UA
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "865813"
+name: Microsoft Office 2013
+summary: >+
+  Microsoft Office 2013 відповідає [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+
+
+  Це відноситься до наступних видань: вдома і в бізнесі, вдома і в студентському, професійні, професійні Plus, професійні плюс домашнього використання програми, стандартні, веб-додатки сервера
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/09/2013
+  end: 04/10/2018
+  extendedEnd: 04/11/2023
+releases:
+- version: Service Pack 1
+  startDate: 02/25/2014
+  endDate: 04/11/2023
+- version: Original Release
+  startDate: 01/09/2013
+  endDate: 04/14/2015
+content: "\n## <a name=\"links\"></a>Посилання \n* [Міграційне керівництво](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Політика пакета оновлень](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Пакет оновлень 1 не застосовується до веб-застосунки Server Edition. \n\n## <a name=\"editions\"></a>Видання \n* Дому та бізнесу\n* Дому та навчання\n* Професійних\n* Професійний плюс\n* Професійна плюс Головна програма використання\n* Стандартний\n* Веб-застосунки Server"

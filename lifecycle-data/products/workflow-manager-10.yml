@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Робочий цикл Диспетчер 1,0
+  description: Робочий цикл Manager 1,0, слід фіксована політика життєвого циклу.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 36a97aaf2df469316f169e8cb1582ce8efbae7ed
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: uk-UA
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "865656"
+name: Робочий цикл Диспетчер 1,0
+summary: >+
+  Робочий цикл Manager 1,0, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+
+
+  Це стосується такі випуски: клієнт
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 10/18/2012
+  end: 01/09/2018
+  extendedEnd: 01/10/2023
+releases:
+- version: Original Release
+  startDate: 10/18/2012
+  endDate: 01/10/2023
+content: "\n## <a name=\"links\"></a>Посилання \n* [Відомості про обслуговування SharePoint 2016](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [Відомості про обслуговування SharePoint 2013](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Коли робочий цикл Manager є компонентом SharePoint Server 2016 або SharePoint Server 2013, він буде підтримуватися відповідно до кінця підтримки дати відповідної версії SharePoint Server.\n\n## <a name=\"editions\"></a>Видання \n* Client"
