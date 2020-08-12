@@ -1,30 +1,31 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Analytics
-  description: Windows Analytics відповідає сучасній політиці життєвого циклу.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 4e35970134232ac66d6cae3e03ce5f0dcb3ceb0b
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  description: Аналітики Windows наслідує сучасну політику життєвого циклу.
+  ms.date: 08/11/2020
+  ms.openlocfilehash: 01c42583edc132faefab6ccf17e3f25cd6e2ce9b
+  ms.sourcegitcommit: d4ec29fd0c57053cfa2254d1bb08c610bb5e6817
   ms.translationtype: MT
   ms.contentlocale: uk-UA
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "873045"
+  ms.lasthandoff: 08/11/2020
+  ms.locfileid: "887877"
 name: Windows Analytics
 summary: >
-  Windows Analytics відповідає [сучасній](/lifecycle/policies/modern) політиці життєвого циклу.
+  Аналітики Windows наслідує [сучасну](/lifecycle/policies/modern) політику життєвого циклу.
 
 
 
   > [!IMPORTANT]
 
-  > Підтримку завершено. Перегляньте інструкції з міграції, наведені нижче.
+  > Підтримка завершилася. Перегляньте інструкції з перенесення нижче.
 products:
 - windows
 policyType: modern-on-prem
 supportDates:
   start: 03/02/2017
+  end: 01/31/2020
 releases:
 - version: Original Release
   startDate: 03/02/2017
   endDate: 01/31/2020
-content: "\n## <a name=\"links\"></a>Посилання \n* [Міграційне керівництво](https://techcommunity.microsoft.com/t5/Desktop-Analytics-Blog/Migrate-user-input-data-from-Windows-Analytics-Upgrade-Readiness/ba-p/841744#M15)"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Посібник із перенесення](https://techcommunity.microsoft.com/t5/Desktop-Analytics-Blog/Migrate-user-input-data-from-Windows-Analytics-Upgrade-Readiness/ba-p/841744#M15)"
