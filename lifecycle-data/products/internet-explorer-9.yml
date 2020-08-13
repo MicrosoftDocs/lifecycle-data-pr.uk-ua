@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Internet Explorer 9
-  description: У браузері Internet Explorer 9 зазначено політику життєвого циклу компонентів.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 595ea8f1727166a645aa139d28dc093b4b6f2b41
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Браузер Internet Explorer 9 відповідає політиці життєвого циклу компонентів.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 56f6d95703597d63faee14b9b135d0d6611e80c8
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: uk-UA
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "865519"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893631"
 name: Internet Explorer 9
 summary: >+
-  У браузері Internet Explorer 9 зазначено політику життєвого циклу [компонентів](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Браузер Internet Explorer 9 відповідає політиці життєвого циклу [компонентів](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 03/15/2011
-content: "\n## <a name=\"links\"></a>Посилання \n* [Міграційне керівництво](https://www.microsoft.com/itpro/microsoft-edge)\n* [Поширені запитання про політику життєвого циклу браузера Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Починаючи з 12 січня 2016, для підтримуваної операційної системи буде отримано лише поточну версію Internet Explorer, яка підтримує технічну підтримку та оновлення системи безпеки."
+content: "\n## <a name=\"links\"></a>Посилання \n* [Посібник із перенесення](https://www.microsoft.com/itpro/microsoft-edge)\n* [Запитання й відповіді політики життєвого циклу в Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Починаючи з 12 січня 2016 р., лише Найновіша версія браузера Internet Explorer, доступна для підтримуваної операційної системи, отримає технічну підтримку та оновлення системи безпеки."

@@ -1,28 +1,29 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Forefront Security для Exchange Server
-  description: Forefront Security для Exchange Server, слід фіксована політика життєвого циклу.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0c3d1542acc20b211ef41984c07656ca0f74be61
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Forefront Security для сервера Exchange
+  description: Forefront Security для Exchange Server відповідає політиці фіксованого життєвого циклу.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 0053b2aaf2be3d4c6ecbc29a6396bade882e16dc
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: uk-UA
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "845873"
-name: Forefront Security для Exchange Server
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893742"
+name: Forefront Security для сервера Exchange
 summary: >
-  Forefront Security для Exchange Server, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  Forefront Security для Exchange Server відповідає політиці [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
 
 
   > [!IMPORTANT]
 
-  > Змінився план безпеки продуктів під брендом Forefront. Цей виріб припинено станом на 31 грудня 2015.
+  > У розділі "Forefront" змінився план для продуктів безпеки. Цей продукт припинено за станом на 31 грудня 2015.
 products:
 - windows
 policyType: fixed
 supportDates:
   start: 03/08/2007
+  end: 12/31/2015
   extendedEnd: 12/31/2015
 releases:
 - version: Service Pack 2
@@ -34,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 03/08/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Посилання \n* [Міграційне керівництво](https://www.microsoft.com/security/business/explore/cybersecurity)"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Посібник із перенесення](https://www.microsoft.com/security/business/explore/cybersecurity)"
