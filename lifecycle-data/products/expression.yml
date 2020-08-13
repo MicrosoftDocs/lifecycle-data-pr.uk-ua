@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Вираз
-  description: Вираз слідує за фіксованою політикою життєвого циклу.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: ee3c7cfc6f62fb00775e13137084c8e509ac5d8c
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  description: Вираз відповідає Закріпаній політиці життєвого циклу.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: c81accb05bdbd957a699685c83074735956a009e
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: uk-UA
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "867387"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893409"
 name: Вираз
-summary: "Вираз слідує за [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.\n\nЦе стосується таких випусків: суміш, дизайн, кодер, студія\n\n> [!IMPORTANT]\n> Підтримка цього продукту закінчилася. \n"
+summary: "Вираз відповідає [Закріпаній](/lifecycle/policies/fixed) політиці життєвого циклу.\n\nЦе стосується таких випусків: суміш, конструктор, кодувальник, студія\n\n> [!IMPORTANT]\n> Підтримка цього продукту завершилася. \n"
 products:
 - expression
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 07/27/2007
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Дата початку для поєднання виразів становить 13 липня 2007. \n\n## <a name=\"editions\"></a>Видання \n* Суміш\n* Дизайн\n* Кодувальник\n* Студії"
+content: "\n\n> [!NOTE]\n> Дата початку для переходу між виразом – 13 липня 2007. \n\n## <a name=\"editions\"></a>Видання \n* Суміш\n* Конструктор\n* Encoder\n* Studio"
