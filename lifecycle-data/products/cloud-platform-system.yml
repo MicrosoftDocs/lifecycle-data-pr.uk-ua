@@ -1,18 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Хмарна платформна система
-  description: Хмарна платформна система дотримується фіксованої політики життєвого циклу.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 931caf3fc06338dfa6ec97f0a7bc079c9be6a4a9
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: Система хмарних платформ
+  description: Система хмарних платформ відповідає політиці фіксованого життєвого циклу.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 132fd3832cd1d0927fe7ce6af7eb8e0a21e8d308
+  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
   ms.translationtype: MT
   ms.contentlocale: uk-UA
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "865645"
-name: Хмарна платформна система
+  ms.lasthandoff: 08/12/2020
+  ms.locfileid: "891901"
+name: Система хмарних платформ
 summary: >+
-  Хмарна платформна система дотримується [фіксованої](/lifecycle/policies/fixed) політики життєвого циклу.
+  Система хмарних платформ відповідає політиці [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
+
+  Це стосується таких випусків: Standard (стандартна)
 
 products:
 - azure
@@ -25,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> Підтримка системи хмарних платформ розширена, як показано для того, щоб забезпечити всіх клієнтів стандартним хронологію життєвого циклу переходу.\n> [!NOTE]\n> Хмарна платформа система стандарт запущена 18 вересня 2017."
+content: "\n\n> [!NOTE]\n> Система підтримки хмарних платформ розширюється, як показано, щоб надати всім клієнтам стандартну часову шкалу переходу життєвого циклу.\n> [!NOTE]\n> Система Cloud Platform Standard, запущена 18 вересня 2017 р.\n\n## <a name=\"editions\"></a>Видання \n* Стандартний"
