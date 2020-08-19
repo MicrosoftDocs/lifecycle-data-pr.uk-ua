@@ -1,27 +1,27 @@
 ---
 title: Експорт даних життєвого циклу
 description: Експорт відомостей про життєвий цикл продуктів
-ms.date: 08/18/2020
-ms.openlocfilehash: 80145edf59e6406d32292d846ae3f263cddd294a
-ms.sourcegitcommit: 6bed901441570ef084842edd1b7e5dfbc192c99a
+ms.date: 08/19/2020
+ms.openlocfilehash: d116baffd1a01f45fafeb184fddda1a0736e694a
+ms.sourcegitcommit: 7058ee1673709d6dd4bed24f043690e0da2c6bb4
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "902424"
+ms.lasthandoff: 08/19/2020
+ms.locfileid: "902657"
 ---
-# <a name="lifecycle-data-export"></a><span data-ttu-id="f5caa-103">Експорт даних життєвого циклу</span><span class="sxs-lookup"><span data-stu-id="f5caa-103">Lifecycle data export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="ffb60-103">Експорт даних життєвого циклу</span><span class="sxs-lookup"><span data-stu-id="ffb60-103">Lifecycle data export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="f5caa-104">Ця сторінка знаходиться в стадії розробки.</span><span class="sxs-lookup"><span data-stu-id="f5caa-104">This page is under development.</span></span>
+> <span data-ttu-id="ffb60-104">Ця сторінка знаходиться в стадії розробки.</span><span class="sxs-lookup"><span data-stu-id="ffb60-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="f5caa-105">Експорт усіх продуктів</span><span class="sxs-lookup"><span data-stu-id="f5caa-105">Export all products</span></span>
-<span data-ttu-id="f5caa-106">Експортувати дані життєвого циклу для всіх продуктів, клацнувши нижче:</span><span class="sxs-lookup"><span data-stu-id="f5caa-106">Export lifecycle data for all products by clicking below:</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="ffb60-105">Експорт усіх продуктів</span><span class="sxs-lookup"><span data-stu-id="ffb60-105">Export all products</span></span>
+<span data-ttu-id="ffb60-106">Експортувати дані життєвого циклу для всіх продуктів, клацнувши нижче:</span><span class="sxs-lookup"><span data-stu-id="ffb60-106">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="f5caa-107">Експорт усіх продуктів</span><span class="sxs-lookup"><span data-stu-id="f5caa-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="ffb60-107">Експорт усіх продуктів</span><span class="sxs-lookup"><span data-stu-id="ffb60-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a><span data-ttu-id="f5caa-108">Експорт продуктів за допомогою родини та груп</span><span class="sxs-lookup"><span data-stu-id="f5caa-108">Export products by Family and Group</span></span>
-<span data-ttu-id="f5caa-109">Виберіть родину, а потім – групу, яку потрібно експортувати.</span><span class="sxs-lookup"><span data-stu-id="f5caa-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="f5caa-110">Примітка: експорт почнеться, коли вибрано значення групування.</span><span class="sxs-lookup"><span data-stu-id="f5caa-110">Note: Export will begin when Group value is selected.</span></span> 
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="ffb60-108">Експорт продуктів за допомогою родини та груп</span><span class="sxs-lookup"><span data-stu-id="ffb60-108">Export products by Family and Group</span></span>
+<span data-ttu-id="ffb60-109">Виберіть родину, а потім – групу, яку потрібно експортувати.</span><span class="sxs-lookup"><span data-stu-id="ffb60-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="ffb60-110">Примітка: експорт почнеться, коли вибрано значення групування.</span><span class="sxs-lookup"><span data-stu-id="ffb60-110">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="Сім'ї" title2="Група"]
 > - [(.NET | Всі](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ ms.locfileid: "902424"
 > - [(Windows | Безпеки](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="f5caa-168">Експорт продуктів за кінець дати підтримки</span><span class="sxs-lookup"><span data-stu-id="f5caa-168">Export products by end of support date</span></span>
-<span data-ttu-id="f5caa-169">Виберіть рік, щоб переглянути продукти, які досягнуть кінця підтримки.</span><span class="sxs-lookup"><span data-stu-id="f5caa-169">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="f5caa-170">Примітка: експорт почнеться, коли вибрано значення рік.</span><span class="sxs-lookup"><span data-stu-id="f5caa-170">Note: Export will begin when Year value is selected.</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="ffb60-168">Експорт продуктів за кінець дати підтримки</span><span class="sxs-lookup"><span data-stu-id="ffb60-168">Export products by end of support date</span></span>
+<span data-ttu-id="ffb60-169">Виберіть рік, щоб переглянути продукти, які досягнуть кінця підтримки.</span><span class="sxs-lookup"><span data-stu-id="ffb60-169">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="ffb60-170">Примітка: експорт почнеться, коли вибрано значення рік.</span><span class="sxs-lookup"><span data-stu-id="ffb60-170">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))

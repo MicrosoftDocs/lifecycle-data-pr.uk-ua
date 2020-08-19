@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Media Encoder 9 Series
+  description: У Windows Media Encoder 9 Series слід виконати політику фіксованого життєвого циклу.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 155a9a5c7b4177f6c51651324a6f5cff219d6069
+  ms.sourcegitcommit: 7058ee1673709d6dd4bed24f043690e0da2c6bb4
+  ms.translationtype: MT
+  ms.contentlocale: uk-UA
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "902940"
+name: Windows Media Encoder 9 Series
+summary: >+
+  У Windows Media Encoder 9 Series слід виконати політику [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
+
+
+  Це стосується таких випусків: 64 bit, Standard
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/15/2002
+  end: 01/12/2010
+  extendedEnd: 01/13/2015
+releases:
+- version: Original Release
+  startDate: 11/15/2002
+  endDate: 01/13/2015
+content: "\n\n> [!NOTE]\n> Випущено 15 вересня 2005 у версії 9 серій x64 для Windows Media.\n\n## <a name=\"editions\"></a>Видання \n* 64 біт\n* Стандартний"
