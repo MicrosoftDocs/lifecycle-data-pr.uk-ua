@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio Team Foundation Server 2013
-  description: Visual Studio Team Foundation Server 2013, слід фіксована політика життєвого циклу.
+  description: Visual Studio Team Foundation Server 2013 керується фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: b24e1b9ebaf9855024973bfa2ff6b7d90e3af408
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865748"
 name: Visual Studio Team Foundation Server 2013
 summary: >+
-  Visual Studio Team Foundation Server 2013, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  Visual Studio Team Foundation Server 2013 керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
-  Це стосується таких випусків: усі, керування випуском
+  Це стосується наступних випусків: Всі, Release Management
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 10/11/2016
-content: "\n## <a name=\"links\"></a>Посилання \n* [Інформація про виріб](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [Обслуговування інформації](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Політика пакета оновлень](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Для сервера керування випуском для TFS 2013, оновлення 4 буде підтримуватись відповідно до правил політики, до 4/9/2024.\n\n## <a name=\"editions\"></a>Видання \n* Всі\n* Керування випуском"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Інформація про продукт](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [Службова інформація](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Політика підтримки пакетів оновлень](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Підтримка оновлення 4 для Release Management Server для TFS 2013 буде здійснюватись до 04.09.2024 відповідно до політики.\n\n## <a name=\"editions\"></a>Версії \n* Всі\n* Release Management"

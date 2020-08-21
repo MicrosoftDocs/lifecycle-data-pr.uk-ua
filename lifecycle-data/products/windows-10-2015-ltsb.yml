@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 2015 LTSB
-  description: Windows 10 2015 LTSB відповідає фіксованою політикою життєвого циклу.
+  description: Windows 10 2015 LTSB керується фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 191d7db0755e317ae2faadd116b46046b90cd071
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865775"
 name: Windows 10 2015 LTSB
 summary: >+
-  Windows 10 2015 LTSB відповідає [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  Windows 10 2015 LTSB керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
-  Це стосується таких випусків: Enterprise
+  Це стосується наступних випусків: Enterprise
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/29/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Посилання \n* [Windows як послуга (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Поширені запитання про Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Оновлення Windows 10 жовтня (версія 1809) повторний випуск](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n\n\n## <a name=\"editions\"></a>Видання \n* Підприємство"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Windows як послуга (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Запитання й відповіді про Windows 10 LTSC:](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Повторний випуск жовтневого оновлення Windows 10 (версія 1809)](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n\n\n## <a name=\"editions\"></a>Версії \n* Enterprise\n\n"

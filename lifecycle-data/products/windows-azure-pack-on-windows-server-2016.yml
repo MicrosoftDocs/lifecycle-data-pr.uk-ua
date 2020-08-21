@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Azure пакет (на Windows Server 2016)
-  description: Windows Azure оновлень (на Windows Server 2016) відповідає фіксованою політикою життєвого циклу.
+  title: Windows Azure Pack (на Windows Server 2016)
+  description: Windows Azure Pack (на Windows Server 2016) керується фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: a3bc7138c47161efae20613f28d27e015d290e41
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865399"
-name: Windows Azure пакет (на Windows Server 2016)
+name: Windows Azure Pack (на Windows Server 2016)
 summary: >+
-  Windows Azure оновлень (на Windows Server 2016) відповідає [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  Windows Azure Pack (на Windows Server 2016) керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/12/2016
   endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>Посилання \n* [Більш детальну інформацію](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n> [!NOTE]\n> Windows Azure оновлень для Windows Server-це Гібридна хмара рішення, яке приносить Windows Azure технології до вашого центру обробки даних. Це дозволяє клієнтам Microsoft пропонувати багаті, самообслуговування, Multi-клієнта хмара на обладнання вашого центру обробки даних без додаткових витрат."
+content: "\n## <a name=\"links\"></a>Посилання \n* [Додаткові відомості](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n> [!NOTE]\n> Windows Azure Pack для Windows Server — це гібридне хмарне рішення, яке робить технології Windows Azure доступними для вашого центру обробки даних. З його допомогою клієнти Microsoft можуть пропонувати багатокористувацьку хмарну послугу з самообслуговуванням на обладнанні свого центру обробки даних без додаткових витрат."

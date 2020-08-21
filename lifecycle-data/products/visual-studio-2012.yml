@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2012
-  description: Visual Studio 2012, слід фіксована політика життєвого циклу.
+  description: Visual Studio 2012 керується фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 31d437b362fc9cdf06165caca18202e49cd7624b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865569"
 name: Visual Studio 2012
 summary: >+
-  Visual Studio 2012, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  Visual Studio 2012 керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
-  Це відноситься до наступних видань: агенти, спільнота 2013, Express для Інтернету, Express для Windows, 8, Express для Windows Desktop, відлагоджувача колекціонера, Microsoft Azure інструменти, Premium, професійні, віддалений інструменти, Shell (інтегровані), Shell (ізольований), SQL Server Data Tools, команда Explorer, тест Professional 2013, Ultimate, Visual C++ вторинного розповсюдження, веб-інструменти розширень
+  Це стосується наступних випусків: Агенти, Community 2013, Express для Web, Express для Windows 8, Express для Windows Desktop, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Remote Tools, Shell (Integrated), Shell (Isolated), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ ++ вторинного розповсюдження, Web Tools Extensions
 
 products:
 - vs
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Посилання \n* [Життєвий цикл продукту та обслуговування Visual Studio](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Видання \n* Агентів\n* Спільнота 2013\n* Експрес для веб-\n* Express для ОС Windows 8\n* Експрес для робочого стола Windows\n* Відлагоджувача колектора\n* Microsoft Azure засоби\n* Преміум\n* Професійних\n* Віддалених інструментів\n* Оболонка (інтегрована)\n* Оболонка (ізольована)\n* Засоби даних SQL Server\n* Провідник команд\n* Тест професійний 2013\n* Кінцева\n* Пакет вторинного розповсюдження Visual C++\n* Розширення веб-інструментів"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Життєвий цикл продукту та обслуговування Visual Studio](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Версії \n* Агенти\n* Community 2013\n* Express для Web\n* Express для Windows 8\n* Express для Windows Desktop\n* IntelliTrace Collector\n* Інструменти Microsoft Azure\n* Premium\n* Professional\n* Remote Tools\n* Shell (Integrated)\n* Shell (Isolated)\n* SQL Server Data Tools\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ вторинного розповсюдження\n* Web Tools Extensions"
