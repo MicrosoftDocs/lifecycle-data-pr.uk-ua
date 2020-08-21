@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2015
-  description: Visual Studio 2015, слід фіксована політика життєвого циклу.
+  description: Visual Studio 2015 керується фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4300bd472c7f836c9d93e7f7e3da2005da410bac
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865617"
 name: Visual Studio 2015
 summary: >+
-  Visual Studio 2015, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  Visual Studio 2015 керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
-  Це відноситься до наступних видань: агенти, спільнота, підприємство, Експрес для Інтернету, Експрес для Windows 10, Express для Windows Desktop, моделювання SDK, Professional, управління випуском, віддалений інструменти, SDK, Shell (інтегрований), Shell (ізольований), тест Professional, вторинного розповсюдження Visual C++
+  Це стосується наступних випусків: Агенти, Community, Enterprise, Express для Web, Express для Windows 10, Express для Windows Desktop, Modeling SDK, Professional, Release Management, Remote Tools, SDK, Shell (Integrated), Shell (Isolated), Test Professional, Visual C++ вторинного розповсюдження
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Посилання \n* [Обслуговування інформації](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Видання \n* Агентів\n* Спільноти\n* Підприємство\n* Експрес для веб-\n* Express для Windows 10\n* Експрес для робочого стола Windows\n* Моделюючий SDK\n* Професійних\n* Керування випуском\n* Віддалених інструментів\n* Sdk\n* Оболонка (інтегрована)\n* Оболонка (ізольована)\n* Тест професійний\n* Пакет вторинного розповсюдження Visual C++"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Службова інформація](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Версії \n* Агенти\n* Community\n* Enterprise\n* Express для Web\n* Express для Windows 10\n* Express для Windows Desktop\n* Modeling SDK\n* Professional\n* Release Management\n* Remote Tools\n* SDK\n* Shell (Integrated)\n* Shell (Isolated)\n* Test Professional\n* Visual C++ вторинного розповсюдження\n\n"

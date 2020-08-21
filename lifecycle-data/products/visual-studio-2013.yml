@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2013
-  description: Visual Studio 2013, слід фіксована політика життєвого циклу.
+  description: Visual Studio 2013 керується фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: b94d9b3d87ff3c971739be3ca2ebbb2446764e1b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865839"
 name: Visual Studio 2013
 summary: >+
-  Visual Studio 2013, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  Visual Studio 2013 керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
-  Це відноситься до наступних видань: агенти, все, спільнота, висловити для Інтернету, Express для Windows, Express для Windows Desktop, відлагоджувача колекціонера, моделювання SDK, Мультибайтовий бібліотека ДСП, Premium, Professional, управління випуском, віддалений інструменти, SDK, Shell (інтегровані), Shell (ізольований), Team Explorer, тест Professional, Ultimate, Visual C++ вторинного розповсюдження, веб-інструменти розширень
+  Це стосується наступних випусків: Агенти, всі, Community, Express для вебзастосунків, Express для Windows, Express для настільних ПК під управлінням Windows, IntelliTrace Collector, Modeling SDK, Multibyte MFC Library, Premium, Professional, Release Management, Remote Tools, SDK, Shell (Integrated), Shell (Isolated), Team Explorer, Test Professional, Ultimate, Visual C++ вторинного розповсюдження, Web Tools Extensions
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n## <a name=\"links\"></a>Посилання \n* [Обслуговування інформації](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Видання \n* Агентів\n* Всі\n* Спільноти\n* Експрес для веб-\n* Express для Windows\n* Експрес для робочого стола Windows\n* Відлагоджувача колектора\n* Моделюючий SDK\n* Багатобайтовий бібліотека ЛДСП\n* Преміум\n* Професійних\n* Керування випуском\n* Віддалених інструментів\n* Sdk\n* Оболонка (інтегрована)\n* Оболонка (ізольована)\n* Провідник команд\n* Тест професійний\n* Кінцева\n* Пакет вторинного розповсюдження Visual C++\n* Розширення веб-інструментів"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Службова інформація](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Версії \n* Агенти\n* Всі\n* Community\n* Express для Web\n* Express для Windows\n* Express для Windows Desktop\n* IntelliTrace Collector\n* Modeling SDK\n* Multibyte MFC Library\n* Premium\n* Professional\n* Release Management\n* Remote Tools\n* SDK\n* Shell (Integrated)\n* Shell (Isolated)\n* Team Explorer\n* Test Professional\n* Ultimate\n* Visual C++ вторинного розповсюдження\n* Web Tools Extensions"

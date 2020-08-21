@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 IoT Enterprise
-  description: Windows 10 IoT Enterprise відповідає сучасній політиці життєвого циклу.
+  description: Windows 10 IoT Enterprise керується сучасною політикою життєвого циклу.
   ms.date: 07/30/2020
   ms.openlocfilehash: 159055d404da77afef0694120dc1c2faf04a22e3
   ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "879101"
 name: Windows 10 IoT Enterprise
 summary: >
-  Windows 10 IoT Enterprise відповідає [сучасній](/lifecycle/policies/modern) політиці життєвого циклу.
+  Windows 10 IoT Enterprise керується [сучасною](/lifecycle/policies/modern) політикою життєвого циклу.
 
 
 
   > [!IMPORTANT]
 
-  > Корпорація Майкрософт продовжуватиме підтримку принаймні одного піврічного каналу Windows 10 до 14 жовтня 2025 року.
+  > Корпорація Майкрософт продовжуватиме підтримку принаймні одного щопіврічного каналу оновлення Windows 10 до 14 жовтня 2025 року.
 products:
 - windows
 policyType: modern-on-prem
@@ -55,4 +55,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Посилання \n* [Огляд Windows 10 IoT Enterprise](/windows/iot-core/windows-iot-enterprise)\n* [Факти про життєвий цикл Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows як послуга (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Поширені питання життєвого циклу-продукти Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Якщо не відкладено, подальші оновлення функції каналу для Windows 10 на піврічних можна інсталювати до дати завершення базової підтримки."
+content: "\n## <a name=\"links\"></a>Посилання \n* [Огляд Windows 10 IoT Enterprise](/windows/iot-core/windows-iot-enterprise)\n* [Факти про життєві цикли Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows як послуга (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Поширені питання життєвого циклу: продукти Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Якщо не вказано інше, наступні оновлення функції щопіврічного каналу оновлення для Windows 10 можна інсталювати до зазначеної дати завершення базової підтримки.\n\n\n"

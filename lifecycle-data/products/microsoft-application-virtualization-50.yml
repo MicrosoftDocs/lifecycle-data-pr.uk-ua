@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application віртуалізації 5,0
-  description: Microsoft Application віртуалізації 5,0 слід фіксована політика життєвого циклу.
+  title: Microsoft Application Virtualization 5.0
+  description: Microsoft Application Virtualization 5.0 керується фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 537410789f17e2ca2d9308c1814f22f823288b32
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865516"
-name: Microsoft Application віртуалізації 5,0
+name: Microsoft Application Virtualization 5.0
 summary: >+
-  Microsoft Application віртуалізації 5,0 слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  Microsoft Application віртуалізації 5.0 керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
-  Це стосується таких випусків: для служб віддалених робочих столів, служби терміналів, для настільних ПК Windows
+  Це стосується таких випусків: служби віддалених робочих столів, служби терміналів, Windows для настільних ПК
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Посилання \n* [Інформація про виріб](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Політика пакета оновлень](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Видання \n* для служб віддалених робочих столів\n* для служб терміналів\n* для настільних комп'ютерів Windows"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Інформація про продукт](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Політика пакетів оновлень](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Версії \n* для служб віддалених робочих столів\n* для служб терміналів\n* для Windows дл настільних ПК"

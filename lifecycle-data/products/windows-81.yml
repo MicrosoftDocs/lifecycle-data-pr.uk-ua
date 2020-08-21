@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 8,1
-  description: Windows 8,1 дотримується фіксованої політики життєвого циклу.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: f9a4bcbbb6bfcd3a4ddd5445f78d459baba2c3e2
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: У Windows 8,1 слід виконати політику фіксованого життєвого циклу.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 42fc7e148a73c5583047b7bed3862484dea56340
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: MT
   ms.contentlocale: uk-UA
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "865611"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906678"
 name: Windows 8,1
 summary: >+
-  Windows 8,1 дотримується [фіксованої](/lifecycle/policies/fixed) політики життєвого циклу.
+  У Windows 8,1 слід виконати політику [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
 
-  Це стосується такі випуски: підприємство, підприємство N, N, Pro з медіацентром, професійна, професійна N
+  Це стосується таких випусків: Enterprise, Enterprise N, N, Pro з медіацентром, Professional, Professional N, SL
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2013
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Посилання \n* [Поширені питання життєвого циклу-продукти Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Видання \n* Підприємство\n* Enterprise N\n* Н\n* Pro з медіацентром\n* Професійних\n* Професійна N"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Запитання й відповіді про життєвий цикл: продукти Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Видання \n* Підприємств\n* Enterprise N\n* N\n* Pro із медіацентром\n* Professional\n* Професійний N\n* SL"

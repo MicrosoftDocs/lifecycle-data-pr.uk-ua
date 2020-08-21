@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Embedded POSReady 7
-  description: Windows Embedded POSReady 7 відповідає фіксованою політикою життєвого циклу.
+  description: Windows Embedded POSReady 7 керується фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 61f2ed95175d81f6e33f8435e70b3b45a01094f5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865739"
 name: Windows Embedded POSReady 7
 summary: >+
-  Windows Embedded POSReady 7 відповідає [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  Windows Embedded POSReady 7 керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 09/10/2011
   endDate: 10/12/2021
-content: "\n## <a name=\"links\"></a>Посилання \n* [* Розширена програма оновлення безпеки (ESU)-розширена оновлення безпеки для вибору вбудованих продуктів доступні за допомогою ПОТ.](/lifecycle/faq/extended-security-updates)\n* [Вбудований режим Windows IoT](/windows/iot-core/develop-your-app/embeddedmode)"
+content: "\n## <a name=\"links\"></a>Посилання \n* [* Програма розширених оновлень системи безпеки (ESU): розширені оновлення безпеки для вибраних вбудованих продуктів доступні у виробника оригінального обладнання.](/lifecycle/faq/extended-security-updates)\n* [Вбудований режим Windows IoT](/windows/iot-core/develop-your-app/embeddedmode)"

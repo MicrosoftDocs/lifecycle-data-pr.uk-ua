@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center 2012 R2 кінцевої точки захист
-  description: Система Microsoft System Center 2012 R2 кінцевої точки захисту, слід фіксована політика життєвого циклу.
+  title: Microsoft System Center 2012 R2 Endpoint Protection
+  description: Microsoft System Center 2012 R2 Endpoint Protection керується фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8e3f5935bc3b59d2a18a967b2bb5001c0ce01c1d
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865462"
-name: Microsoft System Center 2012 R2 кінцевої точки захист
+name: Microsoft System Center 2012 R2 Endpoint Protection
 summary: >+
-  Система Microsoft System Center 2012 R2 кінцевої точки захисту, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  Microsoft System Center 2012 R2 Endpoint Protection керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/16/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>Посилання \n* [Обслуговування інформації](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [Міграційне керівництво](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Політика пакета оновлень](/lifecycle/policies/fixed#service-packs)\n* [Документація диспетчера кінцевої точки Microsoft](/mem/)\n\n> [!NOTE]\n> Клієнти повинні залишатися в курсі останніх оновлення платформи захисту від зловмисних програм, щоб повністю підтримується."
+content: "\n## <a name=\"links\"></a>Посилання \n* [Службова інформація](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [Вказівки щодо міграції](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Політика пакетів оновлень](/lifecycle/policies/fixed#service-packs)\n* [Документація Microsoft Endpoint Manager](/mem/)\n\n> [!NOTE]\n> Клієнти повинні встановлювати останні оновлення платформи захисту від зловмисних програм, щоб отримувати повну підтримку."

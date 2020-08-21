@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 IoT Core Services
-  description: Служби Windows 10 IoT Core наслідує сучасну політику життєвого циклу.
+  title: Служби Windows 10 IoT Core
+  description: Служби Windows 10 IoT Core керуються сучасною політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: e2e64958c91092f2890a4d871de3fd7b96614d65
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "873049"
-name: Windows 10 IoT Core Services
+name: Служби Windows 10 IoT Core
 summary: >+
-  Служби Windows 10 IoT Core наслідує [сучасну](/lifecycle/policies/modern) політику життєвого циклу.
+  Служби Windows 10 IoT Core керуються [сучасною](/lifecycle/policies/modern) політикою життєвого циклу.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2018
-content: "\n## <a name=\"links\"></a>Посилання \n* [Windows 10 IoT Core Services](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> Windows 10 IoT Core Services – це підписка, яка пропонує підтримку програмного забезпечення як послугу, зокрема керування оновленням за допомогою центру оновлення пристроїв та покращення безпеки з урахуванням атестації справності пристрою, до тих пір, поки ви використовуєте підтримувану версію Windows 10 IoT Core Software."
+content: "\n## <a name=\"links\"></a>Посилання \n* [Служби Windows 10 IoT Core](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> Служби Windows 10 IoT Core – це підписка, яка пропонує підтримку програмного забезпечення як послугу, зокрема керування оновленням за допомогою центру оновлення пристроїв та покращення безпеки за допомогою атестації справності пристроїв протягом строку використання підтримуваної версії Windows 10 IoT Core Software."

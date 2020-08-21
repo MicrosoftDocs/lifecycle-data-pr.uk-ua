@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Служби оновлення Windows Server для Windows Server 2012
-  description: Служби оновлення Windows Server для Windows Server 2012, слід політики життєвого циклу компонентів.
+  title: Служби Windows Server Update Services для Windows Server 2012
+  description: Служби Windows Server Update Services для Windows Server 2012 керуються політикою життєвого циклу компонентів.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4c901f9ed6f882c8009f8c6ea1df3cf55ac81d7c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865735"
-name: Служби оновлення Windows Server для Windows Server 2012
+name: Служби Windows Server Update Services для Windows Server 2012
 summary: >+
-  Служби оновлення Windows Server для Windows Server 2012, слід політики життєвого циклу [компонентів](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Служби Windows Server Update Services для Windows Server 2012 керуються [політикою](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) життєвого циклу компонентів.
 
 
 products:
@@ -23,7 +23,11 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: >-
+content: >+
   > [!TIP]
 
-  > Цей компонент відповідає життєвого циклу батьківського продукту, Windows Server 2012.
+  > Даний компонент має життєвий цикл відповідно до свого батьківського продукту Windows Server 2012.
+
+
+
+

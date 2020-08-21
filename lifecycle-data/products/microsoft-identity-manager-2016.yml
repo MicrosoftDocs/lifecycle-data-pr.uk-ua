@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Диспетчер ідентифікації Microsoft 2016
-  description: Диспетчер ідентифікації Microsoft 2016 стежить за фіксованою політикою життєвого циклу.
+  title: Microsoft Identity Manager 2016
+  description: Диспетчер Microsoft Identity Manager 2016 керується фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 81b15d013b9c79646892295de5477fc3bd4b2dbc
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865497"
-name: Диспетчер ідентифікації Microsoft 2016
+name: Microsoft Identity Manager 2016
 summary: >+
-  Диспетчер ідентифікації Microsoft 2016 стежить за [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  Диспетчер Microsoft Identity Manager 2016 керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2015
   endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>Посилання \n* [Підтримка Azure AD інтеграції компонентів через кінець розширеної підтримки для диспетчера ідентифікації Microsoft 2016.](/microsoft-identity-manager/support-update-for-azure-active-directory-premium-customers)\n* [Плани підтримки Azure.](https://azure.microsoft.com/support/plans/)\n* [Політика пакета оновлень](/lifecycle/policies/fixed#service-packs)\n* [Інформація про виріб](/microsoft-identity-manager/microsoft-identity-manager-2016)"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Служба підтримки Azure доступна для компонентів служби інтеграції Azure AD до завершення терміну дії розширеної підтримки Microsoft Identity Manager 2016.](/microsoft-identity-manager/support-update-for-azure-active-directory-premium-customers)\n* [Плани підтримки Azure.](https://azure.microsoft.com/support/plans/)\n* [Політика пакетів оновлень](/lifecycle/policies/fixed#service-packs)\n* [Інформація про продукт](/microsoft-identity-manager/microsoft-identity-manager-2016)\n\n\n\n"
