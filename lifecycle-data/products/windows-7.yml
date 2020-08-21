@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows, 7
-  description: Windows 7 слідує за фіксованою політикою життєвого циклу.
+  title: Windows 7
+  description: Windows 7 керується фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: a1b1b370fe7d15abae83da62603b4522ea79a307
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845123"
-name: Windows, 7
-summary: "Windows 7 слідує за [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.\n\nЦе відноситься до наступних видань: підприємство, підприємство N, Головна базова, Home Premium, Home Premium N, професійні, професійні для вбудованих систем, професійні N, стартер, стартер N, Ultimate, Ultimate для вбудованих систем, Ultimate N\n\n> [!IMPORTANT]\n> Підтримка цього продукту закінчилася. Перегляньте інструкції з міграції, наведені нижче. \n"
+name: Windows 7
+summary: "Windows 7 керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.\n\nЦе стосується наступних випусків: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Professional for Embedded Systems, Professional N, Starter, Starter N, Ultimate, Ultimate for Embedded Systems, Ultimate N\n\n> [!IMPORTANT]\n> Підтримка цього продукту закінчилась. Перегляньте інструкції з міграції, наведені нижче. \n"
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2009
   endDate: 04/09/2013
-content: "> [!TIP]\n> ' * Розширені оновлення системи безпеки (ESU) доступні через певні програми корпоративного ліцензування для Windows 7 Professional, корпоративний і професійний для вбудованих випусків системи цього продукту, протягом останніх трьох років, що минули в кінці підтримки. Щоб дізнатися більше, зверніться до своєї команди партнера або облікового запису Microsoft. \n\n## <a name=\"links\"></a>Посилання \n* [Міграційне керівництво](https://support.microsoft.com/help/4057281)\n* [Оновлення з ОС Windows 7 до Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Розширена програма оновлення безпеки (ESU)](/lifecycle/faq/extended-security-updates)\n* [Політика пакета оновлень](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Видання \n* Підприємство\n* Enterprise N\n* Головна базова\n* Home Premium\n* Головна преміум N\n* Професійних\n* Професіонал для вбудованих систем\n* Професійна N\n* Стартер\n* Стартер п\n* Кінцева\n* Кінцева для вбудованих систем\n* Ultimate N"
+content: "> [!TIP]\n> '* Розширені оновлення системи безпеки (ESU) щодо таких випусків продукту: Windows 7 Professional, Enterprise та Professional for Embedded Systems – доступні через спеціальні програми корпоративного ліцензування впродовж максимум трьох років після завершення терміну надання підтримки. Щоб дізнатися більше, зв’яжіться зі своїм партнером або командою облікового запису Microsoft. \n\n## <a name=\"links\"></a>Посилання \n* [Вказівки щодо міграції](https://support.microsoft.com/help/4057281)\n* [Оновлення з Windows 7 до Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Програма розширеного оновлення безпеки (ESU)](/lifecycle/faq/extended-security-updates)\n* [Політика пакетів оновлень](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Версії \n* Enterprise\n* Enterprise N\n* Home Basic\n* Home Premium\n* Home Premium N\n* Professional\n* Professional for Embedded Systems\n* Professional N\n* Starter\n* Starter N\n* Ultimate\n* Ultimate for Embedded Systems\n* Ultimate N\n\n"

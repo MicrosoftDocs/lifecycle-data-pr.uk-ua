@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft .NET Framework 3,5
-  description: Microsoft .NET Framework 3,5, слід фіксована політика життєвого циклу.
+  title: Microsoft .NET Framework 3.5
+  description: Microsoft .NET Framework 3.5 керується фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: c5b5899c1b89f49d5795e0514b17c0385346a671
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846127"
-name: Microsoft .NET Framework 3,5
+name: Microsoft .NET Framework 3.5
 summary: >+
-  Microsoft .NET Framework 3,5, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  Microsoft .NET Framework 3.5 керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/19/2007
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Посилання \n* [Поширені питання про життєвий цикл-.NET Framework](/lifecycle/faq/dotnet-framework)\n* [Інформація про виріб](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-35)\n\n> [!NOTE]\n> Підтримка для .NET Framework 3. x версії до 3,5 SP1 закінчився 12 липня 2011. \n> [!NOTE]\n> Дати життєвого циклу застосовуються до .NET 3,5 SP1 під час роботи з Windows 10 версії 1809, Windows Server 2019 або пізнішої версії. У старих версіях Windows, .NET 3,5 SP1 приймає життєвий цикл базової ОС Windows."
+content: "\n## <a name=\"links\"></a>Посилання \n* [Поширені питання про життєвий цикл: .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Інформація про продукт](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-35)\n\n> [!NOTE]\n> Надання підтримки для версій .NET Framework 3.x, що передують версії 3.5 SP1, завершилося 12 липня 2011 року. \n> [!NOTE]\n> Дати життєвого циклу застосовуються до .NET 3.5 SP1 під час запуску на ОС Windows 10 (версія 1809), Windows Server 2019 або пізніших версіях. У разі використання ранніх версій ОС Windows до .NET 3.5 SP1 застосовується життєвий цикл вихідної версії ОС Windows. \n\n\n"

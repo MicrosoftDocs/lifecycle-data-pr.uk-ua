@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System центр захисту даних Диспетчер 2007
-  description: Microsoft System центр даних захист Диспетчер 2007 відповідає фіксована політика життєвого циклу.
+  title: Microsoft System Center Data Protection Manager 2007
+  description: Microsoft System Center Data Protection Manager 2007 керується фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: ca60c8ab7630e2ee264017a572243b9f68643607
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845708"
-name: Microsoft System центр захисту даних Диспетчер 2007
+name: Microsoft System Center Data Protection Manager 2007
 summary: >
-  Microsoft System центр даних захист Диспетчер 2007 відповідає [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  Microsoft System Center Data Protection Manager 2007 керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
 
   > [!IMPORTANT]
 
-  > Підтримка цього продукту закінчилася. Перегляньте інструкції з міграції, наведені нижче.
+  > Підтримка цього продукту закінчилась. Перегляньте інструкції з міграції, наведені нижче.
 products:
 - msc
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 12/15/2007
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Посилання \n* [Міграційне керівництво](https://blogs.technet.microsoft.com/dpm/2017/01/10/system-center-data-protection-manager-2007-end-of-support/)\n* [Політика пакета оновлень](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Вказівки щодо міграції](https://blogs.technet.microsoft.com/dpm/2017/01/10/system-center-data-protection-manager-2007-end-of-support/)\n* [Політика пакетів оновлень](/lifecycle/policies/fixed#service-packs)"

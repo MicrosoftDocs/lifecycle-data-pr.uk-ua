@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Project 2007
-  description: Microsoft Office Project 2007 відповідає фіксованою політикою життєвого циклу.
+  description: Microsoft Office Project 2007 керується фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 36bad214333805bfa18d06a194e9a5748a70baa1
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845745"
 name: Microsoft Office Project 2007
 summary: >+
-  Microsoft Office Project 2007 відповідає [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  Microsoft Office Project 2007 керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
-  Це стосується таких видань: професійна, стандартна
+  Це стосується наступних випусків: Professional, Standard
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Посилання \n* [Міграційне керівництво](/office/troubleshoot/support/office-2007-not-support)\n* [Політика пакета оновлень](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Видання \n* Професійних\n* Стандартний"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Вказівки щодо міграції](/office/troubleshoot/support/office-2007-not-support)\n* [Політика пакетів оновлень](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Версії \n* Professional\n* Standard"

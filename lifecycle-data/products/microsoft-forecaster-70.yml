@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Корпорація Майкрософт Синостер 7,0
-  description: Корпорація Майкрософт Прогнозистер 7,0 стежить за фіксованою політикою життєвого циклу.
+  title: Microsoft Forecaster 7.0
+  description: Microsoft Forecaster 7.0 керується фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: e9af608bbdf2d19517b58ebe46d545b09078be8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845767"
-name: Корпорація Майкрософт Синостер 7,0
+name: Microsoft Forecaster 7.0
 summary: >+
-  Корпорація Майкрософт Прогнозистер 7,0 стежить за [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  Microsoft Forecaster 7.0 керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
 products:
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Посилання \n* [Міграційне керівництво](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Політика пакета оновлень](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Підтримка з прогнозицією завершується на дату, якщо вона не розповсюджується як складова компонента Dynamics. Під час розповсюдження з продуктом Dynamics, термін дії життєвого циклу Dynamics скасовує дату Прогнозацією."
+content: "\n## <a name=\"links\"></a>Посилання \n* [Вказівки щодо міграції](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Політика пакетів оновлень](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Підтримка Forecaster завершується у вказаний день (не застосовується, якщо Forecaster розповсюджується як компонент продукту Dynamics). При розповсюдженні з продуктом Dynamics тривалість життєвого циклу Dynamics має перевагу над тривалістю життєвого циклу Forecaster."

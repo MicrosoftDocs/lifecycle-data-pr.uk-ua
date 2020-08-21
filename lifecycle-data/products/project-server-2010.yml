@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Project Server 2010
-  description: Project Server 2010 відповідає фіксованою політикою життєвого циклу.
+  description: Project Server 2010 керується фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6c04194a3d405101429475ce7fd4561743790151
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845148"
 name: Project Server 2010
 summary: >+
-  Project Server 2010 відповідає [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  Project Server 2010 керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Посилання \n* [Міграційне керівництво](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Розширення підтримки](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Project Server дорожньої карти](/office365/enterprise/project-server-2010-end-of-support)\n\n> [!NOTE]\n> Дата кінця підтримки цього продукту була розширена з 13 жовтня 2020 року по 13 квітня 2021."
+content: "\n## <a name=\"links\"></a>Посилання \n* [Вказівки щодо міграції](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Розширення підтримки](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Дорожня карта Project Server](/office365/enterprise/project-server-2010-end-of-support)\n\n> [!NOTE]\n> Дату завершення підтримки цього продукту було відкладено з 13 жовтня 2020 року до 13 квітня 2021 року.\n\n\n"

@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft SharePoint 2010 (для інтернет-сайтів)
-  description: Microsoft SharePoint 2010 (для інтернет-сайтів) відповідає фіксованою політикою життєвого циклу.
+  description: Microsoft SharePoint 2010 (для інтернет-сайтів) керується фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 91cbc237303d2c4f7f73f93be5375206006b7909
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845725"
 name: Microsoft SharePoint 2010 (для інтернет-сайтів)
-summary: >+
-  Microsoft SharePoint 2010 (для інтернет-сайтів) відповідає [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
-
-
-  Це стосується таких випусків: для інтернет-сайтів підприємства, для інтернет-сайтів Standard
-
+summary: "Microsoft SharePoint 2010 (для інтернет-сайтів) керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.\n\nЦе стосується таких випусків: Enterprise для інтернет-сайтів, Standard для інтернет-сайтів \n\n"
 products:
 - office
 policyType: fixed
@@ -27,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 06/15/2010
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>Посилання \n* [Документація продукту](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Документація розробника](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> Дата кінця підтримки цього продукту була розширена з 13 жовтня 2020 року по 13 квітня 2021.\n\n## <a name=\"editions\"></a>Видання \n* для підприємств інтернет-сайтів\n* для інтернет-сайтів Standard"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Документація продукту](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Документація розробника](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> Дату завершення підтримки цього продукту було відкладено з 13 жовтня 2020 року до 13 квітня 2021 року.\n\n## <a name=\"editions\"></a>Версії \n* для Enterprise для інтернет-сайтів\n* для Standard для інтернет-сайтів \n\n"
