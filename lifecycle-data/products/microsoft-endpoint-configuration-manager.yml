@@ -1,0 +1,72 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Диспетчер конфігурації кінцевої точки Microsoft
+  description: Диспетчер конфігурації кінцевої точки Microsoft керується сучасною політикою життєвого циклу.
+  ms.date: 08/20/2020
+  ms.openlocfilehash: 0543b1273fc60ca7a23a5ce6455cf027737021c7
+  ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
+  ms.translationtype: MT
+  ms.contentlocale: uk-UA
+  ms.lasthandoff: 08/20/2020
+  ms.locfileid: "906023"
+name: Диспетчер конфігурації кінцевої точки Microsoft
+summary: >
+  Диспетчер конфігурації кінцевої точки Microsoft керується [сучасною](/lifecycle/policies/modern) політикою життєвого циклу.
+
+
+
+  > [!IMPORTANT]
+
+  > Починаючи з версії 1910, диспетчер конфігурації зараз входить до складу диспетчера кінцевих точок Microsoft.
+products:
+- m365
+policyType: modern-on-prem
+supportDates:
+  start: 12/08/2015
+releases:
+- version: Version 2002
+  startDate: 04/01/2020
+  endDate: 10/01/2021
+- version: Version 1910
+  startDate: 11/29/2019
+  endDate: 05/29/2021
+- version: Version 1906
+  startDate: 07/26/2019
+  endDate: 01/26/2021
+- version: Version 1902
+  startDate: 03/27/2019
+  endDate: 09/27/2020
+- version: Version 1810
+  startDate: 11/27/2018
+  endDate: 12/01/2020
+- version: Version 1806
+  startDate: 07/31/2018
+  endDate: 01/31/2020
+- version: Version 1802
+  startDate: 03/22/2018
+  endDate: 09/22/2019
+- version: Version 1710
+  startDate: 11/20/2017
+  endDate: 05/20/2019
+- version: Version 1706
+  startDate: 07/31/2017
+  endDate: 07/31/2018
+- version: Version 1702
+  startDate: 03/27/2017
+  endDate: 03/27/2018
+- version: Version 1610
+  startDate: 11/18/2016
+  endDate: 11/18/2017
+- version: Version 1606 with KB3186654
+  startDate: 10/12/2016
+  endDate: 10/12/2017
+- version: Version 1606
+  startDate: 07/22/2016
+  endDate: 07/22/2017
+- version: Version 1602
+  startDate: 03/11/2016
+  endDate: 03/11/2016
+- version: Version 1511
+  startDate: 12/08/2015
+  endDate: 12/08/2016
+content: "\n## <a name=\"links\"></a>Посилання \n* [Відомості про обслуговування](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Відомості про версію](/mem/configmgr/core/servers/manage/updates#version-details)\n* [Диспетчер конфігурації системного центру тепер Диспетчер конфігурації кінцевої точки Microsoft](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Історичні версії](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Що таке диспетчер конфігурації](/mem/configmgr/core/understand/introduction)\n\n\n\nКлючові слова: SCCM, диспетчер конфігурації системного центру"
