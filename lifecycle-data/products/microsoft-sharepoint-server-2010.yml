@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft SharePoint Server 2010
-  description: Microsoft SharePoint Server 2010 відповідає фіксованою політикою життєвого циклу.
+  description: Microsoft SharePoint Server 2010 керується фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71adef7342f1471a67bd170430b3470dc6ea1a87
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845160"
 name: Microsoft SharePoint Server 2010
 summary: >+
-  Microsoft SharePoint Server 2010 відповідає [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  Microsoft SharePoint Server 2010 керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
-  Це стосується таких випусків: доступ до послуг, всі застосовні, Excel Services, послуги точки продуктивності
+  Це стосується наступних випусків: Служби Access Services, всі застосовні, служби Excel Services, служби Performance Point Services
 
 products:
 - office
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Посилання \n* [Розширення підтримки](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Міграційне керівництво](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> Дата кінця підтримки цього продукту була розширена з 13 жовтня 2020 року по 13 квітня 2021.\n\n## <a name=\"editions\"></a>Видання \n* Доступ до послуг\n* Всі застосовні\n* Службах Excel\n* Послуги точки продуктивності"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Розширення підтримки](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Вказівки щодо міграції](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> Дату завершення підтримки цього продукту було відкладено з 13 жовтня 2020 року до 13 квітня 2021 року.\n\n## <a name=\"editions\"></a>Версії \n* Служби Access Services\n* Всі застосовні\n* Служби Excel Services\n* Служби Performance Point Services\n\n"

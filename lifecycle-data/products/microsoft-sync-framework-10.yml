@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Sync Framework 1,0
-  description: Microsoft Sync Framework 1,0 відповідає фіксованою політикою життєвого циклу.
+  title: Microsoft Sync Framework 1.0
+  description: Microsoft Sync Framework 1.0 керується фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: c57a9049aa6c69c1a71aaa99f5a8184b78d1e144
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845722"
-name: Microsoft Sync Framework 1,0
+name: Microsoft Sync Framework 1.0
 summary: >
-  Microsoft Sync Framework 1,0 відповідає [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  Microsoft Sync Framework 1.0 керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
 
   > [!IMPORTANT]
 
-  > Підтримка цього продукту закінчилася.
+  > Підтримка цього продукту закінчилась.
 products:
 - vs
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 11/04/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Посилання \n* [Інформація про виріб](/previous-versions/sql/synchronization/mt490617(v=msdn.10))\n\n> [!NOTE]\n> Синхронізація Framework 1,0 SP1 підтримки завершується дата зазначено, якщо не поширюється як компонент SharePoint Server 2010, 2013, 2016 або 2019. Компоненти отримують таку саму підтримку, що і їх батьківський продукт або платформа."
+content: "\n## <a name=\"links\"></a>Посилання \n* [Інформація про продукт](/previous-versions/sql/synchronization/mt490617(v=msdn.10))\n\n> [!NOTE]\n> Підтримка Sync Framework 1.0 SP1 завершується у зазначену дату (не застосовується у разі поширення у якості компонента SharePoint Server 2010, 2013, 2016 або 2019). Компоненти отримують таку саму підтримку, як і їх батьківський продукт або платформа."

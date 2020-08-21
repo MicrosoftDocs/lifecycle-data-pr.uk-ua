@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ШВИДКИЙ пошук сервера 2010 (для інтернет-сайтів, для внутрішніх додатків)
-  description: ШВИДКИЙ пошук сервера 2010 (для інтернет-сайтів, для внутрішніх додатків) відповідає фіксованою політикою життєвого циклу.
+  title: FAST Search Server 2010 (для інтернет-сайтів, для внутрішніх програм)
+  description: FAST Search Server 2010 (для інтернет-сайтів, для внутрішніх додатків) керується фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 86e1732aefb6ae705ff05f1ef7f84e2d14a1feda
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845878"
-name: ШВИДКИЙ пошук сервера 2010 (для інтернет-сайтів, для внутрішніх додатків)
+name: FAST Search Server 2010 (для інтернет-сайтів, для внутрішніх програм)
 summary: >+
-  ШВИДКИЙ пошук сервера 2010 (для інтернет-сайтів, для внутрішніх додатків) відповідає [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  FAST Search Server 2010 (для інтернет-сайтів, для внутрішніх додатків) керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
-  Це стосується такі випуски: внутрішні програми, Інтернет-сайти
+  Це стосується наступних випусків: для внутрішніх програм, для інтернет-сайтів
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/16/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Посилання \n* [Міграційне керівництво](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Поширені питання про життєвий цикл-загальні](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Виключає версії, які раніше не підтримувалися. Підтримка цього продукту регулюється умовами його придбання.\n\n## <a name=\"editions\"></a>Видання \n* Внутрішні програми\n* Інтернет-сайти"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Вказівки щодо міграції](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Запитання й відповіді щодо життєвого циклу: загальні](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Виключає версії, які раніше не підтримувалися. Підтримка цього продукту здійснюється відповідно до умов його придбання.\n\n## <a name=\"editions\"></a>Версії \n* Внутрішні програми\n* Інтернет-сайти"

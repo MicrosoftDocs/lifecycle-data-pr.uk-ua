@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows XP Embedded
-  description: Windows XP Embedded відповідає фіксованою політикою життєвого циклу.
+  title: Windows XP Embedded;
+  description: Windows XP Embedded керується фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2259d8ae34d4c63ad67bf4966d15bf71f2faa04c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845265"
-name: Windows XP Embedded
+name: Windows XP Embedded;
 summary: >
-  Windows XP Embedded відповідає [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  Windows XP Embedded керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
-  Це стосується таких випусків: Embedded
+  Це стосується наступних випусків: Embedded
 
 
   > [!IMPORTANT]
 
-  > Підтримка цього продукту закінчилася.
+  > Підтримка цього продукту закінчилась.
 products:
 - windows
 policyType: fixed
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 01/30/2002
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Посилання \n* [Вбудована підтримка Windows XP](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>Видання \n* Вбудовані"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Підтримка Windows XP Embedded](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>Версії \n* Embedded"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Vista
-  description: Windows Vista дотримується фіксованої політики життєвого циклу.
+  description: Windows Vista керується фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: e2e6ab946bf405ed524f07047d055a786d7174dc
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845266"
 name: Windows Vista
 summary: >
-  Windows Vista дотримується [фіксованої](/lifecycle/policies/fixed) політики життєвого циклу.
+  Windows Vista керується [фіксованої](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
-  Це стосується таких видань: бізнес, бізнес N, підприємство, підприємство x64, Головна базова, Головна базова 64-біт, Головна базова N, Головна базова N 64-біт, домашній Преміум, Home Premium 64-біт, стартер, кінцева, Ultimate 64-bit
+  Це стосується наступних випусків: Business, Business N, Enterprise, Enterprise X64, Home Basic, Home Basic 64-bit, Home Basic N, Home Basic N 64-bit, Home Premium, Home Premium 64-bit, Starter, Ultimate, Ultimate 64-bit
 
 
   > [!IMPORTANT]
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2007
   endDate: 04/13/2010
-content: "\n## <a name=\"links\"></a>Посилання \n* [Міграційне керівництво](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Оновлення Windows і міграція рекомендації](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Політика пакета оновлень](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Видання \n* Бізнес\n* Бізнес N\n* Підприємство\n* Enterprise x64\n* Головна базова\n* Головна базова 64-bit\n* Головна базова N\n* Головна базова N 64-bit\n* Home Premium\n* Головна Преміум 64-біт\n* Стартер\n* Кінцева\n* Ultimate 64-bit"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Вказівки щодо міграції](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Рекомендації щодо оновлення Windows і міграції](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Політика пакетів оновлень](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Версії \n* Business\n* Business N\n* Enterprise\n* Enterprise X64\n* Home Basic\n* Home Basic 64-bit\n* Home Basic N\n* Home Basic N 64-bit\n* Home Premium\n* Home Premium 64-bit\n* Starter\n* Ultimate\n* Ultimate (64-розрядна версія)"

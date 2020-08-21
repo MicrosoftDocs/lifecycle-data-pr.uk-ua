@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2010
-  description: Visual Studio 2010, слід фіксована політика життєвого циклу.
+  description: Visual Studio 2010 керується фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 30c112ab23bba45aaec60660ab85c362bcebf030
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845282"
 name: Visual Studio 2010
 summary: >+
-  Visual Studio 2010, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  Visual Studio 2010 керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
-  Це стосується таких випусків: агенти, всі, ASP .NET MVC 4, Express, F # 2,0 виконання, Lab управління, продуктивність інструменти, Premium, професійні, віддалений відладчик, SDK, Shell (інтегрований), Shell (ізольований), команда агенти, Team Explorer, тест Professional, інструменти для системи Office 4,0 виконання, Ultimate &
+  Це стосується наступних випусків: Агенти, всі, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Remote Debugger, SDK, Shell (Integrated), Shell (Isolated), Team Agents, Team Explorer, Test Professional, Tools for Office System 4.0 Runtime, Ultimate, VB Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Посилання \n* [Політика пакета оновлень](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Видання \n* Агентів\n* Всі\n* ASP .NET MVC 4\n* Експрес\n* F # 2,0 виконання\n* Керування лабораторією\n* Інструменти продуктивності\n* Преміум\n* Професійних\n* Віддалений відладчик\n* Sdk\n* Оболонка (інтегрована)\n* Оболонка (ізольована)\n* Агенти команди\n* Провідник команд\n* Тест професійний\n* Інструменти для системи Office 4,0 виконання\n* Кінцева\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Візуальний веб-розробник Express\n* Візуалізація & моделюванням SDK"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Політика пакетів оновлень](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Версії \n* Агенти\n* Всі\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Інструменти оцінювання продуктивності\n* Premium\n* Professional\n* Remote Debugger\n* SDK\n* Shell (Integrated)\n* Shell (Isolated)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Інструменти для Office System 4.0 Runtime\n* Ultimate\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualization & Modeling SDK"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office PowerPoint 2007
-  description: Microsoft Office PowerPoint 2007 відповідає фіксованою політикою життєвого циклу.
+  description: Microsoft Office PowerPoint 2007 керується фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a5fabe576bb9e38f1f9ca7fd7fcdaed22819991
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846087"
 name: Microsoft Office PowerPoint 2007
 summary: >+
-  Microsoft Office PowerPoint 2007 відповідає [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  Microsoft Office PowerPoint 2007 керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
-  Це стосується таких випусків: Головна та студентська, стандартна
+  Це стосується наступних випусків: Home and Student, Standard
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Посилання \n* [Міграційне керівництво](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Видання \n* Дому та навчання\n* Стандартний"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Вказівки щодо міграції](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Версії \n* Home and Student\n* Standard"

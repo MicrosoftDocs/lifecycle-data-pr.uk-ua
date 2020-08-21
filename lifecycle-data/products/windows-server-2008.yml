@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Server 2008
-  description: Windows Server 2008, слід фіксована політика життєвого циклу.
+  title: Windows Server 2008
+  description: Windows Server 2008 керується фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: cb16ce7326c75c0c560a1b8a0078d03656d58c21
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845989"
-name: Windows Server 2008
+name: Windows Server 2008
 summary: >
-  Windows Server 2008, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  Windows Server 2008 керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
-  Це стосується таких випусків: датацентр, центр обробки даних без Hyper-V, Enterprise, підприємства без Hyper-V, для систем на основі базі Itanium, фундамент, стандарт, стандарт без Hyper-V, Web
+  Це стосується наступних випусків: Datacenter, Datacenter без Hyper-V, Enterprise, Enterprise без Hyper-V, для систем на базі процесорів Itanium, Foundation, Standard, Standard без Hyper-V, Web
 
 
   > [!IMPORTANT]
 
-  > Підтримка цього продукту закінчилася. Перегляньте інструкції з міграції, наведені нижче.
+  > Підтримка цього продукту закінчилась. Перегляньте інструкції з міграції, наведені нижче.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Посилання \n* [Міграційне керівництво](https://aka.ms/AA1ovn4)\n* [Відомості про оновлення сервера](/windows-server/upgrade/upgrade-overview)\n* [Розширена програма оновлення безпеки (ESU)](/lifecycle/faq/extended-security-updates)\n* [Політика пакета оновлень](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Розширені оновлення системи безпеки (ESU) доступні через певні програми корпоративного ліцензування для центрів обробки даних, стандартних, корпоративних і вбудованих випусків цього продукту, протягом останніх трьох років після завершення підтримки. Щоб дізнатися більше, зверніться до своєї команди партнера або облікового запису Microsoft. \n\nВипуск-------------------------------Дата початку----Дата завершення\n\nРозширене оновлення безпеки року 3---01/11/2022---01/10/2023\n\nРозширене оновлення безпеки, рік 2---01/12/2021---01/11/2022\n\nРозширене оновлення безпеки рік 1---01/14/2020---01/12/2021\n> [!NOTE]\n> Windows Server 2008 Foundation, випущений 21 травня 2009\n\n## <a name=\"editions\"></a>Видання \n* Datacenter\n* Центр обробки даних без Hyper-V\n* Підприємство\n* Підприємство без Hyper-V\n* для систем на базі базі Itanium\n* Фонд\n* Стандартний\n* Стандарт без Hyper-V\n* Веб"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Вказівки щодо міграції](https://aka.ms/AA1ovn4)\n* [Інформація про оновлення сервера](/windows-server/upgrade/upgrade-overview)\n* [Програма розширеного оновлення безпеки (ESU)](/lifecycle/faq/extended-security-updates)\n* [Політика пакетів оновлень](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Розширені оновлення системи безпеки (ESU) для таких версій продукту: Datacenter, Standard, Enterprise та Embedded – доступні через спеціальні програми корпоративного ліцензування впродовж максимум трьох років після завершення терміну надання підтримки. Щоб дізнатися більше, зв’яжіться зі своїм партнером або командою облікового запису Microsoft. \n\nВипуск-------------------------------Дата початку----Дата завершення\n\nРозширене оновлення безпеки року 3---11.01.2022---10.01.2023\n\nРозширене оновлення безпеки року 2---12.01.2021---11.01.2022\n\nРозширене оновлення безпеки року 1---14.01.2020---12.01.2021\n> [!NOTE]\n> Windows Server 2008 Foundation, випуск від 21 травня 2009\n\n## <a name=\"editions\"></a>Версії \n* Datacenter\n* Datacenter без Hyper-V\n* Enterprise\n* Enterprise без Hyper-V\n* для систем на базі процесорів Itanium\n* Foundation\n* Standard\n* Standard без Hyper-V\n* Web\n\n"

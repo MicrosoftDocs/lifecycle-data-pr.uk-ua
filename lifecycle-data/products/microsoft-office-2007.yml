@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office 2007
-  description: Microsoft Office 2007 відповідає фіксованою політикою життєвого циклу.
+  title: Microsoft Office 2007;
+  description: Microsoft Office 2007 керується фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5a73d67d99002146bfa145d66037a0bb9080f684
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845424"
-name: Microsoft Office 2007
+name: Microsoft Office 2007;
 summary: >+
-  Microsoft Office 2007 відповідає [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  Microsoft Office 2007 керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
-  Це стосується таких видань: базові, корпоративні, домашні та студентські, професійні, професійні плюс, малий бізнес, стандарт, кінцевий
+  Це стосується наступних випусків: Basic, Enterprise, Home and Student, Professional, Professional Plus, Small Business, Standard, Ultimate
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Посилання \n* [Міграційне керівництво](https://support.microsoft.com/kb/3198497)\n\n\n## <a name=\"editions\"></a>Видання \n* Основні\n* Підприємство\n* Дому та навчання\n* Професійних\n* Професійний плюс\n* Малого бізнесу\n* Стандартний\n* Кінцева"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Вказівки щодо міграції](https://support.microsoft.com/kb/3198497)\n\n\n## <a name=\"editions\"></a>Версії \n* Basic\n* Enterprise\n* Home and Student\n* Professional\n* Professional Plus\n* Small Business\n* Standard\n* Ultimate"

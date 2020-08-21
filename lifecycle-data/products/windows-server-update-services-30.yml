@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Оновлення для Windows Server Services 3,0
-  description: Оновлення для Windows Server Services 3,0 слід фіксована політика життєвого циклу.
+  title: Windows Server Update Services 3.0
+  description: Сервіси Windows Server Update Services 3.0 керуються фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: b5e6ed046b5497010706f64c93962f1c4af0e2a0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845987"
-name: Оновлення для Windows Server Services 3,0
+name: Windows Server Update Services 3.0
 summary: >
-  Оновлення для Windows Server Services 3,0 слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  Сервіси Windows Server Update Services 3.0 керуються [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
 
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 07/10/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Посилання \n* [Міграційне керівництво](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Політика пакета оновлень](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Підтримка була продовжена з 7/11/2017 до 1/14/2020."
+content: "\n## <a name=\"links\"></a>Посилання \n* [Вказівки щодо міграції](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Політика пакетів оновлень](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Підтримку була подовжено з 11.07.2017 до 14.01.2020."

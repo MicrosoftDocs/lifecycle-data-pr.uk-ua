@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Автоматичний комплект інсталяції Windows для Windows 7
-  description: Автоматичний набір інсталяційних Windows для Windows 7 відповідає політиці щодо фіксованої життєвого циклу.
+  title: Набір засобів автоматизованої інсталяції Windows для Windows 7
+  description: Windows Automated Installation Kit for Windows 7 керується фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: aef3eea94538c8956abb01f8b3e681e9932d18a5
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845120"
-name: Автоматичний комплект інсталяції Windows для Windows 7
+name: Набір засобів автоматизованої інсталяції Windows для Windows 7
 summary: >
-  Автоматичний набір інсталяційних Windows для Windows 7 відповідає політиці щодо [фіксованої](/lifecycle/policies/fixed) життєвого циклу.
+  Windows Automated Installation Kit for Windows 7 керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
 
   > [!IMPORTANT]
 
-  > Підтримка цього продукту закінчилася.
+  > Підтримка цього продукту закінчилась.
 products:
 - windows
 policyType: fixed-mainstream-only

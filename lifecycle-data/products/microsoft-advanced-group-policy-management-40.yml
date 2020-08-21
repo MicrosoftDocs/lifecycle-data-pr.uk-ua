@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Розширене керування груповою політикою Microsoft 4,0
-  description: Microsoft Advanced групової політики керування 4,0, слід фіксована політика життєвого циклу.
+  title: Microsoft Advanced Group Policy Management 4.0
+  description: Microsoft Advanced Group Policy Management 4.0 керується фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9ee2407b159ab7e8573aa39ebff7de6fd8002bde
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845845"
-name: Розширене керування груповою політикою Microsoft 4,0
+name: Microsoft Advanced Group Policy Management 4.0
 summary: >+
-  Microsoft Advanced групової політики керування 4,0, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  Microsoft Advanced Group Policy Management 4.0 керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 11/19/2009
   endDate: 04/08/2014
-content: "\n## <a name=\"links\"></a>Посилання \n* [Інформація про досвід MDOP](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Політика пакета оновлень](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Інформація про MDOP](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Політика пакетів оновлень](/lifecycle/policies/fixed#service-packs)"
