@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Mediaroom
+  description: Служба Microsoft Mediaroom наслідує політику фіксованого життєвого циклу.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 811ad478d76a023e8bfc6d610114e84b209529db
+  ms.sourcegitcommit: b887dde29aba4827223427ffe2a108bb0b7f8a2f
+  ms.translationtype: MT
+  ms.contentlocale: uk-UA
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907312"
+name: Microsoft Mediaroom
+summary: >+
+  Служба Microsoft Mediaroom наслідує політику [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
+
+
+  Це стосується таких випусків: служби прикладних служб 1,0, клієнт 2,0, клієнт 2,1, Server 2,0, Server 2,1
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 08/03/2010
+releases:
+- version: Original Release
+  startDate: 08/03/2010
+content: "\n\n> [!NOTE]\n> Компанія Ericsson придбала продукти Microsoft Mediaroom у 2013. Щоб отримати докладніші відомості, ознайомтеся з [прес-релізом](http://www.ericsson.com/news/1691160). Для клієнтів, які потребують підтримки, перейдіть [сюди](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx).\n> [!NOTE]\n> Microsoft Mediaroom Client 2,1 було випущено 27 грудня 2011. \n\n## <a name=\"editions\"></a>Версії \n* Служби прикладних служб 1,0\n* Клієнт 2,0\n* Клієнт 2,1\n* Server 2,0\n* Server 2,1"
