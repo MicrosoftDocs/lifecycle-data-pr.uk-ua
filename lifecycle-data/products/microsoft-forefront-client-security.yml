@@ -2,13 +2,13 @@
 metadata:
   title: Безпека клієнта Microsoft Forefront
   description: Безпека клієнта Microsoft Forefront відповідно до політики фіксованого життєвого циклу.
-  ms.date: 08/21/2020
-  ms.openlocfilehash: 802c6836324ac39b0b8ffc99c1f7f6734906445b
-  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
+  ms.date: 08/28/2020
+  ms.openlocfilehash: 335ae81ffa4b7cb64352b19e7330765a4cac6c68
+  ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
   ms.translationtype: MT
   ms.contentlocale: uk-UA
-  ms.lasthandoff: 08/25/2020
-  ms.locfileid: "908960"
+  ms.lasthandoff: 08/28/2020
+  ms.locfileid: "924277"
 name: Безпека клієнта Microsoft Forefront
 summary: >+
   Безпека клієнта Microsoft Forefront відповідно до політики [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 08/02/2007
   endDate: 07/14/2015
-content: "\n## <a name=\"links\"></a>Посилання \n* [Захист кінцевої точки системного центру](http://www.microsoft.com/server-cloud/products/system-center-2012-r2-configuration-manager/default.aspx)\n\n> [!NOTE]\n> Безпеку клієнта на передньому краї припинено. Підтримка завершується 14 липня 2015. Оновлення з метою захисту від нешкідливої та антишпигунського визначення більше не будуть доступні після завершення підтримки версії продукту. Перевірте захист кінцевої точки системного центру як заміну."
+content: "\n## <a name=\"links\"></a>Посилання \n* [Захист кінцевої точки системного центру](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> Безпеку клієнта на передній план припинено за станом на 14 липня 2015. Оновлення з метою захисту від нешкідливої та антишпигунського визначення більше не будуть доступні після завершення підтримки версії продукту. Перевірте захист кінцевої точки системного центру як заміну."
