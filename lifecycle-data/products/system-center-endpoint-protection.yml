@@ -2,13 +2,13 @@
 metadata:
   title: Захист кінцевої точки системного центру
   description: Захист кінцевої точки системного центру відповідає сучасному політиці життєвого циклу.
-  ms.date: 08/28/2020
-  ms.openlocfilehash: 2b8878c629a27bc6960a9cbceb4447b7757e61d2
-  ms.sourcegitcommit: 90c2bb5823fb637bc42baaba1512486144104f70
+  ms.date: 08/31/2020
+  ms.openlocfilehash: 9eff57919f329c3c5897ef2697cd20ff9ce65dba
+  ms.sourcegitcommit: ea12743df11002fd494c7843707a3628dfedb425
   ms.translationtype: MT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 08/31/2020
-  ms.locfileid: "924691"
+  ms.locfileid: "924949"
 name: Захист кінцевої точки системного центру
 summary: >+
   Захист кінцевої точки системного центру відповідає [сучасному](/lifecycle/policies/modern) політиці життєвого циклу.
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 12/08/2015
-content: "\n## <a name=\"links\"></a>Посилання \n* [Підтримка версій системи захисту від кінцевої точки системного центру (колишня назва диспетчера конфігурації)](/mem/configmgr/core/servers/manage/current-branch-versions-supported?redirectedfrom=MSDN)"
+content: ''
