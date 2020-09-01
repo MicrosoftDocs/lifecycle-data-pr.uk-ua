@@ -1,16 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Вираз 2
-  description: Вираз 2 слідує за фіксованою політикою життєвого циклу.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0ff3dba3df24ff405a22bfacac75ea04ab227f90
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Вираз 2 відповідає політиці фіксованого життєвого циклу.
+  ms.date: 09/01/2020
+  keywords: Blend,Design,Encoder,Studio,Web
+  ms.openlocfilehash: 5186f4bbb53b110f625835b0250418a4594bf78b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: uk-UA
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "845200"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930846"
 name: Вираз 2
-summary: "Вираз 2 слідує за [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.\n\nЦе стосується таких випусків: суміш, дизайн, кодер, студія, веб-\n\n> [!IMPORTANT]\n> Підтримку цього продукту завершено. \n"
+summary: "Вираз 2 відповідає політиці [фіксованого](/lifecycle/policies/fixed) життєвого циклу.\n\nЦе стосується таких випусків: суміш, конструктор, кодувальник, студія, Web\n\n> [!IMPORTANT]\n> Підтримка завершилася для цього продукту. \n"
 products:
 - expression
 policyType: fixed
@@ -22,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/24/2008
   endDate: 10/09/2018
-content: "\n\n\n## <a name=\"editions\"></a>Видання \n* Суміш\n* Дизайн\n* Кодувальник\n* Студії\n* Веб"
+content: "\n\n\n## <a name=\"editions\"></a>Версії \n* Суміш\n* Конструктор\n* Encoder\n* Studio\n* Web"
