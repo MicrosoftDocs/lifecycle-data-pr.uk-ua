@@ -2,15 +2,16 @@
 metadata:
   title: Вираз
   description: Вираз відповідає Закріпаній політиці життєвого циклу.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: c81accb05bdbd957a699685c83074735956a009e
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/01/2020
+  keywords: Blend,Design,Encoder,Studio
+  ms.openlocfilehash: 2d2e5c18c1e8ca1b355bfe392df42d6a351e6585
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: uk-UA
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893409"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936248"
 name: Вираз
-summary: "Вираз відповідає [Закріпаній](/lifecycle/policies/fixed) політиці життєвого циклу.\n\nЦе стосується таких випусків: суміш, конструктор, кодувальник, студія\n\n> [!IMPORTANT]\n> Підтримка цього продукту завершилася. \n"
+summary: "Вираз відповідає [Закріпаній](/lifecycle/policies/fixed) політиці життєвого циклу.\n\nЦе стосується таких випусків: суміш, конструктор, кодувальник, студія\n\n> [!IMPORTANT]\n> Підтримка цього продукту закінчилась. \n"
 products:
 - expression
 policyType: fixed
@@ -22,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/27/2007
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Дата початку для переходу між виразом – 13 липня 2007. \n\n## <a name=\"editions\"></a>Видання \n* Суміш\n* Конструктор\n* Encoder\n* Studio"
+content: "\n\n> [!NOTE]\n> Дата початку для переходу між виразом – 13 липня 2007. \n\n## <a name=\"editions\"></a>Версії \n* Суміш\n* Конструктор\n* Encoder\n* Studio"
