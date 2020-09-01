@@ -2,13 +2,14 @@
 metadata:
   title: Windows 10 Home і Pro
   description: Windows 10 Home і Pro керуються сучасною політикою життєвого циклу.
-  ms.date: 07/30/2020
-  ms.openlocfilehash: 9d3ad5a10e7df75162cbff42701d451e1299e3c4
-  ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
+  ms.date: 09/01/2020
+  keywords: Home,Pro,Pro for Education,Pro for Workstations,Professional
+  ms.openlocfilehash: f29020250717040eb218ffd3154c65492201e51b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: uk-UA
-  ms.lasthandoff: 07/30/2020
-  ms.locfileid: "879243"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938394"
 name: Windows 10 Home і Pro
 summary: >
   Windows 10 Home і Pro керуються [сучасною](/lifecycle/policies/modern) політикою життєвого циклу.
@@ -57,4 +58,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Посилання \n* [Windows як послуга (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Факти про життєві цикли Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Поширені питання життєвого циклу: продукти Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro для робочих станцій (вперше випущено з версією 1703)\n> [!NOTE]\n> Якщо не вказано інше, наступні оновлення функції щопіврічного каналу оновлення для Windows 10 можна інсталювати до зазначеної дати завершення базової підтримки.\n\n## <a name=\"editions\"></a>Версії \n* Home\n* Pro\n* Pro for Education\n* Pro для робочих станцій\n* Professional\n\n"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Windows як послуга (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Факти про життєві цикли Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Поширені питання життєвого циклу: продукти Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro для робочих станцій (вперше випущено з версією 1703)\n> [!NOTE]\n> Якщо не вказано інше, наступні оновлення функції щопіврічного каналу оновлення для Windows 10 можна інсталювати до зазначеної дати завершення базової підтримки.\n\n## <a name=\"editions\"></a>Версії \n* Home\n* Pro\n* Pro for Education\n* Pro для робочих станцій\n* Professional\n"
