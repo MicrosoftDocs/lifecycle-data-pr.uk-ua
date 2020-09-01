@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Вираз 4
-  description: Вираз 4 слідує за фіксованою політикою життєвого циклу.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: d043cbcae1ace9a561a53c39af5458bae79b4919
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: У виразі 4 слід виконати політику фіксованого життєвого циклу.
+  ms.date: 09/01/2020
+  keywords: Design,Encoder,Studio Ultimate,Web
+  ms.openlocfilehash: ad3463184e4da721215fe51169c93401d2d9c848
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: uk-UA
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "845199"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930883"
 name: Вираз 4
 summary: >+
-  Вираз 4 слідує за [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  У виразі 4 слід виконати політику [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
 
-  Це стосується таких випусків: дизайн, кодер, студія Ultimate, Web
+  Це стосується таких випусків: Design, Encoder, Studio Ultimate, Web
 
 products:
 - expression
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/26/2010
   endDate: 07/14/2020
-content: "\n\n> [!NOTE]\n> Кінець базової підтримки виразів Studio Ultimate 4 — 13 жовтня 2015.\n\n## <a name=\"editions\"></a>Видання \n* Дизайн\n* Кодувальник\n* Studio Ultimate\n* Веб"
+content: "\n\n> [!NOTE]\n> Кінець основної підтримки виразу \"студія\" Ultimate 4 – 13 жовтня 2015 р.\n\n## <a name=\"editions\"></a>Версії \n* Конструктор\n* Encoder\n* Студія Ultimate\n* Web"
