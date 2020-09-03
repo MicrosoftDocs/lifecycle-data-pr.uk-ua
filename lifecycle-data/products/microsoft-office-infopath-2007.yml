@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office InfoPath 2007
-  description: Microsoft Office InfoPath 2007 відповідає фіксованою політикою життєвого циклу.
+  title: Застосунок Microsoft Office InfoPath 2007
+  description: Застосунок Microsoft Office InfoPath 2007 відповідає фіксованій політиці життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 248f2411554bdaf4d0f83c003dda9b735b631225
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845402"
-name: Microsoft Office InfoPath 2007
+name: Застосунок Microsoft Office InfoPath 2007
 summary: >+
-  Microsoft Office InfoPath 2007 відповідає [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  Застосунок Microsoft Office InfoPath 2007 відповідає [фіксованій](/lifecycle/policies/fixed) політиці життєвого циклу.
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Посилання \n* [Міграційне керівництво](/office/troubleshoot/support/office-2007-not-support)"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Вказівки щодо міграції](/office/troubleshoot/support/office-2007-not-support)"

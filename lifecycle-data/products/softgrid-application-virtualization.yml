@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: SoftGrid віртуалізації застосунків
-  description: Програма віртуалізації застосунків SoftGrid дотримується фіксованої політики життєвого циклу.
+  title: SoftGrid Application Virtualization
+  description: До SoftGrid Application Virtualization застосовується політика фіксованого життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 17b8078138b718a634c2561ac4b1e73f3966ce24
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845134"
-name: SoftGrid віртуалізації застосунків
+name: SoftGrid Application Virtualization
 summary: >
-  Програма віртуалізації застосунків SoftGrid дотримується [фіксованої](/lifecycle/policies/fixed) політики життєвого циклу.
+  До SoftGrid Application Virtualization застосовується політика [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
 
-  Це стосується таких випусків: 4,1 для настільних комп'ютерів, 4,2 для настільних комп'ютерів, служби терміналів 4,1
+  Це стосується наступних випусків: 4.1 for Desktops (для робочих столів), 4.2 for Desktops (для робочих столів), for Terminal Services (для термінальних служб) 4.1
 
 
   > [!IMPORTANT]
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/25/2007
   endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Посилання \n* [Міграційне керівництво](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Видання \n* 4,1 для настільних комп'ютерів\n* 4,2 для настільних комп'ютерів\n* для служб терміналів 4,1"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Вказівки щодо міграції](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Версії \n* 4.1 for Desktops (для робочих столів)\n* 4.2 for Desktops (для робочих столів)\n* for Terminal Services (для термінальних служб) 4.1"

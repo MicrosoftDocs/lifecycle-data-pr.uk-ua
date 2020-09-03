@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Диспетчера бізнес-показників Microsoft Office 2005
-  description: Диспетчера бізнес-показників Microsoft Office 2005 слід фіксована політика життєвого циклу.
+  title: Microsoft Office Business Scorecard Manager 2005
+  description: До Microsoft Office Business Scorecard Manager 2005 застосовується політика фіксованого життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: bc345248ceba7c8f2cac730bc1141a0dae32d398
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846120"
-name: Диспетчера бізнес-показників Microsoft Office 2005
+name: Microsoft Office Business Scorecard Manager 2005
 summary: >+
-  Диспетчера бізнес-показників Microsoft Office 2005 слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  До Microsoft Office Business Scorecard Manager 2005 застосовується політика [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 12/27/2005
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Посилання \n* [Міграційне керівництво](https://blogs.msdn.microsoft.com/performancepoint/2016/04/06/end-of-support-for-business-scorecard-accelerator-and-business-scorecard-manager-2005)\n\n> [!NOTE]\n> Підтримка Диспетчера бізнес-показників 2005 закінчився 1/12/2016."
+content: "\n## <a name=\"links\"></a>Посилання \n* [Вказівки щодо міграції](https://blogs.msdn.microsoft.com/performancepoint/2016/04/06/end-of-support-for-business-scorecard-accelerator-and-business-scorecard-manager-2005)\n\n> [!NOTE]\n> Підтримка Business Scorecard Manager 2005 завершилася 12.01.2016."

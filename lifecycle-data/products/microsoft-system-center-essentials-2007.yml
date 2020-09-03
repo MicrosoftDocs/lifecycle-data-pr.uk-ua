@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center Essentials 2007
-  description: Microsoft System Center Essentials 2007 слід фіксована політика життєвого циклу.
+  description: До Microsoft System Center Essentials 2007 застосовується фіксована політика життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 450979ddd7953f32c7ab13fd8807a289ca930959
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845706"
 name: Microsoft System Center Essentials 2007
 summary: >
-  Microsoft System Center Essentials 2007 слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  До Microsoft System Center Essentials 2007 застосовується [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
 
 
 
   > [!IMPORTANT]
 
-  > Підтримка цього продукту закінчилася. Перегляньте інструкції з міграції, наведені нижче.
+  > Підтримка цього продукту закінчилась. Перегляньте інструкції з міграції, наведені нижче.
 products:
 - msc
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 10/09/2007
   endDate: 04/14/2009
-content: "\n## <a name=\"links\"></a>Посилання \n* [Політика пакета оновлень](/lifecycle/policies/fixed#service-packs)\n* [Міграційне керівництво](https://blogs.technet.microsoft.com/dpm/2017/01/10/system-center-data-protection-manager-2007-end-of-support/)"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Політика пакетів оновлень](/lifecycle/policies/fixed#service-packs)\n* [Вказівки щодо міграції](https://blogs.technet.microsoft.com/dpm/2017/01/10/system-center-data-protection-manager-2007-end-of-support/)"

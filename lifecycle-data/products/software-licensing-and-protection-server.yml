@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Ліцензування програмного забезпечення та сервер захисту
-  description: Ліцензування програмного забезпечення та захисту сервера, слід фіксована політика життєвого циклу.
+  title: Сервер ліцензування та захисту програмного забезпечення
+  description: До Сервера ліцензування та захисту програмного забезпечення застосовується політика фіксованого життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a42af57f9f0bfd7232e67126c6d9923413e06f6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845150"
-name: Ліцензування програмного забезпечення та сервер захисту
+name: Сервер ліцензування та захисту програмного забезпечення
 summary: >
-  Ліцензування програмного забезпечення та захисту сервера, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  До Сервера ліцензування та захисту програмного забезпечення застосовується політика [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
 
-  Це стосується таких випусків: Enterprise, стандарт
+  Це стосується наступних версій: Enterprise, Standard
 
 
   > [!IMPORTANT]
 
-  > У зв'язку з ліцензуванням програмного забезпечення ліцензування та захисту сервера (SLPS), Microsoft підтримує SLPS до 24 вересня 2009.
+  > Через продаж Сервера ліцензування та захисту програмного забезпечення (SLPS) Microsoft здійснювала підтримку SLPS до 24 вересня 2009 року.
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 12/30/2007
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Посилання \n* [Сервер ліцензування та захисту програмного забезпечення (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Видання \n* Підприємство\n* Стандартний"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Сервер ліцензування та захисту програмного забезпечення (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Версії \n* Enterprise\n* Standard"

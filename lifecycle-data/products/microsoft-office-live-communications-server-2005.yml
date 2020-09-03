@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office Live зв'язку Server 2005
-  description: Сервер Microsoft Office Live комунікаційного сервера 2005 стежить за фіксованою політикою життєвого циклу.
+  title: Microsoft Office Live Communications Server 2005
+  description: До Microsoft Office Live Communications Server 2005 застосовується політика фіксованого життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 709969b9c25ec55bfe3538a49076f6d640003cba
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845400"
-name: Microsoft Office Live зв'язку Server 2005
-summary: "Сервер Microsoft Office Live комунікаційного сервера 2005 стежить за [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.\n\nЦе стосується таких випусків: Enterprise, стандарт\n\n> [!IMPORTANT]\n> Підтримка цього продукту закінчилася. \n"
+name: Microsoft Office Live Communications Server 2005
+summary: "До Microsoft Office Live Communications Server 2005 застосовується політика [фіксованого](/lifecycle/policies/fixed) життєвого циклу.\n\nЦе стосується наступних випусків: Enterprise, Standard\n\n> [!IMPORTANT]\n> Підтримка цього продукту закінчилась. \n"
 products:
 - office
 policyType: fixed
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/22/2005
   endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>Посилання \n* [Політика пакета оновлень](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Видання \n* Підприємство\n* Стандартний"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Політика пакетів оновлень](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Версії \n* Enterprise\n* Standard"

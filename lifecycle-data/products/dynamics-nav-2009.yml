@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics NAV 2009
-  description: Dynamics NAV 2009, слід фіксована політика життєвого циклу.
+  description: До Dynamics NAV 2009 застосовується політика фіксованого життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 91dc4515ba59f72b52cc7c9d517407dfaf552702
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845891"
 name: Dynamics NAV 2009
 summary: >+
-  Dynamics NAV 2009, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  До Dynamics NAV 2009 застосовується політика [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 02/12/2009
   endDate: 10/11/2011
-content: "\n## <a name=\"links\"></a>Посилання \n* [Політика пакета оновлень](/lifecycle/policies/fixed#service-packs)\n* [Більш детальну інформацію](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/pricing-ordering-news/MicrosoftForecasterDiscontinuation)\n\n> [!NOTE]\n> Дата завершення підтримки NAV 2009 продовжено, як показано на малюнку."
+content: "\n## <a name=\"links\"></a>Посилання \n* [Політика пакетів оновлень](/lifecycle/policies/fixed#service-packs)\n* [Додаткові відомості](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/pricing-ordering-news/MicrosoftForecasterDiscontinuation)\n\n> [!NOTE]\n> Дати закінчення підтримки NAV 2009 продовжено, відповідно до зазначених даних."

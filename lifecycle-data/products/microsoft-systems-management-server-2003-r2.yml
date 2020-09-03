@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft системи керування сервера 2003 R2
-  description: Корпорація Майкрософт системи керування сервера 2003 R2, слід фіксована політика життєвого циклу.
+  title: Microsoft Systems Management Server 2003 R2
+  description: До Microsoft Systems Management Server 2003 R2 застосовується політика фіксованого життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5d1cade536fbdca6669ad3953cf16c07d47c46fb
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845694"
-name: Microsoft системи керування сервера 2003 R2
+name: Microsoft Systems Management Server 2003 R2
 summary: >+
-  Корпорація Майкрософт системи керування сервера 2003 R2, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  ДО Microsoft Systems Management Server 2003 R2 застосовується політика [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
 
 products:

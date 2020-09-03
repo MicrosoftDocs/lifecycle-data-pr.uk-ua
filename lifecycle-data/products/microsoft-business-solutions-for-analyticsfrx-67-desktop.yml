@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft бізнес-рішення для аналітики--FRx 6,7 робочого столу
-  description: Корпорація Майкрософт бізнес-рішення для аналітики--FRx 6,7 робочого стола, слід фіксована політика життєвого циклу.
+  title: Microsoft Business Solutions for Analytics--FRx 6.7 Desktop
+  description: До Microsoft Business Solutions for Analytics--FRx 6.7 Desktop застосовується політика фіксованого життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: ba731ed0c09140b17a3ebf628e7383065aa65714
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845804"
-name: Microsoft бізнес-рішення для аналітики--FRx 6,7 робочого столу
+name: Microsoft Business Solutions for Analytics--FRx 6.7 Desktop
 summary: >+
-  Корпорація Майкрософт бізнес-рішення для аналітики--FRx 6,7 робочого стола, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  До Microsoft Business Solutions for Analytics--FRx 6.7 Desktop застосовується політика [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2004
   endDate: 07/08/2014
-content: "\n\n> [!NOTE]\n> Служба FRx завершується датою, вказаною, якщо вона не поширюється як компонент засобу Dynamics. Під час розповсюдження з продуктом Dynamics, дати життєвого циклу Dynamics перевизначення дати FRx."
+content: "\n\n> [!NOTE]\n> Підтримка FRx завершується у вказаний день, якщо вона не поширюється у вигляді компонента продукту Dynamics. При розповсюдженні з продуктом Dynamics тривалість життєвого циклу Dynamics має перевагу над тривалістю життєвого циклу FRx."

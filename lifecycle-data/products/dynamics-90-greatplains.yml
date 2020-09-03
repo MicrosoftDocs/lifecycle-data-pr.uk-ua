@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Динаміка 9,0 Велинрівнини
-  description: Динаміка 9,0 Велинрівнин дотримується фіксованої політики життєвого циклу.
+  title: Dynamics 9.0 GreatPlains
+  description: До Dynamics 9.0 GreatPlains застосовується політика фіксованого життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0015493ad223e4603a77b348f406d9a2df47d315
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845213"
-name: Динаміка 9,0 Велинрівнини
+name: Dynamics 9.0 GreatPlains
 summary: >
-  Динаміка 9,0 Велинрівнин дотримується [фіксованої](/lifecycle/policies/fixed) політики життєвого циклу.
+  До Dynamics 9.0 GreatPlains застосовується політика [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
 
 
   > [!IMPORTANT]
 
-  > Підтримка цього продукту закінчилася.
+  > Підтримка цього продукту закінчилась.
 products:
 - dynamics
 policyType: fixed
