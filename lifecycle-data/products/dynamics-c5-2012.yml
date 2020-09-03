@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics C5 2012
-  description: Dynamics C5 2012 слідує за фіксованою політикою життєвого циклу.
+  description: До Dynamics C5 2012 застосовується політика фіксованого життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0e2fde2211933228e6bd97265e65fd5c7d711bde
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865636"
 name: Dynamics C5 2012
 summary: >+
-  Dynamics C5 2012 слідує за [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  До Dynamics C5 2012 застосовується політика [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
 
-  Це стосується таких випусків: стандартна
+  Це стосується наступних випусків: Standard
 
 products:
 - dynamics
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 01/10/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Посилання \n* [Міграційне керівництво](/dynamics-nav-app/localfunctionality/denmark/ui-extensions-c5-data-migration)\n* [Політика пакета оновлень](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Видання \n* Стандартний"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Вказівки щодо міграції](/dynamics-nav-app/localfunctionality/denmark/ui-extensions-c5-data-migration)\n* [Політика пакетів оновлень](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Версії \n* Standard"

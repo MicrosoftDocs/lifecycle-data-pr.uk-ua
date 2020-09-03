@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows багатоточкової сервера 2012
-  description: Windows багатоточкової Server 2012 відповідає фіксованою політикою життєвого циклу.
+  title: Windows MultiPoint Server 2012
+  description: До Windows MultiPoint Server 2012 застосовується політика фіксованого життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 680c62e4b7aa1f0393f32386deb68f9c976b7c9b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865602"
-name: Windows багатоточкової сервера 2012
+name: Windows MultiPoint Server 2012
 summary: >+
-  Windows багатоточкової Server 2012 відповідає [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  До Windows MultiPoint Server 2012 застосовується політика [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
 
-  Це стосується таких випусків: Premium, Standard
+  Це стосується наступних випусків: Premium, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Посилання \n* [Міграційне керівництво](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Основну та розширену підтримку цього продукту було розширено, щоб надати клієнтам стандартну хронологію переходу на життєвий цикл.\n\n## <a name=\"editions\"></a>Видання \n* Преміум\n* Стандартний"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Вказівки щодо міграції](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Основну та розширену підтримку цього продукту було розширено, щоб надати клієнтам стандартний час для переходу.\n\n## <a name=\"editions\"></a>Версії \n* Premium\n* Standard"

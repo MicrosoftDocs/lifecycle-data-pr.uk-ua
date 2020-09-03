@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Azure віртуальної машини (класичний) (підтвердження з Azure перед публікацією-немає дати завершення на дату сітки)
-  description: Microsoft Azure віртуальної машини (Classic) (підтвердження з Azure перед публікацією-немає дати завершення на дату сітки), відповідає сучасній політиці життєвого циклу.
+  title: Віртуальна машина Microsoft Azure (класична) (необхідне узгодження з Azure перед публікацією — дата завершення у графіку дат відсутня)
+  description: До віртуальної машини Microsoft Azure (класична) (необхідне узгодження з Azure перед публікацією — дата завершення у графіку дат відсутня) застосовується політика сучасного життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 62691a5a8045c8744b291cd5475ad7b6828542e8
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865694"
-name: Microsoft Azure віртуальної машини (класичний) (підтвердження з Azure перед публікацією-немає дати завершення на дату сітки)
+name: Віртуальна машина Microsoft Azure (класична) (необхідне узгодження з Azure перед публікацією — дата завершення у графіку дат відсутня)
 summary: >+
-  Microsoft Azure віртуальної машини (Classic) (підтвердження з Azure перед публікацією-немає дати завершення на дату сітки), відповідає [сучасній](/lifecycle/policies/modern) політиці життєвого циклу.
+  До віртуальної машини Microsoft Azure (класична) (необхідне узгодження з Azure перед публікацією — дата завершення у графіку дат відсутня) застосовується політика [сучасного](/lifecycle/policies/modern) життєвого циклу.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 06/07/2012
   endDate: 03/01/2023
-content: "\n## <a name=\"links\"></a>Посилання \n* [Міграційне керівництво](/azure/virtual-machines/classic-vm-deprecation)"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Вказівки щодо міграції](/azure/virtual-machines/classic-vm-deprecation)"

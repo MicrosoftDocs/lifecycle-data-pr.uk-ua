@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center 2012 Диспетчер служби
-  description: Диспетчер служби Microsoft System Center 2012 відповідає фіксованою політикою життєвого циклу.
+  title: Microsoft System Center 2012 Service Manager
+  description: До Microsoft System Center 2012 Service Manager застосовується політика фіксованого життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 98b376f557f50d8ecdb538898e2526fa207c12bb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865442"
-name: Microsoft System Center 2012 Диспетчер служби
+name: Microsoft System Center 2012 Service Manager
 summary: >+
-  Диспетчер служби Microsoft System Center 2012 відповідає [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  До Microsoft System Center 2012 Service Manager застосовується політика [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Посилання \n* [Політика пакета оновлень](/lifecycle/policies/fixed#service-packs)\n* [System Center ресурси](https://www.microsoft.com/system-center/resources)\n* [System Center документації](/system-center/#pivot=components&panel=components-all)"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Політика пакетів оновлень](/lifecycle/policies/fixed#service-packs)\n* [Ресурси System Center](https://www.microsoft.com/system-center/resources)\n* [Документація System Center](/system-center/#pivot=components&panel=components-all)"

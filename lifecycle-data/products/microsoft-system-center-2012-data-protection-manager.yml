@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center 2012 Диспетчер захисту даних
-  description: Microsoft System Center 2012 Диспетчер захисту даних, слід фіксована політика життєвого циклу.
+  title: Microsoft System Center 2012 Data Protection Manager
+  description: До Microsoft System Center 2012 Data Protection Manager застосовується політика фіксованого життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: a3667b8180199cea7d42f522b7be36abcf2e4a45
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865582"
-name: Microsoft System Center 2012 Диспетчер захисту даних
+name: Microsoft System Center 2012 Data Protection Manager
 summary: >+
-  Microsoft System Center 2012 Диспетчер захисту даних, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  До Microsoft System Center 2012 Data Protection Manager застосовується політика [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Посилання \n* [System Center документації](/system-center/#pivot=components&panel=components-all)\n* [System Center ресурси](https://www.microsoft.com/system-center/resources)\n* [Політика пакета оновлень](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Документація System Center](/system-center/#pivot=components&panel=components-all)\n* [Ресурси System Center](https://www.microsoft.com/system-center/resources)\n* [Політика пакетів оновлень](/lifecycle/policies/fixed#service-packs)"

@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Internet Explorer 10
-  description: У браузері Internet Explorer 10 слід політики життєвого циклу компонентів.
+  title: Internet Explorer 10
+  description: До Internet Explorer 10 застосовується політика життєвого циклу компонента.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1faf7eecca13c22c8c54ab7382dfcf21c637cb1f
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865522"
-name: Internet Explorer 10
-summary: >+
-  У браузері Internet Explorer 10 слід політики життєвого циклу [компонентів](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
-
-
+name: Internet Explorer 10
+summary: "До Internet Explorer 10 застосовується політика життєвого циклу [компонента](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy). \n\n\n"
 products:
 - internet-explorer
 policyType: component
@@ -24,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/31/2020
-content: "\n## <a name=\"links\"></a>Посилання \n* [Міграційне керівництво](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)\n* [Поширені запитання про політику життєвого циклу браузера Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Перегляньте поширені запитання про життєвий цикл браузера Internet Explorer для списку підтримуваних операційних систем і комбінацій веб-переглядача."
+content: "\n## <a name=\"links\"></a>Посилання \n* [Вказівки щодо міграції](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)\n* [Політика життєвого циклу Internet Explorer: запитання та відповіді](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Перегляньте на сторінці «Життєвий цикл Internet Explorer: запитання та відповіді» список підтримуваних комбінацій операційних систем і браузерів."

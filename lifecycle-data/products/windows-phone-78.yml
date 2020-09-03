@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Phone 7,8
-  description: Windows Phone 7,8 слідує за фіксованою політикою життєвого циклу.
+  title: Windows Phone 7.8
+  description: До Windows Phone 7.8 застосовується політика фіксованого життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7ca5bd0f56f415c7c686e60ef7931172ce97a495
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865830"
-name: Windows Phone 7,8
+name: Windows Phone 7.8
 summary: >
-  Windows Phone 7,8 слідує за [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  До Windows Phone 7.8 застосовується політика [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
 
 
   > [!IMPORTANT]
 
-  > Підтримка цього продукту закінчилася.
+  > Підтримка цього продукту закінчилась.
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 02/09/2013
   endDate: 10/14/2014
-content: "\n\n> [!NOTE]\n> Корпорація Майкрософт зробить доступними оновлення для операційної системи на телефоні, включно з оновленнями системи безпеки протягом 18 місяців після дати початку життєвого циклу. Розповсюдження оновлень може контролювати оператор мобільного зв'язку або виробник телефону, з якого ви придбали телефон. Доступність оновлень залежить від країни, регіону та можливостей обладнання."
+content: "\n\n> [!NOTE]\n> Microsoft зробить доступними оновлення для операційної системи вашого телефону, включно з оновленнями безпеки, протягом 18 місяців після дати початку життєвого циклу. Розповсюдження оновлень може регулювати оператор мобільного зв’язку або виробник телефона. Доступність оновлень залежить від країни, регіону та можливостей обладнання."
