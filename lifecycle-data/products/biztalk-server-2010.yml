@@ -1,16 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"BizTalk Server 2010\""
-  description: "\"BizTalk Server 2010\" відповідає політиці фіксованого життєвого циклу."
+  title: BizTalk Server 2010
+  description: До BizTalk Server 2010 застосовується фіксована політика життєвого циклу.
   ms.date: 08/19/2020
   ms.openlocfilehash: cf79175dea88682f0ace56ab69a2dc9e933ccc58
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "903712"
-name: "\"BizTalk Server 2010\""
-summary: "\"BizTalk Server 2010\" відповідає політиці [фіксованого](/lifecycle/policies/fixed) життєвого циклу.\n\nЦе стосується таких випусків: гілка, розробник, Enterprise, Enterprise RFID, Standard\n\n"
+name: BizTalk Server 2010
+summary: >+
+  До BizTalk Server 2010 застосовується [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+
+
+  Це стосується наступних версій: Branch, Developer, Enterprise, Enterprise RFID, Standard
+
 products:
 - microsoft-servers
 policyType: fixed
@@ -22,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/14/2010
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>Посилання \n* [Посібник із перенесення](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Відомості про версію](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Видання \n* Branch\n* Розробник\n* Підприємств\n* Корпоративні RFID\n* Стандартний"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Вказівки щодо міграції](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Відомості про версію](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Версії \n* Branch\n* Developer\n* Enterprise\n* Enterprise RFID\n* Standard"

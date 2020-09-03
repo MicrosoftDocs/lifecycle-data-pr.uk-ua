@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 Mobile Enterprise, випущений у серпні 2016
-  description: Windows 10 Mobile Enterprise, випущений у серпні 2016, слід фіксована політика життєвого циклу.
+  title: Windows 10 Mobile Enterprise, випущена в серпні 2016 року
+  description: До Windows 10 Mobile Enterprise, випущеної в серпні 2016 року, застосовується політика фіксованого життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4be5f436289a8bcbb309b5b3e9eea4c43abbec7c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865655"
-name: Windows 10 Mobile Enterprise, випущений у серпні 2016
+name: Windows 10 Mobile Enterprise, випущена в серпні 2016 року
 summary: >
-  Windows 10 Mobile Enterprise, випущений у серпні 2016, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  До Windows 10 Mobile Enterprise, випущеної в серпні 2016 року, застосовується політика [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
 
 
   > [!IMPORTANT]
 
-  > Підтримка цього продукту закінчилася.
+  > Підтримка цього продукту закінчилась.
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/16/2016
   endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>Посилання \n* [Запитання й відповіді про життєвий цикл ОС пристрою](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile завершилася підтримка 10 грудня 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Життєвий цикл ОС пристрою: запитання та відповіді](/lifecycle/faq/device-operating-systems)\n* [Підтримка Windows 10 Mobile завершилася 10 грудня 2019 р.](/lifecycle/announcements/windows-10-mobile-end-of-support)"

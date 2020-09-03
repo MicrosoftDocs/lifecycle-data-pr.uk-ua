@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System центр 2012 Operations Manager
-  description: Microsoft System центр 2012 Operations Manager, слід фіксована політика життєвого циклу.
+  title: Microsoft System Center 2012 Operations Manager
+  description: До Microsoft System Center 2012 Operations Manager застосовується політика фіксованого життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 837eee5f41fd4a6fe7ae7bee9c04af085e831004
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865580"
-name: Microsoft System центр 2012 Operations Manager
+name: Microsoft System Center 2012 Operations Manager
 summary: >+
-  Microsoft System центр 2012 Operations Manager, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  До Microsoft System Center 2012 Operations Manager застосовується політика [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Посилання \n* [Політика пакета оновлень](/lifecycle/policies/fixed#service-packs)\n* [System Center документації](/system-center/#pivot=components&panel=components-all)\n* [System Center ресурси](https://www.microsoft.com/system-center/resources)"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Політика пакетів оновлень](/lifecycle/policies/fixed#service-packs)\n* [Документація System Center](/system-center/#pivot=components&panel=components-all)\n* [Ресурси System Center](https://www.microsoft.com/system-center/resources)"

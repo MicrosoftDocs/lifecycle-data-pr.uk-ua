@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Lync Phone Edition
-  description: Microsoft Lync Phone Edition, слід фіксована політика життєвого циклу.
+  title: Microsoft Lync для телефону
+  description: До Microsoft Lync Phone Edition застосовується політика фіксованого життєвого циклу.
   ms.date: 07/30/2020
   ms.openlocfilehash: 9eab078296b6c16d3acdc1552739dabb02ab10a1
   ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/31/2020
   ms.locfileid: "879545"
-name: Microsoft Lync Phone Edition
+name: Microsoft Lync для телефону
 summary: >+
-  Microsoft Lync Phone Edition, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  До Microsoft Lync Phone Edition застосовується політика [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Посилання \n* [Додаткові відомості](https://techcommunity.microsoft.com/t5/Skype-for-Business-Blog/Certified-Skype-for-Business-Online-Phones-and-what-this-means/ba-p/120035)\n\n> [!NOTE]\n> Lync Phone Edition підтримується Lync Server 2010 і Lync Server 2013. Дата підтримки Lync Phone Edition було подовжено 2 років, щоб узгодити з життєвого циклу Lync Server 2013."
+content: "\n## <a name=\"links\"></a>Посилання \n* [Додаткова інформація](https://techcommunity.microsoft.com/t5/Skype-for-Business-Blog/Certified-Skype-for-Business-Online-Phones-and-what-this-means/ba-p/120035)\n\n> [!NOTE]\n> Lync Phone Edition підтримується Lync Server 2010 і Lync Server 2013. Підтримку Lync Phone Edition було подовжено на 2 роки для узгодження із життєвим циклом Lync Server 2013."

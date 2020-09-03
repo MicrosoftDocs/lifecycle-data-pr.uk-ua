@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center 2012 віртуальної машини диспетчера
-  description: Microsoft System Center 2012 віртуальної машини Manager, слід фіксована політика життєвого циклу.
+  title: Microsoft System Center 2012 Virtual Machine Manager
+  description: До Microsoft System Center 2012 Virtual Machine Manager застосовується політика фіксованого життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 09642342cee1a3d9fbe2ccab2f193a34364664bd
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865799"
-name: Microsoft System Center 2012 віртуальної машини диспетчера
+name: Microsoft System Center 2012 Virtual Machine Manager
 summary: >+
-  Microsoft System Center 2012 віртуальної машини Manager, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  До Microsoft System Center 2012 Virtual Machine Manager застосовується [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Посилання \n* [Політика пакета оновлень](/lifecycle/policies/fixed#service-packs)\n* [System Center документації](/system-center/#pivot=components&panel=components-all)\n* [System Center ресурси](https://www.microsoft.com/system-center/resources)"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Політика пакетів оновлень](/lifecycle/policies/fixed#service-packs)\n* [Документація System Center](/system-center/#pivot=components&panel=components-all)\n* [Ресурси System Center](https://www.microsoft.com/system-center/resources)"

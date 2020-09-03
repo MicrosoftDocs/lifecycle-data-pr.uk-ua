@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics AX 2012 R3
-  description: Dynamics AX 2012 R3 відповідає фіксованою політикою життєвого циклу.
+  description: До Dynamics AX 2012 R3 застосовується політика фіксованого життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: d321f6b8d10b4c1acf17eb7645030cca46f4f611
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865638"
 name: Dynamics AX 2012 R3
 summary: >+
-  Dynamics AX 2012 R3 відповідає [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  До Dynamics AX 2012 R3 застосовується політика [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 08/01/2014
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Посилання \n* [Міграційне керівництво](/dynamics365/unified-operations/dev-itpro/migration-upgrade/upgrade-overview-2012)\n* [Програма міграції Dynamics 365](https://dynamics.microsoft.com/migration-program/)\n* [Додаткова інформація про життєвий цикл](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/upgrade-overview-2012)\n\n> [!NOTE]\n> Базова та розширена підтримка була розширена, як показано на малюнку."
+content: "\n## <a name=\"links\"></a>Посилання \n* [Вказівки щодо міграції](/dynamics365/unified-operations/dev-itpro/migration-upgrade/upgrade-overview-2012)\n* [Програма міграції Dynamics 365](https://dynamics.microsoft.com/migration-program/)\n* [Додаткові відомості про життєвий цикл](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/upgrade-overview-2012)\n\n> [!NOTE]\n> Базову і розширену підтримки було продовжено як показано."
