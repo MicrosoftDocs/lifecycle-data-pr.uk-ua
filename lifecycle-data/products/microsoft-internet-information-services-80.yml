@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Корпорація Майкрософт відомості про служби Інтернету 8,0
-  description: Microsoft інформаційних служб Інтернету 8,0, слід політики життєвого циклу компонентів.
+  title: Сервіси Internet Information Services 8.0 Microsoft
+  description: До сервісів Internet Information Services 8.0 Microsoft застосовується політика життєвого циклу компонента.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71be1061b611798489998e4437c1e3d80bbe19b3
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845189"
-name: Корпорація Майкрософт відомості про служби Інтернету 8,0
+name: Сервіси Internet Information Services 8.0 Microsoft
 summary: >+
-  Microsoft інформаційних служб Інтернету 8,0, слід політики життєвого циклу [компонентів](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  До сервісів Internet Information Services 8.0 Microsoft застосовується політика життєвого циклу [компонента](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/30/2012
-content: "> [!TIP]\n> Цей випуск відомий як компонент, який слідує життєвого циклу підтримки батьківського основного продукту, Windows Server 2012 і Windows 8\n\n## <a name=\"links\"></a>Посилання \n* [Windows Server 2012](/lifecycle/products/windows-server-2012)\n* [Вікна 8](/lifecycle/products/windows-8)"
+content: "> [!TIP]\n> Ця версія відома як компонент, до якого застосовується життєвий цикл підтримки його батьківського основного продукту, Windows Server 2012 та Windows 8\n\n## <a name=\"links\"></a>Посилання \n* [Windows Server 2012](/lifecycle/products/windows-server-2012)\n* [Windows 8](/lifecycle/products/windows-8)"

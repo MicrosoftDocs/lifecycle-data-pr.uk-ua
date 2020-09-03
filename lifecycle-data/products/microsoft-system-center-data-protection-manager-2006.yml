@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System центр захисту даних Диспетчер 2006
-  description: Microsoft System центр даних захист Диспетчер 2006 відповідає фіксована політика життєвого циклу.
+  title: Microsoft System Center Data Protection Manager 2006
+  description: До Microsoft System Center Data Protection Manager 2006 застосовується політика фіксованого життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: e1d39ae874bd9d3a0491711fa466958ed75fae39
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845711"
-name: Microsoft System центр захисту даних Диспетчер 2006
+name: Microsoft System Center Data Protection Manager 2006
 summary: >+
-  Microsoft System центр даних захист Диспетчер 2006 відповідає [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  До Microsoft System Center Data Protection Manager 2006 застосовується політика [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2005
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>Посилання \n* [Політика пакета оновлень](/lifecycle/policies/fixed#service-packs)\n* [Міграційне керівництво](https://blogs.technet.microsoft.com/dpm/2016/03/24/system-center-data-protection-manager-2006-end-of-support)"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Політика пакетів оновлень](/lifecycle/policies/fixed#service-packs)\n* [Вказівки щодо міграції](https://blogs.technet.microsoft.com/dpm/2016/03/24/system-center-data-protection-manager-2006-end-of-support)"

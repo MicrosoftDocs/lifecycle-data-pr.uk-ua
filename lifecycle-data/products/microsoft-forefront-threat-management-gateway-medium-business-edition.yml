@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Основний шлюз керування загрозами Microsoft, випуск середнього бізнесу
-  description: Microsoft Forefront загрози керування шлюз, середнього бізнесу Edition, слід фіксована політика життєвого циклу.
+  title: Microsoft Forefront Threat Management Gateway, Medium Business Edition
+  description: До Microsoft Forefront Threat Management Gateway, Medium Business Edition застосовується політика фіксованого життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3c131da862f2972fbb5afe704f499ea4e649df78
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845760"
-name: Основний шлюз керування загрозами Microsoft, випуск середнього бізнесу
+name: Microsoft Forefront Threat Management Gateway, Medium Business Edition
 summary: >+
-  Microsoft Forefront загрози керування шлюз, середнього бізнесу Edition, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  До Microsoft Forefront Threat Management Gateway, Medium Business Edition застосовується політика [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
 
-  Це стосується таких випусків: бізнес
+  Це стосується наступних версій: Business
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/12/2008
   endDate: 11/12/2018
-content: "\n## <a name=\"links\"></a>Посилання \n* [Міграційне керівництво](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Видання \n* Бізнес"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Вказівки щодо міграції](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Версії \n* Business"

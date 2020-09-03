@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft офіс з'єднання 2007
-  description: З'єднання Microsoft Office 2007 слід фіксована політика життєвого циклу.
+  title: Microsoft Office InterConnect 2007
+  description: До Microsoft Office InterConnect 2007 застосовується політика фіксованого життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2930b1c5bd1db016e2228772f4a4b81678ce6f68
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845401"
-name: Microsoft офіс з'єднання 2007
+name: Microsoft Office InterConnect 2007
 summary: >+
-  З'єднання Microsoft Office 2007 слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  До Microsoft Office InterConnect 2007 застосовується політика [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
 
-  Це стосується таких випусків: стандартна
+  Це стосується наступних випусків: Standard
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Посилання \n* [Міграційне керівництво](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Видання \n* Стандартний"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Вказівки щодо міграції](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Версії \n* Standard"

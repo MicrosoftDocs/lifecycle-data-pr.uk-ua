@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft офіс комунікатора телефон Edition
-  description: Microsoft Office комунікатора телефон Edition слід фіксована політика життєвого циклу.
+  title: Microsoft Office Communicator (для телефону)
+  description: До Microsoft Office Communicator Phone Edition застосовується політика фіксованого життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 368d65cc1ace6dffa576cfa9add8d9e3286a6ea9
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846106"
-name: Microsoft офіс комунікатора телефон Edition
+name: Microsoft Office Communicator (для телефону)
 summary: >+
-  Microsoft Office комунікатора телефон Edition слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  До Microsoft Office Communicator Phone Edition застосовується політика [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
 
-  Це стосується такі випуски: телефон
+  Це стосується наступних версій: Phone
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2007
   endDate: 04/11/2017
-content: "\n## <a name=\"links\"></a>Посилання \n* [Міграційне керівництво](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>Видання \n* Телефон"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Вказівки щодо міграції](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>Версії \n* Phone"

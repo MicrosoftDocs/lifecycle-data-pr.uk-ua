@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft офіс комунікатора 2007
-  description: Комунікатора Microsoft Office 2007 слідує за фіксованою політикою життєвого циклу.
+  title: Microsoft Office Communicator 2007
+  description: До Microsoft Office Communicator 2007 застосовується політика фіксованого життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: ab077ce0dedfc09ea235a467e0f9239d5969a2af
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846108"
-name: Microsoft офіс комунікатора 2007
-summary: "Комунікатора Microsoft Office 2007 слідує за [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.\n\nЦе стосується таких випусків: стандартна\n\n> [!IMPORTANT]\n> Підтримка цього продукту закінчилася. \n"
+name: Microsoft Office Communicator 2007
+summary: "До Microsoft Office Communicator 2007 застосовується політика [фіксованого](/lifecycle/policies/fixed) життєвого циклу.\n\nЦе стосується наступних версій: Standard\n\n> [!IMPORTANT]\n> Підтримка цього продукту закінчилась. \n"
 products:
 - office
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 10/27/2007
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Посилання \n* [Міграційне керівництво](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>Видання \n* Стандартний"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Вказівки щодо міграції](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>Версії \n* Standard"
