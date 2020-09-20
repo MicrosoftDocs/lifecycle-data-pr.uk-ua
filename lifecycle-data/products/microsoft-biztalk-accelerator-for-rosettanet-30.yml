@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Прискорювач Microsoft Biktalk для Rosettet 3,0
-  description: Прискорювач Microsoft Biktalk для Rosettet 3,0 відповідає політиці фіксованого життєвого циклу.
+  title: Microsoft BizTalk Accelerator для RosettaNet 3.0
+  description: Microsoft BizTalk Accelerator для RosettaNet 3.0 регулюється фіксованою політикою життєвого циклу.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: 1a27e01c802b94c72dbcab51e79d200fb0877182
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934842"
-name: Прискорювач Microsoft Biktalk для Rosettet 3,0
+name: Microsoft BizTalk Accelerator для RosettaNet 3.0
 summary: >+
-  Прискорювач Microsoft Biktalk для Rosettet 3,0 відповідає політиці [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
+  Microsoft BizTalk Accelerator для RosettaNet 3.0 регулюється [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
   Це стосується наступних випусків: Enterprise, Standard

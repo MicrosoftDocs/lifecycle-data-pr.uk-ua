@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: PowerShell
-  description: PowerShell відповідає сучасному політиці життєвого циклу.
+  description: PowerShell регулюється сучасною політикою життєвого циклу.
   ms.date: 09/02/2020
   keywords: ''
   ms.openlocfilehash: 5819d863d735920cdb08f70b8280348c152ca27c
   ms.sourcegitcommit: 33a446990607d1c24303bd86e45d4e4de34e56a5
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 09/02/2020
   ms.locfileid: "945240"
 name: PowerShell
 summary: >+
-  PowerShell відповідає [сучасному](/lifecycle/policies/modern) політиці життєвого циклу.
+  PowerShell регулюється [сучасною](/lifecycle/policies/modern) політикою життєвого циклу.
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: PowerShell 6.x
   startDate: 01/19/2018
   endDate: 09/04/2020
-content: "\n## <a name=\"links\"></a>Посилання \n* [Службова інформація](https://aka.ms/pslifecycle)\n\n> [!NOTE]\n> Докладні відомості про життєвий цикл PowerShell наведено в інформаційному посиланні на обслуговування."
+content: "\n## <a name=\"links\"></a>Посилання \n* [Службова інформація](https://aka.ms/pslifecycle)\n\n> [!NOTE]\n> Перегляньте докладні відомості про життєвий цикл PowerShell за посиланням для переходу до інформації щодо обслуговування."
