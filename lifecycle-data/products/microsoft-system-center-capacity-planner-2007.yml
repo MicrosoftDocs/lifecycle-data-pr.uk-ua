@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System центр ємність планувальник 2007
-  description: Microsoft System Center ємність планувальник 2007 відповідає фіксована політика життєвого циклу.
+  title: Microsoft System Center Capacity Planner 2007
+  description: Планувальник доступності системного центру 2007 регулюється фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 026bf977e513462e9f4e5cb0509144ac26e9b9f7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845719"
-name: Microsoft System центр ємність планувальник 2007
+name: Microsoft System Center Capacity Planner 2007
 summary: >
-  Microsoft System Center ємність планувальник 2007 відповідає [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  Планувальник доступності системного центру 2007 регулюється [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
 
   > [!IMPORTANT]
 
-  > Підтримка цього продукту закінчилася.
+  > Підтримка цього продукту закінчилась.
 products:
 - msc
 policyType: fixed

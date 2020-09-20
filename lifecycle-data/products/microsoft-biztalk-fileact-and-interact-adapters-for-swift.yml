@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Корпорація Майкрософт BizTalk-файлів і взаємодіють адаптери для SWIFT
-  description: Корпорація Майкрософт BizTalk-файлу та взаємодіяти адаптери для SWIFT слід фіксована політика життєвого циклу.
+  title: Microsoft BizTalk FileAct та InterAct Adapters for SWIFT
+  description: Microsoft BizTalk FileAct і адаптери InterAct для SWIFT керуються фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 654ca219f5eb9869d6bae2aaaef848a48af3560e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845813"
-name: Корпорація Майкрософт BizTalk-файлів і взаємодіють адаптери для SWIFT
+name: Microsoft BizTalk FileAct та InterAct Adapters for SWIFT
 summary: >+
-  Корпорація Майкрософт BizTalk-файлу та взаємодіяти адаптери для SWIFT слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  Microsoft BizTalk FileAct і адаптери InterAct для SWIFT керуються [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
 products:

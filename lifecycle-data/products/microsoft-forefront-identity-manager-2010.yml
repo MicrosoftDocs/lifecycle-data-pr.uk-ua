@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Диспетчер ідентифікації Microsoft Forefront 2010
-  description: Диспетчер посвідчень Microsoft Forefront 2010 дотримується фіксованої політики життєвого циклу.
+  description: Диспетчер ідентифікації Microsoft Forefront 2010 регулюється фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9b76ebc222ff94ed78ae77e18623f18557e8ac38
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845763"
 name: Диспетчер ідентифікації Microsoft Forefront 2010
 summary: >+
-  Диспетчер посвідчень Microsoft Forefront 2010 дотримується [фіксованої](/lifecycle/policies/fixed) політики життєвого циклу.
+  Диспетчер ідентифікації Microsoft Forefront 2010 регулюється [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 05/27/2010
   endDate: 10/11/2022
-content: "\n\n> [!NOTE]\n> Базова та розширена підтримка диспетчера ідентифікації Microsoft Forefront 2010 розширена, як показано для того, щоб забезпечити всім користувачам стандартну хронологію переходу на життєвий цикл."
+content: "\n\n> [!NOTE]\n> Основну та розширену підтримку Диспетчера ідентифікації Microsoft Forefront 2010 було подовжено відповідно до вказаної інформації для того, щоб усі користувачі мали змогу скористатися стандартним перехідним періодом життєвого циклу."
