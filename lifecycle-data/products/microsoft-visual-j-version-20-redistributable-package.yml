@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Visual J# версії 2,0 пакет вторинного розповсюдження
-  description: Microsoft Visual J# версії 2,0 пакет вторинного розповсюдження, слід фіксована політика життєвого циклу.
+  title: Пакет вторинного розповсюдження Microsoft Visual J# Версії 2.0
+  description: Пакет вторинного розповсюдження Microsoft Visual J# Версія 2.0 регулюється фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: fa32b69860aec252b7d1068ad2e130700f9d0b92
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845300"
-name: Microsoft Visual J# версії 2,0 пакет вторинного розповсюдження
+name: Пакет вторинного розповсюдження Microsoft Visual J# Версії 2.0
 summary: >+
-  Microsoft Visual J# версії 2,0 пакет вторинного розповсюдження, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  Пакет вторинного розповсюдження Microsoft Visual J# Версія 2.0 регулюється  [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 04/22/2006
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>Посилання \n* [Відомості про підтримку Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n\n> [!NOTE]\n> Підтримка цього продукту закінчилася. Нижче наведено вказівки щодо міграції."
+content: "\n## <a name=\"links\"></a>Посилання \n* [Інформація про підтримку Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n\n> [!NOTE]\n> Підтримка цього продукту закінчилась. Нижче наведено вказівки щодо міграції."

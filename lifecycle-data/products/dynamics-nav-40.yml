@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics NAV 4,0
-  description: Dynamics NAV 4,0, слід фіксована політика життєвого циклу.
+  title: Dynamics NAV 4.0
+  description: До Dynamics NAV 4.0 застосовується політика фіксованого життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 766b8f2b69ca45d1ff1620ce6787df299bb68955
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845889"
-name: Dynamics NAV 4,0
-summary: "Dynamics NAV 4,0, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.\n\n\n> [!IMPORTANT]\n> Підтримку завершено. \n"
+name: Dynamics NAV 4.0
+summary: "До Dynamics NAV 4.0 застосовується політика [фіксованого](/lifecycle/policies/fixed) життєвого циклу.\n\n\n> [!IMPORTANT]\n> Підтримку завершено. \n"
 products:
 - dynamics
 policyType: fixed-mainstream-only

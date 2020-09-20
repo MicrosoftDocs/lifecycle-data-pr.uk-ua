@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Захисник Windows для Windows 10
-  description: Захисник Windows для Windows 10 відповідає політиці життєвого циклу компонентів.
+  description: Захисник Windows для Windows 10 регулюється політикою життєвого циклу компонентів.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4bebd1c04c81844b3d0dde309f7fd75b1856fdf6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845648"
 name: Захисник Windows для Windows 10
 summary: >+
-  Захисник Windows для Windows 10 відповідає політиці життєвого циклу [компонентів](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Захисник Windows для Windows 10 регулюється політикою життєвого циклу [компонентів](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 07/29/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Посилання \n* [Windows, 10](/lifecycle/products/?terms=windows%2010)\n\n> [!NOTE]\n> Цей випуск відомий як компонент, який слідує життєвого циклу батьківського продукту Windows 10."
+content: "\n## <a name=\"links\"></a>Посилання \n* [Windows 10](/lifecycle/products/?terms=windows%2010)\n\n> [!NOTE]\n> Цей випуск відомий як компонент, до якого застосовується життєвий цикл батьківського продукту — Windows 10."

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: SoftGrid для сервера терміналів (MDOP)
-  description: SoftGrid для сервера терміналів (MDOP) слід фіксована політика життєвого циклу.
+  title: Softgrid для сервера терміналів (MDOP)
+  description: Softgrid для сервера терміналів (MDOP) регулюється фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 678dd6057802afee1e92f8bba4296ee1b620a97d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845132"
-name: SoftGrid для сервера терміналів (MDOP)
+name: Softgrid для сервера терміналів (MDOP)
 summary: >+
-  SoftGrid для сервера терміналів (MDOP) слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  Softgrid для сервера терміналів (MDOP) регулюється [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Посилання \n* [Поширені питання про життєвий цикл-загальні](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Виключає версії, які раніше не підтримувалися. Підтримка цього продукту регулюється умовами його придбання."
+content: "\n## <a name=\"links\"></a>Посилання \n* [Запитання й відповіді щодо життєвого циклу: загальні](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Виключає версії, які раніше не підтримувалися. Підтримка цього продукту здійснюється відповідно до умов його придбання."

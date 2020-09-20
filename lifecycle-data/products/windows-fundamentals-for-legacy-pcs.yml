@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Основи Windows для застарілих комп'ютерів
-  description: Основи Windows для застарілих комп'ютерів, слід фіксована політика життєвого циклу.
+  title: Windows Fundamentals for Legacy PCs
+  description: Windows Fundamentals for Legacy PCs регулюється фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: b0ea32a5421ba068c5fa75f46633c104fdb3eff5
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845112"
-name: Основи Windows для застарілих комп'ютерів
+name: Windows Fundamentals for Legacy PCs
 summary: >+
-  Основи Windows для застарілих комп'ютерів, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  Windows Fundamentals for Legacy PCs регулюється [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2006
   endDate: 10/12/2010
-content: "\n## <a name=\"links\"></a>Посилання \n* [Політика пакета оновлень](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Цей продукт відповідає тій самій політиці життєвого циклу підтримки, що й Windows XP."
+content: "\n## <a name=\"links\"></a>Посилання \n* [Політика пакетів оновлень](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Цей продукт регулюється тією ж політикою життєвого циклу підтримки, що й Windows XP."

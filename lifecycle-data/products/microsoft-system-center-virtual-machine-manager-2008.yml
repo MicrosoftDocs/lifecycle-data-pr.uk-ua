@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System центр віртуальної машини Диспетчер 2008
-  description: Microsoft System Center віртуальної машини Manager 2008, слід фіксована політика життєвого циклу.
+  title: Диспетчер віртуальних машин системного центру 2008
+  description: Диспетчер віртуальних машин системного центру 2008 регулюється фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 20f4d174c142e762fd98385e6b0296fa13c41081
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845698"
-name: Microsoft System центр віртуальної машини Диспетчер 2008
+name: Диспетчер віртуальних машин системного центру 2008
 summary: >
-  Microsoft System Center віртуальної машини Manager 2008, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  Диспетчер віртуальних машин системного центру 2008 регулюється [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
 
   > [!IMPORTANT]
 
-  > Підтримка цього продукту закінчилася.
+  > Підтримка цього продукту закінчилась.
 products:
 - msc
 policyType: fixed

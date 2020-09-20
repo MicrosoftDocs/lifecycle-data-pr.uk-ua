@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Virtual PC 2007
-  description: Virtual PC 2007 слідує фіксованою політикою життєвого циклу.
+  description: Virtual PC 2007 регулюється фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: f4c016f39a3c567e73c1f143299d4cbe59a6f528
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845655"
 name: Virtual PC 2007
 summary: >
-  Virtual PC 2007 слідує [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  Virtual PC 2007 регулюється [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
 
   > [!IMPORTANT]
 
-  > Підтримка цього продукту закінчилася.
+  > Підтримка цього продукту закінчилась.
 products:
 - windows
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 05/05/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Посилання \n* [Політика пакета оновлень](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Політика пакетів оновлень](/lifecycle/policies/fixed#service-packs)"
