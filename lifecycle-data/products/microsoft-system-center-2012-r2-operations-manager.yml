@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System центр 2012 R2 Operations Manager
-  description: Microsoft System центр 2012 R2 Operations Manager, слід фіксована політика життєвого циклу.
+  title: Диспетчер операцій системного центру 2012 R2
+  description: Диспетчер операцій системного центру 2012 R2 регулюється фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 57db6fbda015c2bbd55d4ec9621ed6cda6948a56
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865438"
-name: Microsoft System центр 2012 R2 Operations Manager
+name: Диспетчер операцій системного центру 2012 R2
 summary: >+
-  Microsoft System центр 2012 R2 Operations Manager, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  Диспетчер операцій системного центру 2012 R2 регулюється [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/16/2014
   endDate: 07/12/2022
-content: "\n## <a name=\"links\"></a>Посилання \n* [System Center документації](/system-center/#pivot=components&panel=components-all)\n* [System Center ресурси](https://www.microsoft.com/system-center/resources)"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Документація System Center](/system-center/#pivot=components&panel=components-all)\n* [Ресурси System Center](https://www.microsoft.com/system-center/resources)"

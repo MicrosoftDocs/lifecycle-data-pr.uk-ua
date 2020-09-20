@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Нарада Office наживо
-  description: Служба Office наживо відповідає сучасному політиці життєвого циклу.
+  title: Office Live Meeting
+  description: Office Live Meeting регулюється сучасною політикою життєвого циклу.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: f5d328b887173c82655f707e9d931266c2d7b857
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "928922"
-name: Нарада Office наживо
-summary: "Служба Office наживо відповідає [сучасному](/lifecycle/policies/modern) політиці життєвого циклу.\n\nЦе стосується наступних випусків: Standard\n\n> [!IMPORTANT]\n> Служба підтримки цієї служби завершилася. Перегляньте інструкції з міграції, наведені нижче. \n"
+name: Office Live Meeting
+summary: "Office Live Meeting регулюється [сучасною](/lifecycle/policies/modern) політикою життєвого циклу.\n\nЦе стосується наступних випусків: Standard\n\n> [!IMPORTANT]\n> Підтримка цього продукту закінчилась. Перегляньте інструкції з міграції, наведені нижче. \n"
 products:
 - office
 policyType: modern-online

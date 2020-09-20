@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Outlook 2010
-  description: У програмі Outlook 2010 слід виконати політику фіксованого життєвого циклу.
+  description: Outlook 2010 регулюється фіксованою політикою життєвого циклу.
   ms.date: 09/01/2020
   keywords: Standard,with Business Contact Manager
   ms.openlocfilehash: ce67d67737e2a942507d26d8d1bd308697a58144
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "928848"
 name: Outlook 2010
 summary: >+
-  У програмі Outlook 2010 слід виконати політику [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
+  Outlook 2010 регулюється [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
-  Це стосується таких випусків: Standard, з диспетчером бізнес-контактів
+  Це стосується наступних версій: Standard з диспетчером бізнес-контактів
 
 products:
 - office

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 бізнес Центральна локальна (фіксована політика)
-  description: Dynamics 365 бізнес Центральна локальні (фіксована політика) відповідає фіксованою політикою життєвого циклу.
+  title: Dynamics 365 Business Central (локальна версія) (фіксована політика)
+  description: Dynamics 365 Business Central (локальна версія) (фіксована політика) регулюється фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: eec6e6713736926961ab8bdd81b36fcbdeaf3dec
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "873020"
-name: Dynamics 365 бізнес Центральна локальна (фіксована політика)
+name: Dynamics 365 Business Central (локальна версія) (фіксована політика)
 summary: >+
-  Dynamics 365 бізнес Центральна локальні (фіксована політика) відповідає [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  Dynamics 365 Business Central (локальна версія) (фіксована політика) керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
 products:

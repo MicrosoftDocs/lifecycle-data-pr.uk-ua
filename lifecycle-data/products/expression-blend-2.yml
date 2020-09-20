@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Вираз 2
-  description: Вираз 2 відповідає політиці фіксованого життєвого циклу.
+  title: Expression 2
+  description: Expression 2 регулюється фіксованою політикою життєвого циклу.
   ms.date: 09/01/2020
   keywords: Blend,Design,Encoder,Studio,Web
   ms.openlocfilehash: 5186f4bbb53b110f625835b0250418a4594bf78b
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930846"
-name: Вираз 2
-summary: "Вираз 2 відповідає політиці [фіксованого](/lifecycle/policies/fixed) життєвого циклу.\n\nЦе стосується таких випусків: суміш, конструктор, кодувальник, студія, Web\n\n> [!IMPORTANT]\n> Підтримка завершилася для цього продукту. \n"
+name: Expression 2
+summary: "Expression 2 регулюється [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.\n\nЦе стосується наступних випусків: Blend, Design, Encoder, Studio, Web\n\n> [!IMPORTANT]\n> Підтримка цього продукту закінчилась. \n"
 products:
 - expression
 policyType: fixed
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/24/2008
   endDate: 10/09/2018
-content: "\n\n\n## <a name=\"editions\"></a>Версії \n* Суміш\n* Конструктор\n* Encoder\n* Studio\n* Web"
+content: "\n\n\n## <a name=\"editions\"></a>Версії \n* Blend\n* Design\n* Encoder\n* Studio\n* Web"

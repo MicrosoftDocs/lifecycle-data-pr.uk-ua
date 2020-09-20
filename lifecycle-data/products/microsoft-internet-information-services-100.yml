@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Корпорація Майкрософт відомості про служби Інтернету 10,0
-  description: Microsoft інформаційних служб Інтернету 10,0, слід політики життєвого циклу компонентів.
+  title: Інформаційні служби Інтернету Microsoft 10.0
+  description: Інформаційні служби Інтернету Microsoft 10.0 регулюються політикою життєвого циклу компонентів.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6ee9b2824e6fd7cff445f978c3a6294e7784abcb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865494"
-name: Корпорація Майкрософт відомості про служби Інтернету 10,0
+name: Інформаційні служби Інтернету Microsoft 10.0
 summary: >+
-  Microsoft інформаційних служб Інтернету 10,0, слід політики життєвого циклу [компонентів](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Інформаційні служби Інтернету 10.0 регулюються політикою життєвого циклу [компонентів](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/12/2016
   endDate: 01/11/2027
-content: "\n\n> [!NOTE]\n> Цей випуск відомий як компонент, який відповідає життєвого циклу підтримки батьківського основного продукту, Windows Server 2016."
+content: "\n\n> [!NOTE]\n> Цей випуск відомий як компонент, до якого застосовується життєвий цикл підтримки батьківського основного продукту — Windows Server 2016."
