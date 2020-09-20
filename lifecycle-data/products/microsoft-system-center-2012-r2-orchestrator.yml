@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center 2012 R2 оркестратор
-  description: Microsoft System Center 2012 R2 оркестратор відповідає фіксованою політикою життєвого циклу.
+  title: Microsoft System Center 2012 R2 Orchestrator
+  description: Microsoft System Center 2012 R2 Orchestrator регулюється фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: e67c79ef282808b0523d525c2bd1ad8079cf3e06
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865461"
-name: Microsoft System Center 2012 R2 оркестратор
+name: Microsoft System Center 2012 R2 Orchestrator
 summary: >+
-  Microsoft System Center 2012 R2 оркестратор відповідає [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  Microsoft System Center 2012 R2 Orchestrator регулюється [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/16/2014
   endDate: 07/12/2022
-content: "\n## <a name=\"links\"></a>Посилання \n* [System Center документації](/system-center/#pivot=components&panel=components-all)\n* [System Center ресурси](https://www.microsoft.com/system-center/resources)"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Документація System Center](/system-center/#pivot=components&panel=components-all)\n* [Ресурси System Center](https://www.microsoft.com/system-center/resources)"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Диспетчер ідентифікації Microsoft Forefront 2010 R2
-  description: Диспетчер ідентифікації Microsoft Forefront 2010 R2 відповідає фіксованою політикою життєвого циклу.
+  title: Диспетчер ідентифікації Forefront 2010 R2
+  description: Диспетчер ідентифікації Forefront 2010 R2 регулюється фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 73bd6dedc5fd3618801bd75b09eda9c7bbfaf460
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865678"
-name: Диспетчер ідентифікації Microsoft Forefront 2010 R2
+name: Диспетчер ідентифікації Forefront 2010 R2
 summary: >+
-  Диспетчер ідентифікації Microsoft Forefront 2010 R2 відповідає [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  Менеджер ідентифікації Forefront 2010 R2 регулюється [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/24/2012
   endDate: 04/08/2014
-content: "\n## <a name=\"links\"></a>Посилання \n* [Політика пакета оновлень](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Політика пакетів оновлень](/lifecycle/policies/fixed#service-packs)"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Віртуалізація досвіду користувачів (UE-V) 1,0
-  description: Віртуалізації роботи користувачів (ЄС-V) 1,0 слід фіксована політика життєвого циклу.
+  title: Віртуалізація взаємодії з користувачем Microsoft (UE-V) 1.0
+  description: Віртуалізація взаємодії з користувачем Microsoft (UE-V) 1.0 регулюється фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4be913f32a545326fbfcd9b752017f9f4070c6ec
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865417"
-name: Віртуалізація досвіду користувачів (UE-V) 1,0
+name: Віртуалізація взаємодії з користувачем Microsoft (UE-V) 1.0
 summary: >+
-  Віртуалізації роботи користувачів (ЄС-V) 1,0 слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  Віртуалізація взаємодії з користувачем Microsoft (UE-V) 1.0 регулюється [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
 products:

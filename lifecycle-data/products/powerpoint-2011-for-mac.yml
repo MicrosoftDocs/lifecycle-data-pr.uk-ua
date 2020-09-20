@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: PowerPoint 2011 для Mac
-  description: PowerPoint 2011 для Mac, слід фіксована політика життєвого циклу.
+  description: PowerPoint 2011 для Mac регулюється фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: d0fe8d525c158c363a39793b7e30850693dc93e5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865794"
 name: PowerPoint 2011 для Mac
 summary: >+
-  PowerPoint 2011 для Mac, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  PowerPoint 2011 для Mac регулюється [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Основна підтримка для Microsoft Office for Mac 2011 розширена, як показано для того, щоб забезпечити всіх клієнтів стандартний графік життєвого циклу переходу"
+content: "\n\n> [!NOTE]\n> Основну підтримку Microsoft Office для Mac 2011 було подовжено відповідно до вказаної інформації для того, щоб усі користувачі мали змогу скористатися стандартним перехідним періодом життєвого циклу."
