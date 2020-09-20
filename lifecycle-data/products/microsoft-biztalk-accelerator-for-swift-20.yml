@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Прискорювач Microsoft BizTalk для SWIFT 2,0
-  description: Прискорювач Microsoft BizTalk для SWIFT 2,0 наслідує політику фіксованого життєвого циклу.
+  title: Microsoft BizTalk Accelerator для SWIFT 2.0
+  description: Microsoft BizTalk Accelerator для SWIFT 2.0 регулюється фіксованою політикою життєвого циклу.
   ms.date: 09/01/2020
   keywords: Enterprise
   ms.openlocfilehash: f2d3f0b8991cf28223d4ba5110c0686facccf8f2
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934879"
-name: Прискорювач Microsoft BizTalk для SWIFT 2,0
+name: Microsoft BizTalk Accelerator для SWIFT 2.0
 summary: >+
-  Прискорювач Microsoft BizTalk для SWIFT 2,0 наслідує політику [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
+  Microsoft BizTalk Accelerator для SWIFT 2.0 регулюється [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
   Це стосується наступних випусків: Enterprise

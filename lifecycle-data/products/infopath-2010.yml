@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: InfoPath 2010
-  description: У програмі InfoPath 2010 слід виконати політику фіксованого життєвого циклу.
+  description: Infopath 2010 регулюється фіксованою політикою життєвого циклу.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: b70d3170dfa8f1a3c2c08ae73564470d3d956b90
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "936100"
 name: InfoPath 2010
 summary: >+
-  У програмі InfoPath 2010 слід виконати політику [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
+  Infopath 2010 регулюється [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
   Це стосується наступних випусків: Standard

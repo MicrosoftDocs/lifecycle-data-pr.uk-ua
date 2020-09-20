@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Група Visual Studio Foundation Server 2012
-  description: Команда Visual Studio Foundation Server 2012 відповідає політиці фіксованого життєвого циклу.
+  title: Visual Studio Team Foundation Server 2012
+  description: Visual Studio Team Foundation Server 2012 регулюється фіксованою політикою життєвого циклу.
   ms.date: 09/01/2020
   keywords: All
   ms.openlocfilehash: 010d56498bce5718034fa1af505e985ed93f40ce
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937358"
-name: Група Visual Studio Foundation Server 2012
+name: Visual Studio Team Foundation Server 2012
 summary: >+
-  Команда Visual Studio Foundation Server 2012 відповідає політиці [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
+  Visual Studio Team Foundation Server 2012 регулюється [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
   Це стосується наступних випусків: Всі

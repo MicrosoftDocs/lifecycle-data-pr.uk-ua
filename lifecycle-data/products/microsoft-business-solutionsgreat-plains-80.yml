@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Business Solutions--чудові рівнини 8,0
-  description: Microsoft Business Solutions--чудові рівнини 8,0 наслідує політику фіксованого життєвого циклу.
+  title: Microsoft Business Solutions--Great Plains 8.0
+  description: Microsoft Business Solutions--Great Plains 8.0 регулюється фіксованою політикою життєвого циклу.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 536666c99ff11026e44547243dc841425050faaa
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934694"
-name: Microsoft Business Solutions--чудові рівнини 8,0
+name: Microsoft Business Solutions--Great Plains 8.0
 summary: >
-  Microsoft Business Solutions--чудові рівнини 8,0 наслідує політику [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
+  Microsoft Business Solutions--Great Plains 8.0 регулюється [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
   Це стосується наступних випусків: Standard
@@ -20,7 +20,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Підтримка цього продукту завершилася 13 жовтня 2009
+  > Підтримка цього продукту закінчилась 13 жовтня 2009.
 products:
 - dynamics
 policyType: fixed-mainstream-only

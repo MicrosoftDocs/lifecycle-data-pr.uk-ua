@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Структура підключених служб Microsoft 2,5
-  description: Структура підключених служб Microsoft 2,5 відповідає політиці фіксованого життєвого циклу.
+  title: Microsoft Connected Services Framework 2.5
+  description: Microsoft Connected Services Framework 2.5 регулюється фіксованою політикою життєвого циклу.
   ms.date: 09/01/2020
   keywords: Order Handling Standard Business Event 2.5,Server,Service Provider
   ms.openlocfilehash: e0cdc315d310b2a6ed3c705261592af5be8ca851
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934139"
-name: Структура підключених служб Microsoft 2,5
+name: Microsoft Connected Services Framework 2.5
 summary: >+
-  Структура підключених служб Microsoft 2,5 відповідає політиці [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
+  Microsoft Connected Services Framework 2.5 регулюється [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
-  Це стосується таких випусків: Порядок обробки стандартних бізнес-подій 2,5, сервера, постачальника послуг
+  Це стосується наступних випусків: Order Handling Standard Business Event 2.5, Server, Service Provider
 
 products:
 - connected-services-framework
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/26/2005
   endDate: 10/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Версії \n* Порядок обробки стандартних бізнес-подій 2,5\n* Server\n* Постачальник послуг"
+content: "\n\n\n## <a name=\"editions\"></a>Версії \n* Order Handling Standard Business Event 2.5\n* Server\n* Service Provider"

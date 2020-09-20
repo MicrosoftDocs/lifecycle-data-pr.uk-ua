@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Прискорювач Microsoft BizTalk для фінансових служб 1,0
-  description: Прискорювач Microsoft BizTalk для фінансових служб 1,0 відповідає політиці фіксованого життєвого циклу.
+  title: Microsoft BizTalk Accelerator for Financial Services 1.0
+  description: Microsoft BizTalk Accelerator for Financial Services 1.0 регулюється фіксованою політикою життєвого циклу.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: 4e6c4d0bd0d99808dff1c4cd2cf01f6c0ba6adf6
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935360"
-name: Прискорювач Microsoft BizTalk для фінансових служб 1,0
+name: Microsoft BizTalk Accelerator for Financial Services 1.0
 summary: >+
-  Прискорювач Microsoft BizTalk для фінансових служб 1,0 відповідає політиці [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
+  Microsoft BizTalk Accelerator for Financial Services 1.0 регулюється [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
   Це стосується наступних випусків: Enterprise, Standard

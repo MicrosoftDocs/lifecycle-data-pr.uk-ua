@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Enterprise Desktop віртуалізації 2,0
-  description: Microsoft Enterprise Desktop віртуалізація 2,0 відповідає політиці фіксованого життєвого циклу.
+  title: Microsoft User Experience Virtualization 2.0
+  description: Microsoft Enterprise Desktop Virtualization 2.0 регулюється фіксованою політикою життєвого циклу.
   ms.date: 09/01/2020
   keywords: Enterprise
   ms.openlocfilehash: c389a7a61ffd7a171c58b70f1050657e82d736be
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933917"
-name: Microsoft Enterprise Desktop віртуалізації 2,0
+name: Microsoft User Experience Virtualization 2.0
 summary: >+
-  Microsoft Enterprise Desktop віртуалізація 2,0 відповідає політиці [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
+  Microsoft Enterprise Desktop Virtualization 2.0 регулюється [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
   Це стосується наступних випусків: Enterprise
