@@ -1,24 +1,24 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Диспетчер конфігурації кінцевої точки Microsoft
-  description: Диспетчер конфігурації кінцевої точки Microsoft керується сучасною політикою життєвого циклу.
+  title: Microsoft Endpoint Configuration Manager
+  description: До Microsoft Endpoint Configuration Manager застосовується Сучасна політика життєвого циклу.
   ms.date: 09/01/2020
   keywords: SCCM,System Center Configuration Manager
   ms.openlocfilehash: fa325717dae54209b97245681c1e0292890ba952
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934065"
-name: Диспетчер конфігурації кінцевої точки Microsoft
+name: Microsoft Endpoint Configuration Manager
 summary: >
-  Диспетчер конфігурації кінцевої точки Microsoft керується [сучасною](/lifecycle/policies/modern) політикою життєвого циклу.
+  До Microsoft Endpoint Configuration Manager застосовується [Сучасна](/lifecycle/policies/modern) політика життєвого циклу.
 
 
 
   > [!IMPORTANT]
 
-  > Починаючи з версії 1910, диспетчер конфігурації зараз входить до складу диспетчера кінцевих точок Microsoft.
+  > Починаючи з версії 1910, Configuration Manager є частиною Microsoft Endpoint Manager.
 products:
 - m365
 policyType: modern-on-prem
@@ -70,4 +70,4 @@ releases:
 - version: Version 1511
   startDate: 12/08/2015
   endDate: 12/08/2016
-content: "\n## <a name=\"links\"></a>Посилання \n* [Службова інформація](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Відомості про версію](/mem/configmgr/core/servers/manage/updates#version-details)\n* [Диспетчер конфігурації системного центру тепер Диспетчер конфігурації кінцевої точки Microsoft](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Історичні версії](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Що таке диспетчер конфігурації](/mem/configmgr/core/understand/introduction)"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Службова інформація](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Відомості про версію](/mem/configmgr/core/servers/manage/updates#version-details)\n* [System Center Configuration Manager тепер називається Microsoft Endpoint Configuration Manager](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Попередні версії](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Що таке Configuration Manager](/mem/configmgr/core/understand/introduction)"

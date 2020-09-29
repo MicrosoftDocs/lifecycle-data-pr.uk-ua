@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Програма PowerPoint 2013
-  description: У програмі PowerPoint 2013 слід виконати політику фіксованого життєвого циклу.
+  title: PowerPoint 2013
+  description: До PowerPoint 2013 застосовується фіксована політика життєвого циклу.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 04ce16dd515217f7697f3cf2cc1a0ad22cd3ea19
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "926961"
-name: Програма PowerPoint 2013
+name: PowerPoint 2013
 summary: >+
-  У програмі PowerPoint 2013 слід виконати політику [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
+  До PowerPoint 2013 застосовується [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
 
 
   Це стосується наступних випусків: Standard
