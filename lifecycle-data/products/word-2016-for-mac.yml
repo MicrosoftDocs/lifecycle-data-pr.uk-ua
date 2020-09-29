@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Word 2016 для Mac
-  description: Word 2016 для Mac, слід фіксована політика життєвого циклу.
+  description: До Word 2016 для Mac застосовується Фіксована політика життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71b901131d651cb74f4f8835f0ca834dd90dca79
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865443"
 name: Word 2016 для Mac
 summary: >+
-  Word 2016 для Mac, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  До Word 2016 для Mac застосовується [Фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
 
 
 products:

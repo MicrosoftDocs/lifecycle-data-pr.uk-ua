@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft teams
-  description: Microsoft teams дотримується сучасної політики життєвого циклу.
+  title: Microsoft Teams
+  description: До Microsoft Teams застосовується сучасна політика життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a95c11e5ed20489a0e571cfbab654a977a4dd1c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865796"
-name: Microsoft teams
+name: Microsoft Teams
 summary: >+
-  Microsoft teams дотримується [сучасної](/lifecycle/policies/modern) політики життєвого циклу.
+  До Microsoft Teams застосовується [сучасна](/lifecycle/policies/modern) політика життєвого циклу.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/01/2016
-content: "\n## <a name=\"links\"></a>Посилання \n* [Вимоги до системи](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [Обслуговування інформації](/microsoftteams/teams-client-update)"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Системні вимоги](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [Службова інформація](/microsoftteams/teams-client-update)"

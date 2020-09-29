@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Skype для бізнес-сервер 2015
-  description: Skype для Business Server 2015 відповідає фіксованою політикою життєвого циклу.
+  title: Skype для бізнесу 2015
+  description: До Skype для бізнесу - сервер 2015 застосовується фіксована політика життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0b1c68ef26edf881dfbdf73321010694f372dc10
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865754"
-name: Skype для бізнес-сервер 2015
+name: Skype для бізнесу 2015
 summary: >+
-  Skype для Business Server 2015 відповідає [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  До Skype для бізнесу - сервер 2015 застосовується [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
 
 
 products:
