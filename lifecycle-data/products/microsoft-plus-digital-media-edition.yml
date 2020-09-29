@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Plus! Цифрові медіа-видання
-  description: Microsoft Plus! Цифрове видання відповідає політиці щодо фіксованої життєвого циклу.
+  title: Microsoft Plus! Digital Media Edition
+  description: Microsoft Plus! До Digital Media Edition застосовується фіксована політика життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 70735dde8da269fd12ebf6dabba3dcdbe33fbe76
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845166"
-name: Microsoft Plus! Цифрові медіа-видання
+name: Microsoft Plus! Digital Media Edition
 summary: >+
-  Microsoft Plus! Цифрове видання відповідає політиці щодо [фіксованої](/lifecycle/policies/fixed) життєвого циклу.
+  Microsoft Plus! До Digital Media Edition застосовується [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
 
 
 products:

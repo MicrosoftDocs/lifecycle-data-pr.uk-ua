@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft інтеграції Designer 2,5
-  description: Microsoft інтеграції конструктор 2,5 слід фіксована політика життєвого циклу.
+  title: Microsoft Integration Designer 2.5
+  description: До Microsoft Integration Designer 2.5 застосовується фіксована політика життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: a68b7d5749ce3c0bb47c949a59c52aff5a844dff
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845430"
-name: Microsoft інтеграції Designer 2,5
+name: Microsoft Integration Designer 2.5
 summary: >+
-  Microsoft інтеграції конструктор 2,5 слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  До Microsoft Integration Designer 2.5 застосовується [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
 
 
 products:

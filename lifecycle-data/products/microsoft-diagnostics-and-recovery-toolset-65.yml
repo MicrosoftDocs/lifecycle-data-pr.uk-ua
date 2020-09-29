@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Корпорація Майкрософт діагностики та відновлення набір інструментів 6,5
-  description: Корпорація Майкрософт діагностики та відновлення набір інструментів 6,5, слід фіксована політика життєвого циклу.
+  title: Microsoft Diagnostics and Recovery Toolset 6.5
+  description: До Microsoft Diagnostics and Recovery Toolset 6.5 застосовується фіксована політика життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1e9cfdf6271094dc9535df33e253f559501416ba
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845775"
-name: Корпорація Майкрософт діагностики та відновлення набір інструментів 6,5
+name: Microsoft Diagnostics and Recovery Toolset 6.5
 summary: >+
-  Корпорація Майкрософт діагностики та відновлення набір інструментів 6,5, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  До Microsoft Diagnostics and Recovery Toolset 6.5 застосовується [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
 
 
 products:

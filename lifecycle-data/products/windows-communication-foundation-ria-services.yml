@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Служба зв'язку Windows RIA служби
-  description: Служби Windows, служба зв'язку RIA, слід фіксована політика життєвого циклу.
+  description: До Windows Communication Foundation RIA Services застосовується фіксована політика життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3876aae1488148f489c9c4c46dfd24bb89fd9480
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845116"
 name: Служба зв'язку Windows RIA служби
 summary: >+
-  Служби Windows, служба зв'язку RIA, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  До Windows Communication Foundation RIA Services застосовується [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
 
 
 products:
