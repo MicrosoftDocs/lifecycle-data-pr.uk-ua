@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Бізнес-рішення Microsoft для аналітики Прогнозистер 6,7
-  description: Корпорація Майкрософт бізнес-рішення для аналітика Прогнозистер 6,7, слід фіксована політика життєвого циклу.
+  title: Microsoft Business Solutions для AnalyticsForecaster 6.7
+  description: До Microsoft Business Solutions для Analytics Forecaster 6.7застосовується фіксована політика життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 36be353ad94fe53b83be08cae60d98902f0e7c92
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845807"
-name: Бізнес-рішення Microsoft для аналітики Прогнозистер 6,7
+name: Microsoft Business Solutions для AnalyticsForecaster 6.7
 summary: >+
-  Корпорація Майкрософт бізнес-рішення для аналітика Прогнозистер 6,7, слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  До Microsoft Business Solutions для Analytics Forecaster 6.7 застосовується [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
 
 
 products:

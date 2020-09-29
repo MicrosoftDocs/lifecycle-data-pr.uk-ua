@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows, автомобільний 4,2
-  description: Windows автомобільної 4,2 відповідає фіксованою політикою життєвого циклу.
+  title: Windows Automotive 4.2
+  description: До Windows Automotive 4.2 застосовується фіксована політика життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: a2671ea93a2852928c59d836ed4ebc8412963b61
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "845118"
-name: Windows, автомобільний 4,2
+name: Windows Automotive 4.2
 summary: >
-  Windows автомобільної 4,2 відповідає [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  До Windows Avtomotive 4.2 застосовується [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
 
 
 
   > [!IMPORTANT]
 
-  > Підтримка цього продукту закінчилася.
+  > Підтримка цього продукту закінчилась.
 products:
 - windows
 policyType: fixed

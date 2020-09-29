@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Helmsman 4,0
-  description: Корпорація Майкрософт Helmsman 4,0 дотримується фіксованої політики життєвого циклу.
+  title: Microsoft Helmsman 4.0
+  description: До Microsoft Helmsman 4.0 застосовується фіксована політика життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: e873dcff7f9c115e7c0aa006d0a89b275f51c1a2
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846133"
-name: Microsoft Helmsman 4,0
+name: Microsoft Helmsman 4.0
 summary: >+
-  Корпорація Майкрософт Helmsman 4,0 дотримується [фіксованої](/lifecycle/policies/fixed) політики життєвого циклу.
+  До Microsoft Helmsman 4.0 застосовується [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
 
 
 products:
