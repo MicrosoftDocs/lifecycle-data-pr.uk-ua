@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Пакет оновлень 2016
-  description: 2016-пакет.
+  title: HPC Pack 2016
+  description: До HPC Pack 2016 застосовується фіксована політика життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 45a14db596d5a620bd4dc9ef761aa811de45e59b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865534"
-name: Пакет оновлень 2016
+name: HPC Pack 2016
 summary: >+
-  2016 [-пакет](/lifecycle/policies/fixed) .
+  До HPC Pack 2016 застосовується [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
 
 
 products:

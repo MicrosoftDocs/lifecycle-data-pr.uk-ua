@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Віртуалізація досвіду користувачів (UE-V) 2,0
-  description: Віртуалізації роботи користувачів (ЄС-V) 2,0 слід фіксована політика життєвого циклу.
+  title: User Experience Virtualization (UE-V) 2.0
+  description: До User Experience Virtualization (UE-V) 2.0 застосовується фіксована політика життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3841751d17e2cfa1ffb201c687291390831cdb8b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865779"
-name: Віртуалізація досвіду користувачів (UE-V) 2,0
+name: User Experience Virtualization (UE-V) 2.0
 summary: >+
-  Віртуалізації роботи користувачів (ЄС-V) 2,0 слід [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
+  До віртуалізації взаємодії з користувачем (UE-V) 2.0 застосовується [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
 
 
 products:
