@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Groove 3,1
-  description: У Groove 3,1 слід виконати політику фіксованого життєвого циклу.
+  title: Groove 3.1
+  description: До Groove 3.1 застосовується Фіксована політика життєвого циклу.
   ms.date: 09/03/2020
   keywords: Enterprise Backup Service,Enterprise Data Bridge,Enterprise Relay Server,Hosted Management Services,Hosted Relay Services,Office Project,Virtual Office File Sharing,Virtual Office Professional,Web Services Development Kit
   ms.openlocfilehash: 19dab25c567ea1b34565a675dffe9c99c6c21ba5
   ms.sourcegitcommit: 59291eb409a67c9e002fd0e45e37aca76d599df0
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 09/03/2020
   ms.locfileid: "950881"
-name: Groove 3,1
+name: Groove 3.1
 summary: >+
-  У Groove 3,1 слід виконати політику [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
+  До Groove 3.1 застосовується [Фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
 
 
-  Це стосується таких видань: "Служба резервного копіювання", "Корпоративний міст даних", "сервер ретрансляції", "розміщені служби керування", "розміщені Ретранслювальні послуги", "Office Project", "Віртуальний файл Office", "Віртуальний Office Professional"
+  Це стосується наступних випусків: Enterprise Backup Service, Enterprise Data Bridge, Enterprise Relay Server, Hosted Management Services, Hosted Relay Services, Office Project, Virtual Office File Sharing, Virtual Office Professional, Web Services Development Kit
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/01/2004
   endDate: 04/16/2010
-content: "\n\n\n## <a name=\"editions\"></a>Версії \n* Служба резервного копіювання для підприємств\n* Корпоративний міст даних\n* Корпоративний ретранслятор Server\n* Розміщення служб керування\n* Служби розміщення ретранслятора\n* Office Project\n* Віртуальний спільний доступ до файлів Office\n* Віртуальна служба Office Professional\n* Комплект розробки веб-служб"
+content: "\n\n\n## <a name=\"editions\"></a>Версії \n* Enterprise Backup Service\n* Enterprise Data Bridge\n* Enterprise Relay Server\n* Hosted Management Services\n* Hosted Relay Services\n* Office Project\n* Virtual Office File Sharing\n* Virtual Office Professional\n* Web Services Development Kit"
