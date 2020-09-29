@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Корпорація Майкрософт працює
-  description: Корпорація Майкрософт працює над усунено політикою життєвого циклу.
+  title: Microsoft Works
+  description: До Microsoft Works застосовується Фіксована політика життєвого циклу.
   ms.date: 08/19/2020
   ms.openlocfilehash: da68f15014771676be04285328ffde3ff1c49858
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904642"
-name: Корпорація Майкрософт працює
+name: Microsoft Works
 summary: >+
-  Корпорація Майкрософт працює над [усунено](/lifecycle/policies/fixed) політикою життєвого циклу.
+  До Microsoft Works застосовується [Фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
 
 
 products:
@@ -39,4 +39,4 @@ releases:
 - version: Microsoft Works Suite 2004
   startDate: 10/25/2003
   endDate: 01/09/2007
-content: "\n\n> [!NOTE]\n> Цей список містить усі продукти Microsoft Works, випущені між 2003 і 2007."
+content: "\n\n> [!NOTE]\n> Цей список містить УСІ продукти Microsoft Works, випущені в 2003-2007 роках."
