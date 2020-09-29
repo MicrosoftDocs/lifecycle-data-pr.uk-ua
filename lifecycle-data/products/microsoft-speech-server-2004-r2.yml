@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft мовлення Server 2004 R2
-  description: Microsoft мовлення Server 2004 R2 відповідає політиці фіксованого життєвого циклу.
+  title: Microsoft Speech Server 2004 R2
+  description: До Microsoft Speech Server 2004 R2 застосовується фіксована політика життєвого циклу.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: d93a0964531bf4fb6b7019880a39fd9a6e07dfa4
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937062"
-name: Microsoft мовлення Server 2004 R2
+name: Microsoft Speech Server 2004 R2
 summary: >+
-  Microsoft мовлення Server 2004 R2 відповідає політиці [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
+  До Microsoft Speech Server 2004 R2 застосовується [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
 
 
   Це стосується наступних випусків: Enterprise, Standard

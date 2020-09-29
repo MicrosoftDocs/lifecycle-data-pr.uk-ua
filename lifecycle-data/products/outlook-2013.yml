@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Outlook 2013
-  description: У програмі Outlook 2013 слід виконати політику фіксованого життєвого циклу.
+  description: До Outlook 2013 застосовується фіксована політика життєвого циклу.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 2678d0bb53f3c29f23028aa934729776d1c73d7c
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "926813"
 name: Outlook 2013
 summary: >+
-  У програмі Outlook 2013 слід виконати політику [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
+  До Outlook 2013 застосовується [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
 
 
   Це стосується наступних випусків: Standard
