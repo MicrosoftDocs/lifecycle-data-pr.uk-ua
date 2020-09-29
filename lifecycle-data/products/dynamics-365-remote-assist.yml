@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 Віддалена допомога
-  description: Dynamics 365 Віддалена допомога відповідає сучасній політиці життєвого циклу.
+  title: Dynamics 365 Remote Assist
+  description: До Dynamics 365 Remote Assist застосовується сучасна політика життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: f515184c8d286e79842892235e7e48414438d758
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "873010"
-name: Dynamics 365 Віддалена допомога
+name: Dynamics 365 Remote Assist
 summary: >+
-  Dynamics 365 Віддалена допомога відповідає [сучасній](/lifecycle/policies/modern) політиці життєвого циклу.
+  До Dynamics 365 Remote Assist застосовується [сучасна](/lifecycle/policies/modern) політика життєвого циклу.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 09/30/2018
-content: "\n## <a name=\"links\"></a>Посилання \n* [Верстка та Віддалена допомога](/dynamics365/mixed-reality/layout/faq)"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Layout та Remote Assist](/dynamics365/mixed-reality/layout/faq)"

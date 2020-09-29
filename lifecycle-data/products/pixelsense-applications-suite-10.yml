@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "\"Пікселсенс програм\" Suite 1,0"
-  description: У програмах Pixatsense Suite 1,0 слід виконати політику фіксованого життєвого циклу.
+  title: PixelSense Applications Suite 1.0
+  description: До PixelSense Applications Suite 1.0 застосовується Фіксована політика життєвого циклу.
   ms.date: 08/12/2020
   ms.openlocfilehash: c74536304840d0d75306a3d6d2609d8a39c524dc
   ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 08/12/2020
   ms.locfileid: "892119"
-name: "\"Пікселсенс програм\" Suite 1,0"
+name: PixelSense Applications Suite 1.0
 summary: >+
-  У програмах Pixatsense Suite 1,0 слід виконати політику [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
+  До PixelSense Applications Suite 1.0 застосовується [Фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
 
 
 products:

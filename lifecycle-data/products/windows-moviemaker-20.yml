@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows MovieMaker 2,0
-  description: У Windows Moviecmaker 2,0 слід виконати політику фіксованого життєвого циклу.
+  title: Windows MovieMaker 2.0
+  description: До Windows MovieMaker 2.0 застосовується Фіксована політика життєвого циклу.
   ms.date: 08/18/2020
   ms.openlocfilehash: dc2c02cb856f1d4cd277b6db2d9a8610b5a3163d
   ms.sourcegitcommit: 7058ee1673709d6dd4bed24f043690e0da2c6bb4
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "902941"
-name: Windows MovieMaker 2,0
+name: Windows MovieMaker 2.0
 summary: >+
-  У Windows Moviecmaker 2,0 слід виконати політику [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
+  До Windows MovieMaker 2.0 застосовується [Фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
 
 
 products:

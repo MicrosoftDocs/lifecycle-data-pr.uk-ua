@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: StorSimple Диспетчер даних
-  description: Диспетчер StorSimple Data стежить за фіксованою політикою життєвого циклу.
+  title: Диспетчер даних StorSimple
+  description: До StorSimple Data Manager застосовується фіксована політика життєвого циклу.
   ms.date: 07/28/2020
   ms.openlocfilehash: cca889145816fcf7bde921df52a32be61a97a54d
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "873064"
-name: StorSimple Диспетчер даних
+name: Диспетчер даних StorSimple
 summary: >+
-  Диспетчер StorSimple Data стежить за [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  До StorSimple Data Manager застосовується [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
 
 
 products:

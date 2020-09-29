@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Портали adxstudio V6. x або попередньої
-  description: На порталах adxstudio V6. x або попередньої слід виконати політику фіксованого життєвого циклу.
+  title: Adxstudio Portals v6.x або попередні версії
+  description: До Adxstudio Portals v6.x і попередніх версій застосовується Фіксована політика життєвого циклу.
   ms.date: 08/28/2020
   ms.openlocfilehash: d30568ac94980a8ea178e1971f3841f5093514fa
   ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 08/28/2020
   ms.locfileid: "924456"
-name: Портали adxstudio V6. x або попередньої
+name: Adxstudio Portals v6.x або попередні версії
 summary: >+
-  На порталах adxstudio V6. x або попередньої слід виконати політику [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
+  До Adxstudio Portals v6.x і попередніх версій застосовується [Фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 09/29/2015
   endDate: 04/12/2016
-content: "\n## <a name=\"links\"></a>Посилання \n* [Запитання й відповіді про життєвий цикл](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Підтримка цього продукту регулюється умовами його придбання та завершується."
+content: "\n## <a name=\"links\"></a>Посилання \n* [Поширені запитання й відповіді щодо життєвого циклу: придбання](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Підтримка цього продукту здійснюється відповідно до умов його придбання, і строк її дії вже завершився."
