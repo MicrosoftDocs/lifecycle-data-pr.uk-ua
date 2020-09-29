@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Access 2019
-  description: У програмі Access 2019 слід використовувати політику фіксованого життєвого циклу.
+  description: До Access 2019 застосовується фіксована політика життєвого циклу.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 9cb6474fa4cc37df413fc8db00203768b06973a0
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "940170"
 name: Access 2019
 summary: >+
-  У програмі Access 2019 слід використовувати політику [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
+  До Access 2019 застосовується [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
 
 
   Це стосується наступних випусків: Standard

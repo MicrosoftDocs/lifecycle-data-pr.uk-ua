@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SharePoint Server 2019
-  description: На сервері SharePoint Server 2019 слід виконати політику фіксованого життєвого циклу.
+  description: До SharePoint Server 2019 застосовується фіксована політика життєвого циклу.
   ms.date: 09/01/2020
   keywords: ''
   ms.openlocfilehash: 04aeff151809d56448eda49c96441651a9675171
   ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: uk-UA
   ms.lasthandoff: 09/02/2020
   ms.locfileid: "941692"
 name: SharePoint Server 2019
 summary: >+
-  На сервері SharePoint Server 2019 слід виконати політику [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
+  До SharePoint Server 2019 застосовується [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2018
   endDate: 07/14/2026
-content: "\n## <a name=\"links\"></a>Посилання \n* [Службова інформація](/sharepoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2019)\n\n> [!NOTE]\n> Перегляд документації [продукту](https://docs.microsoft.com/sharepoint/sharepoint-server) та [розробника](https://developer.microsoft.com/sharepoint/docs)"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Службова інформація](/sharepoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2019)\n\n> [!NOTE]\n> Перегляньте документацію [продукту](https://docs.microsoft.com/sharepoint/sharepoint-server) та [розробника](https://developer.microsoft.com/sharepoint/docs)."
