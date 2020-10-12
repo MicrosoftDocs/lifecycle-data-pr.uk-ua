@@ -2,20 +2,20 @@
 metadata:
   title: Windows 10 Home і Pro
   description: Windows 10 Home і Pro керуються сучасною політикою життєвого циклу.
-  ms.date: 09/01/2020
-  keywords: Home,Pro,Pro for Education,Pro for Workstations,Professional
-  ms.openlocfilehash: f29020250717040eb218ffd3154c65492201e51b
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 09/22/2020
+  keywords: 
+  ms.openlocfilehash: afe3de560cc371fc307d5e1e7f831e301c3ce99f
+  ms.sourcegitcommit: 528043c09bc83880f3c1dcc3f976c4241e9ec4b7
   ms.translationtype: HT
   ms.contentlocale: uk-UA
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938394"
+  ms.lasthandoff: 09/22/2020
+  ms.locfileid: "1026907"
 name: Windows 10 Home і Pro
 summary: >
   Windows 10 Home і Pro керуються [сучасною](/lifecycle/policies/modern) політикою життєвого циклу.
 
 
-  Це стосується наступних випусків: Home, Pro, Pro for Education, Pro for Workstations, Professional
+  Це стосується наступних випусків: Home, Pro, Pro Education, Pro for Workstations
 
 
   > [!IMPORTANT]
@@ -39,9 +39,9 @@ releases:
   endDate: 12/08/2020
 - version: Version 1809
   startDate: 11/13/2018
-  endDate: 05/12/2020
+  endDate: 11/10/2020
 - version: Version 1803
-  startDate: 04/30/2018
+  startDate: 10/17/2017
   endDate: 11/12/2019
 - version: Version 1709
   startDate: 10/17/2017
@@ -58,4 +58,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Посилання \n* [Windows як послуга (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Факти про життєві цикли Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Поширені питання життєвого циклу: продукти Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro для робочих станцій (вперше випущено з версією 1703)\n> [!NOTE]\n> Якщо не вказано інше, наступні оновлення функції щопіврічного каналу оновлення для Windows 10 можна інсталювати до зазначеної дати завершення базової підтримки.\n\n## <a name=\"editions\"></a>Версії \n* Home\n* Pro\n* Pro for Education\n* Pro для робочих станцій\n* Professional\n"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Windows як послуга (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Факти про життєві цикли Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Поширені питання життєвого циклу: продукти Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro for Workstations (вперше випущено з версією 1709).\n> [!NOTE]\n> Якщо не вказано інше, наступні оновлення функції щопіврічного каналу оновлення для Windows 10 можна інсталювати до зазначеної дати завершення базової підтримки.\n\n## <a name=\"editions\"></a>Версії \n* Home\n* Pro\n* Pro Education\n* Pro для робочих станцій\n"
