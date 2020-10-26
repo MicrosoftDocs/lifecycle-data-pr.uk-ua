@@ -2,13 +2,14 @@
 metadata:
   title: Служби SharePoint Team Services 1.0
   description: Служби SharePoint Team Services 1.0 керуються фіксованою політикою життєвого циклу.
-  ms.date: 08/21/2020
-  ms.openlocfilehash: 43ca2a43857a80e890336226a3db4e9a66d702fc
-  ms.sourcegitcommit: 1d4b9c590a93df7de84f28ee0a02ec6b51edf462
+  ms.date: 10/20/2020
+  keywords: 
+  ms.openlocfilehash: fdc77aefda050b3203eff0afebe71607393417fb
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: uk-UA
-  ms.lasthandoff: 08/27/2020
-  ms.locfileid: "922787"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162614"
 name: Служби SharePoint Team Services 1.0
 summary: >+
   Служби SharePoint Team Services 1.0 керуються [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
