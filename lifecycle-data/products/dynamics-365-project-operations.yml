@@ -1,0 +1,26 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Операції по реалізації проекту Dynamics 365
+  description: До операцій по реалізації проекту Dynamics 365 застосовується Сучасна політика життєвого циклу.
+  ms.date: 09/10/2020
+  keywords: ''
+  ms.openlocfilehash: f78704486878a0f99f545e5361fb7805df1a802a
+  ms.sourcegitcommit: e8e7ddcfb056dfe647ccf1dbab03a51078f77d53
+  ms.translationtype: HT
+  ms.contentlocale: uk-UA
+  ms.lasthandoff: 10/05/2020
+  ms.locfileid: "1050192"
+name: Операції по реалізації проекту Dynamics 365
+summary: >+
+  До операцій по реалізації проекту Dynamics 365 застосовується [Сучасна](/lifecycle/policies/modern) політика життєвого циклу.
+
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 10/01/2020
+releases:
+- version: Original Release
+  startDate: 10/01/2020
+content: ''
