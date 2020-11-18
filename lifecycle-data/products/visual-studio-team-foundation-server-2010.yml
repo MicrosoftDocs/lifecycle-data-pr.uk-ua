@@ -12,10 +12,10 @@ metadata:
   ms.locfileid: "1000098"
 name: Visual Studio Team Foundation Server 2010
 summary: >+
-  До Visual Studio Team Foundation Server 2010 застосовується політика  [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
+  До Visual Studio Team Foundation Server 2010 застосовується політика [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
 
-  Це стосується наступних версій: всіх застосовних, External Connector
+  Це стосується наступних версій: Всі застосовні, External Connector
 
 products:
 - vs

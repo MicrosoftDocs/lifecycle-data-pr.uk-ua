@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2008
-  description: Visual Studio 2008 керується фіксованою політикою життєвого циклу.
+  description: Visual Studio 2008 керується політикою фіксованого життєвого циклу.
   ms.date: 09/01/2020
   keywords: All,Pro w/MSDN Premium,Professional,Professional w/MSDN ,Team Suite,Team Test Load Agent,VB Express,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express
   ms.openlocfilehash: dda36bd66c9de69696c202177f1197c068e2f646
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "937580"
 name: Visual Studio 2008
 summary: >+
-  Visual Studio 2008 керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  Visual Studio 2008 керується політикою [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
 
   Це стосується наступних випусків: Всі, Pro з MSDN Premium, Professional, Professional з MSDN, Team Suite, Team Test Load Agent, VB Express, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Посилання \n* [Вказівки щодо міграції](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [Політика пакетів оновлень](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Включає Visual C++ Express, Visual C# Express, VB Express, візуальний веб-розробник Express та випуски Visual Studio Team\n\n## <a name=\"editions\"></a>Версії \n* Всі\n* Pro w/MSDN Premium\n* Professional\n* Professional з MSDN \n* Team Suite\n* Team Test Load Agent\n* VB Express\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express"
+content: "\n## <a name=\"links\"></a>Посилання \n* [Вказівки щодо міграції](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [Політика пакетів оновлень](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Включає Visual C++ Express, Visual C# Express, VB Express, візуальний веб-розробник Express та випуски Visual Studio Team\n\n## <a name=\"editions\"></a>Версії \n* Всі\n* Pro з MSDN Premium\n* Professional\n* Professional з MSDN \n* Team Suite\n* Team Test Load Agent\n* VB Express\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express"

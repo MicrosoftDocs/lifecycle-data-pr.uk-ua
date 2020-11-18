@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Storage Server 2008 Embedded
-  description: Windows Storage Server 2008 Embedded керується фіксованою політикою життєвого циклу.
+  description: Windows Storage Server 2008 Embedded керується політикою фіксованого життєвого циклу.
   ms.date: 09/01/2020
   keywords: 32 Bit,64 Bit,Basic,Basic 32-Bit,Enterprise,Standard,Workgroup
   ms.openlocfilehash: 6615fb87d3cf9d0ad0dabec14b5cb3b2fb52b8df
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "939097"
 name: Windows Storage Server 2008 Embedded
 summary: >+
-  Windows Storage Server 2008 Embedded керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  Windows Storage Server 2008 Embedded керується політикою [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
 
   Це стосується наступних випусків: 32-розрядна версія, 64-розрядна версія, Basic, Basic (32-розрядна версія), Enterprise, Standard, Workgroup

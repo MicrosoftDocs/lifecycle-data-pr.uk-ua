@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Lync Server 2013
-  description: Microsoft Lync Server 2013 керується фіксованою політикою життєвого циклу.
+  description: Microsoft Lync Server 2013 керується політикою фіксованого життєвого циклу.
   ms.date: 09/01/2020
   keywords: Enterprise,Persistent Chat Software Development Kit,Phone,SDK,Standard
   ms.openlocfilehash: d6885f287ffa2bda2803e707d93db7ad5fdf5cb0
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "930698"
 name: Microsoft Lync Server 2013
 summary: >+
-  Microsoft Lync Server 2013 керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  Microsoft Lync Server 2013 керується політикою [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
 
   Це стосується наступних випусків: Enterprise, Persistent Chat Software Development Kit, Phone, SDK, Standard

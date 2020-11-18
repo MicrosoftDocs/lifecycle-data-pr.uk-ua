@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SQL Server 2014
-  description: SQL Server 2014 керується фіксованою політикою життєвого циклу.
+  description: SQL Server 2014 керується політикою фіксованого життєвого циклу.
   ms.date: 09/01/2020
   keywords: Business Intelligence,Developer,Enterprise,Enterprise Core,Express,Standard,Web
   ms.openlocfilehash: 551c7b4fe8a3a36dfbc8866abd3006d022116dc6
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "938024"
 name: SQL Server 2014
 summary: >+
-  SQL Server 2014 керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  SQL Server 2014 керується політикою [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
 
   Це стосується наступних випусків: Business Intelligence, Developer, Enterprise, Enterprise Core, Express, Standard, Web
