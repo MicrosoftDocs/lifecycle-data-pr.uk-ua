@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Host Integration Server 2004
-  description: До Microsoft Host Integration Server 2004 застосовується фіксована політика життєвого циклу.
+  description: До Microsoft Host Integration Server 2004 застосовується політика фіксованого життєвого циклу.
   ms.date: 09/10/2020
   keywords: Developer,Enterprise,Standard
   ms.openlocfilehash: f25ad096e73a81539c8d2c5ae6f9512c7a8dcf40
@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1001892"
 name: Microsoft Host Integration Server 2004
-summary: "До Microsoft Host Integration Server 2004 застосовується [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.\n\nЦе стосується наступних версій: Developer, Enterprise, Standard\n\n> [!IMPORTANT]\n> Підтримка цього продукту закінчилась. \n"
+summary: "До Microsoft Host Integration Server 2004 застосовується політика [фіксованого](/lifecycle/policies/fixed) життєвого циклу.\n\nЦе стосується наступних версій: Developer, Enterprise, Standard\n\n> [!IMPORTANT]\n> Підтримка цього продукту закінчилась. \n"
 products:
 - microsoft-servers
 policyType: fixed

@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 2016 LTSB
-  description: Windows 10 2016 LTSB керується фіксованою політикою життєвого циклу.
+  description: Windows 10 2016 LTSB керується політикою фіксованого життєвого циклу.
   ms.date: 09/01/2020
   keywords: Enterprise
   ms.openlocfilehash: 040fad2c1269808928c0f239a64f575b98f458f6
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "938505"
 name: Windows 10 2016 LTSB
 summary: >+
-  Windows 10 2016 LTSB керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  Windows 10 2016 LTSB керується політикою [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
 
   Це стосується наступних випусків: Enterprise

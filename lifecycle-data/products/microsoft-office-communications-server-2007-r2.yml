@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1001817"
 name: Microsoft Office Communications Server 2007 R2
-summary: "До Microsoft Office Communications Server 2007 R2 застосовується політика [фіксованого](/lifecycle/policies/fixed) життєвого циклу.\n\nЦе стосується наступних випусків: Всі застосовні, Enterprise, шлюз XMPP\n\n> [!IMPORTANT]\n> Підтримка цього продукту закінчилась. Перегляньте інструкції щодо перенесення. \n"
+summary: "До Microsoft Office Communications Server 2007 R2 застосовується політика [фіксованого](/lifecycle/policies/fixed) життєвого циклу.\n\nЦе стосується наступних випусків: Всі застосовні, Enterprise, Шлюз XMPP\n\n> [!IMPORTANT]\n> Підтримка цього продукту закінчилась. Перегляньте інструкції щодо перенесення. \n"
 products:
 - office
 policyType: fixed

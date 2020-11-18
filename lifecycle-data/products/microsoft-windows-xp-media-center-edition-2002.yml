@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Windows XP Media Center, версія 2002
-  description: Microsoft Windows XP Media Center Edition 2002 керується фіксованою політикою життєвого циклу.
+  description: Microsoft Windows XP Media Center Edition 2002 керується політикою фіксованого життєвого циклу.
   ms.date: 09/01/2020
   keywords: Media Center
   ms.openlocfilehash: d7d46a764f708d0f79166a7b3d4a746cc022446c
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "928996"
 name: Microsoft Windows XP Media Center, версія 2002
 summary: >+
-  Microsoft Windows XP Media Center, версія 2002 керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
+  Microsoft Windows XP Media Center, версія 2002 керується політикою [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
 
   Це стосується наступних випусків: Media Center
