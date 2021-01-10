@@ -1,25 +1,25 @@
 ---
 title: Експорт даних по життєвому циклу
 description: Експортувати інформацію про життєвий цикл продукту
-ms.date: 11/29/2020
+ms.date: 01/06/2021
 layout: ContentPage
-ms.openlocfilehash: 210af0cf60630cbdbf43847641022283aca78366
-ms.sourcegitcommit: 272dedcf92e644b57865e78c716f937b66e534c3
+ms.openlocfilehash: 4a27cd96ddaa1b3d128d9f1d711504d88c28e36e
+ms.sourcegitcommit: f24c8653f7fd67e5b3f9f41e17b47edcecb5856e
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "1335906"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "1367585"
 ---
-# <a name="lifecycle-data-export"></a><span data-ttu-id="37aa3-103">Експорт даних по життєвому циклу</span><span class="sxs-lookup"><span data-stu-id="37aa3-103">Lifecycle data export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="21639-103">Експорт даних по життєвому циклу</span><span class="sxs-lookup"><span data-stu-id="21639-103">Lifecycle data export</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="37aa3-104">Експортувати всі продукти</span><span class="sxs-lookup"><span data-stu-id="37aa3-104">Export all products</span></span>
-<span data-ttu-id="37aa3-105">Експортуйте дані по життєвому циклу всіх продуктів, клацнувши нижче:</span><span class="sxs-lookup"><span data-stu-id="37aa3-105">Export lifecycle data for all products by clicking below:</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="21639-104">Експортувати всі продукти</span><span class="sxs-lookup"><span data-stu-id="21639-104">Export all products</span></span>
+<span data-ttu-id="21639-105">Експортуйте дані по життєвому циклу всіх продуктів, клацнувши нижче:</span><span class="sxs-lookup"><span data-stu-id="21639-105">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="37aa3-106">Експортувати всі продукти</span><span class="sxs-lookup"><span data-stu-id="37aa3-106">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="21639-106">Експортувати всі продукти</span><span class="sxs-lookup"><span data-stu-id="21639-106">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a><span data-ttu-id="37aa3-107">Експортувати продукти за родиною та групою</span><span class="sxs-lookup"><span data-stu-id="37aa3-107">Export products by Family and Group</span></span>
-<span data-ttu-id="37aa3-108">Виберіть родину, а потім групу для експорту.</span><span class="sxs-lookup"><span data-stu-id="37aa3-108">Select a Family and then a Group to export.</span></span> <span data-ttu-id="37aa3-109">Примітка: Експорт почнеться після вибору групи.</span><span class="sxs-lookup"><span data-stu-id="37aa3-109">Note: Export will begin when Group value is selected.</span></span> 
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="21639-107">Експортувати продукти за родиною та групою</span><span class="sxs-lookup"><span data-stu-id="21639-107">Export products by Family and Group</span></span>
+<span data-ttu-id="21639-108">Виберіть родину, а потім групу для експорту.</span><span class="sxs-lookup"><span data-stu-id="21639-108">Select a Family and then a Group to export.</span></span> <span data-ttu-id="21639-109">Примітка: Експорт почнеться після вибору групи.</span><span class="sxs-lookup"><span data-stu-id="21639-109">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="Родина" title2="Група"]
 > - [(.NET | Всі)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='.NET'))
@@ -81,13 +81,12 @@ ms.locfileid: "1335906"
 > - [(Windows | Security)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Windows',group='Security'))
 > - [Windows | Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Windows',group='Server'))
 
-## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="37aa3-170">Експортувати продукти до дати завершення підтримки</span><span class="sxs-lookup"><span data-stu-id="37aa3-170">Export products by end of support date</span></span>
-<span data-ttu-id="37aa3-171">Виберіть рік, щоб переглянути продукти, в яких завершується строк підтримки.</span><span class="sxs-lookup"><span data-stu-id="37aa3-171">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="37aa3-172">Примітка: експорт почнеться після вибору значення "Рік".</span><span class="sxs-lookup"><span data-stu-id="37aa3-172">Note: Export will begin when Year value is selected.</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="21639-170">Експортувати продукти до дати завершення підтримки</span><span class="sxs-lookup"><span data-stu-id="21639-170">Export products by end of support date</span></span>
+<span data-ttu-id="21639-171">Виберіть рік, щоб переглянути продукти, в яких завершується строк підтримки.</span><span class="sxs-lookup"><span data-stu-id="21639-171">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="21639-172">Примітка: експорт почнеться після вибору значення "Рік".</span><span class="sxs-lookup"><span data-stu-id="21639-172">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [Наступні 12 місяців](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportMonths=12))
 > - [Наступні 6 місяців](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportMonths=6))
-> - [2015](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2015))
 > - [2016](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2016))
 > - [2017](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2017))
 > - [2018](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2018))
