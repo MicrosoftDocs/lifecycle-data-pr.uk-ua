@@ -1,17 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Віртуальна машина Microsoft Azure (класична) (необхідне узгодження з Azure перед публікацією — дата завершення у графіку дат відсутня)
-  description: До віртуальної машини Microsoft Azure (класична) (необхідне узгодження з Azure перед публікацією — дата завершення у графіку дат відсутня) застосовується політика сучасного життєвого циклу.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 62691a5a8045c8744b291cd5475ad7b6828542e8
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: Віртуальна машина Microsoft Azure (класична)
+  description: До віртуальної машини Microsoft Azure (класичної версії) застосовується сучасна політика життєвого циклу.
+  ms.date: 01/21/2021
+  keywords: 
+  ms.openlocfilehash: 0e575c15aa31b8d3147bfbca806bf0c90db48731
+  ms.sourcegitcommit: b565a66121b149da703e6b457e86868768499385
   ms.translationtype: HT
   ms.contentlocale: uk-UA
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "865694"
-name: Віртуальна машина Microsoft Azure (класична) (необхідне узгодження з Azure перед публікацією — дата завершення у графіку дат відсутня)
+  ms.lasthandoff: 01/21/2021
+  ms.locfileid: "1416337"
+name: Віртуальна машина Microsoft Azure (класична)
 summary: >+
-  До віртуальної машини Microsoft Azure (класична) (необхідне узгодження з Azure перед публікацією — дата завершення у графіку дат відсутня) застосовується політика [сучасного](/lifecycle/policies/modern) життєвого циклу.
+  До віртуальної машини Microsoft Azure (класичної версії) застосовується [сучасна](/lifecycle/policies/modern) політика життєвого циклу.
 
 
 products:
