@@ -3,12 +3,12 @@ metadata:
   title: Skype для бізнесу 2019
   description: До Skype for Business Server 2019 застосовується фіксована політика життєвого циклу.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 1e16227ae7297efb028f02ceb3ac8bfc11ce6864
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.openlocfilehash: 00abb6f297652b36ee9ce4b3ee3e5c6fd5f6383b3e4aaf87c9949c478706d060
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: uk-UA
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "873084"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2501753"
 name: Skype для бізнесу 2019
 summary: >+
   До Skype for Business Server 2019 застосовується [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
