@@ -3,35 +3,28 @@ metadata:
   title: Microsoft SharePoint Server 2010
   description: Microsoft SharePoint Server 2010 керується фіксованою політикою життєвого циклу.
   ms.date: 09/01/2020
-  keywords: Access Services,All applicable,Excel Services,Performance Point Services
-  ms.openlocfilehash: 02a1a5085dbd39b7379b0e71f69300095cfa54da
-  ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: HT
-  ms.contentlocale: uk-UA
-  ms.lasthandoff: 09/02/2020
-  ms.locfileid: "941581"
+  keywords: 'Access Services,All applicable,Excel Services,Performance Point Services'
 name: Microsoft SharePoint Server 2010
-summary: >+
+summary: |+
   Microsoft SharePoint Server 2010 керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
-
 
   Це стосується наступних випусків: Служби Access Services, всі застосовні, служби Excel Services, служби Performance Point Services
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 07/15/2010
   end: 10/13/2015
   extendedEnd: 04/13/2021
 releases:
-- version: Service Pack 2
-  startDate: 07/23/2013
-  endDate: 04/13/2021
-- version: Service Pack 1
-  startDate: 06/28/2011
-  endDate: 10/14/2014
-- version: Original Release
-  startDate: 07/15/2010
-  endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Посилання \n* [Розширення підтримки](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Вказівки щодо міграції](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Документація від розробника Microsoft SharePoint Server 2010](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Документація щодо продукту Microsoft SharePoint Server 2010](/previous-versions/office/sharepoint-server-2010/cc303422(v=office.14))\n\n> [!NOTE]\n> Дату завершення підтримки цього продукту було відкладено з 13 жовтня 2020 року до 13 квітня 2021 року.\n\n## <a name=\"editions\"></a>Версії \n* Служби Access Services\n* Всі застосовні\n* Служби Excel Services\n* Служби Performance Point Services\n"
+  - version: Service Pack 2
+    startDate: 07/23/2013
+    endDate: 04/13/2021
+  - version: Service Pack 1
+    startDate: 06/28/2011
+    endDate: 10/14/2014
+  - version: Original Release
+    startDate: 07/15/2010
+    endDate: 07/10/2012
+content: "\n## <a name=\"links\"></a>Посилання \n* [Розширення підтримки](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Вказівки щодо міграції](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Документація від розробника Microsoft SharePoint Server 2010](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Документація щодо продукту Microsoft SharePoint Server 2010](/previous-versions/office/sharepoint-server-2010/cc303422(v=office.14))\n\n> [!NOTE]\n> Дату завершення підтримки цього продукту було відкладено з 13\_жовтня 2020\_року до 13\_квітня 2021\_року.\n\n## <a name=\"editions\"></a>Версії \n* Служби Access Services\n* Всі застосовні\n* Служби Excel Services\n* Служби Performance Point Services\n"

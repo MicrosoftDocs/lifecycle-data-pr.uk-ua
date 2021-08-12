@@ -3,25 +3,19 @@ metadata:
   title: Learning Essentials 2.0 для Microsoft Office
   description: До Learning Essentials 2.0 для Microsoft Office застосовується політика життєвого циклу компонента.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 1bdfd924e319c432bbaf5d2b75f5945ca6408915
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: uk-UA
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "845847"
 name: Learning Essentials 2.0 для Microsoft Office
-summary: >+
+summary: |+
   До Learning Essentials 2.0 для Microsoft Office застосовується політика життєвого циклу [компонента](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
-- office
+  - office
 policyType: component
 supportDates:
   start: 04/30/2007
   end: 07/10/2012
 releases:
-- version: Original Release
-  startDate: 04/30/2007
-  endDate: 07/10/2012
-content: ''
+  - version: Original Release
+    startDate: 04/30/2007
+    endDate: 07/10/2012
+content: |+
