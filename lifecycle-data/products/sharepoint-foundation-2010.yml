@@ -4,32 +4,26 @@ metadata:
   description: До SharePoint Foundation 2010 застосовується політика фіксованого життєвого циклу.
   ms.date: 09/01/2020
   keywords: ''
-  ms.openlocfilehash: 280f3157ee4cf5b5e9d0a3b2f3a597c3b4c6afbc
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
-  ms.translationtype: HT
-  ms.contentlocale: uk-UA
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162762"
 name: SharePoint Foundation 2010
-summary: >+
+summary: |+
   До SharePoint Foundation 2010 застосовується політика [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
 
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 07/15/2010
   end: 10/13/2015
   extendedEnd: 04/13/2021
 releases:
-- version: Service Pack 2
-  startDate: 07/21/2013
-  endDate: 04/13/2021
-- version: Service Pack 1
-  startDate: 06/24/2011
-  endDate: 10/14/2014
-- version: Original Release
-  startDate: 07/15/2010
-  endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Посилання \n* [Вказівки щодо міграції](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Розширення підтримки](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Документація розробника Microsoft SharePoint Foundation 2010](/previous-versions/office/ee535067(v=office.14))\n* [Документація по продукту Microsoft SharePoint Foundation 2010](/previous-versions/office/sharepoint-foundation-2010/cc288070(v=office.14))\n\n> [!NOTE]\n> Дату завершення підтримки цього продукту було відкладено з 13 жовтня 2020 року до 13 квітня 2021 року.\n\n"
+  - version: Service Pack 2
+    startDate: 07/21/2013
+    endDate: 04/13/2021
+  - version: Service Pack 1
+    startDate: 06/24/2011
+    endDate: 10/14/2014
+  - version: Original Release
+    startDate: 07/15/2010
+    endDate: 07/10/2012
+content: "\n## <a name=\"links\"></a>Посилання \n* [Вказівки щодо міграції](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Розширення підтримки](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Документація розробника Microsoft SharePoint Foundation 2010](/previous-versions/office/ee535067(v=office.14))\n* [Документація по продукту Microsoft SharePoint Foundation 2010](/previous-versions/office/sharepoint-foundation-2010/cc288070(v=office.14))\n\n> [!NOTE]\n> Дату завершення підтримки цього продукту було відкладено з 13\_жовтня 2020\_року до 13\_квітня 2021\_року.\n\n"
