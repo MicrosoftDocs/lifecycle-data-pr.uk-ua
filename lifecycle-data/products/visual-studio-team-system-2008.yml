@@ -1,38 +1,44 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio Team System 2008
-  description: Visual Studio Team System 2008 керується політикою фіксованого життєвого циклу.
+  description: Visual Studio Team System 2008 керується фіксованою політикою життєвого циклу.
   ms.date: 09/02/2020
-  keywords: All,Architecture,Database,Development,Team Explorer,Team Test Load Agent,TFS
-  ms.openlocfilehash: 41a7a602e0aea666c7da8593af19243a881ec064
-  ms.sourcegitcommit: 27cfc07314fb17289e3d7cad15c37b591d53621a
-  ms.translationtype: HT
-  ms.contentlocale: uk-UA
-  ms.lasthandoff: 09/03/2020
-  ms.locfileid: "945318"
+  keywords: 'All,Architecture,Database,Development,Team Explorer,Team Test Load Agent,TFS'
 name: Visual Studio Team System 2008
-summary: >
-  Visual Studio Team System 2008 керується політикою [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
+summary: |
+  Visual Studio Team System 2008 керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
-
-  Це застосовно до наступних випусків: Всі, Architecture, Database, Development, Team Explorer, Team Test Load Agent, TFS
-
+  Це застосовно до наступних випусків: All, Architecture, Database, Development, Team Explorer, Team Test Load Agent, TFS
 
   > [!IMPORTANT]
-
   > Підтримку завершено. Перегляньте інструкції з міграції, наведені нижче.
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 02/19/2008
   end: 04/09/2013
   extendedEnd: 04/10/2018
 releases:
-- version: Service Pack 1
-  startDate: 08/11/2008
-  endDate: 04/10/2018
-- version: Original Release
-  startDate: 02/19/2008
-  endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Посилання \n* [Вказівки щодо міграції](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Вказівки щодо міграції](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Політика пакетів оновлень](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Версії \n* Всі\n* Architecture\n* Database\n* Development\n* Team Explorer\n* Team Test Load Agent\n* TFS"
+  - version: Service Pack 1
+    startDate: 08/11/2008
+    endDate: 04/10/2018
+  - version: Original Release
+    startDate: 02/19/2008
+    endDate: 10/13/2009
+content: |
+
+  ## <a name="links"></a>Посилання 
+  * [Вказівки щодо міграції](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)
+  * [Вказівки щодо міграції](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)
+  * [Політика пакетів оновлень](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Версії 
+  * Всі
+  * Архітектура
+  * Database
+  * Development
+  * Team Explorer
+  * Team Test Load Agent
+  * TFS

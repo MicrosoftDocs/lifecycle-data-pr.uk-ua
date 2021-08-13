@@ -3,25 +3,23 @@ metadata:
   title: Virtual PC для Mac
   description: Virtual PC для Mac регулюється фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
-  ms.openlocfilehash: cf556aeada0feade9a260e41c921b5f0ac6638e7
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: uk-UA
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "845654"
 name: Virtual PC для Mac
-summary: >+
+summary: |+
   Virtual PC для Mac регулюється [фіксованою](/lifecycle/policies/fixed) політика життєвого циклу.
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 11/12/2003
   end: 04/13/2010
 releases:
-- version: Original Release
-  startDate: 11/12/2003
-  endDate: 01/13/2009
-content: "\n\n> [!NOTE]\n> Включає Версію 5.01, Версію 5.02, Версію 5.03, Версію 5.04, Версію 6.01, Версію 6.02, Версію 6.1, оновлення Версії 6.1.1, Версію 7, Версію 7.01"
+  - version: Original Release
+    startDate: 11/12/2003
+    endDate: 01/13/2009
+content: |+
+
+
+  > [!NOTE]
+  > Включає Версію 5.01, Версію 5.02, Версію 5.03, Версію 5.04, Версію 6.01, Версію 6.02, Версію 6.1, оновлення Версії 6.1.1, Версію 7, Версію 7.01
