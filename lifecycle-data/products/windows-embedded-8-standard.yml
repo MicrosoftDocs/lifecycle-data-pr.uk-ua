@@ -1,29 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Embedded 8 Standard
-  description: До Windows Embedded 8 Standard застосовується фіксована політика життєвого циклу.
+  description: "До Windows\_Embedded\_8\_Standard застосовується фіксована політика життєвого циклу."
   ms.date: 01/12/2021
-  keywords: 
-  ms.openlocfilehash: b0b821dd020d453ae7bb2fd7f666166c444e3feb
-  ms.sourcegitcommit: ad2abf9ecbfe0603f71593372c0d2178c37b5ccd
-  ms.translationtype: HT
-  ms.contentlocale: uk-UA
-  ms.lasthandoff: 01/13/2021
-  ms.locfileid: "1377067"
+  keywords: null
 name: Windows Embedded 8 Standard
-summary: >+
-  До Windows Embedded 8 Standard застосовується [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
-
-
+summary: "До Windows\_Embedded\_8\_Standard застосовується [фіксована](/lifecycle/policies/fixed) політика життєвого циклу.\n\n\n"
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 05/01/2013
   end: 07/10/2018
   extendedEnd: 07/11/2023
 releases:
-- version: Original Release
-  startDate: 05/01/2013
-  endDate: 07/11/2023
-content: "\n## <a name=\"links\"></a>Посилання \n* [Запитання й відповіді щодо життєвого циклу Windows](/lifecycle/faq/windows)"
+  - version: Original Release
+    startDate: 05/01/2013
+    endDate: 07/11/2023
+content: |+
+
+  ## <a name="links"></a>Посилання 
+  * [Запитання й відповіді щодо життєвого циклу Windows](/lifecycle/faq/windows)
