@@ -3,26 +3,23 @@ metadata:
   title: Засіб перегляду звітів Microsoft 2010 вторинного розповсюдження
   description: Засіб перегляду звітів Microsoft 2010 регулюється фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
-  ms.openlocfilehash: f4e1569165a222cc013d2d9fd58074f6cef98816
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: uk-UA
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "845163"
 name: Засіб перегляду звітів Microsoft 2010 вторинного розповсюдження
-summary: >+
+summary: |+
   Засіб перегляду звітів Microsoft 2010 регулюється [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
 products:
-- sql-server
+  - sql-server
 policyType: fixed
 supportDates:
   start: 06/29/2010
   end: 07/14/2015
   extendedEnd: 09/08/2020
 releases:
-- version: Original Release
-  startDate: 06/29/2010
-  endDate: 09/08/2020
-content: "\n## <a name=\"links\"></a>Посилання \n* [Інформація про продукт](/sql/reporting-services/application-integration/integrating-reporting-services-using-reportviewer-controls-get-started?view=sql-server-ver15)"
+  - version: Original Release
+    startDate: 06/29/2010
+    endDate: 09/08/2020
+content: |+
+
+  ## <a name="links"></a>Посилання 
+  * [Інформація про продукт](/sql/reporting-services/application-integration/integrating-reporting-services-using-reportviewer-controls-get-started?view=sql-server-ver15)
