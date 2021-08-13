@@ -3,29 +3,31 @@ metadata:
   title: Microsoft BizTalk Adapter 2.0
   description: До Microsoft BizTalk Adapter 2.0 застосовується Фіксована політика життєвого циклу.
   ms.date: 09/01/2020
-  keywords: for MSMQ,for mySAP Business Suite,for SAP
-  ms.openlocfilehash: e6ccc3e11575a0d48e60228fa8eca4d1e4849669
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: uk-UA
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "934768"
+  keywords: 'for MSMQ,for mySAP Business Suite,for SAP'
 name: Microsoft BizTalk Adapter 2.0
-summary: >+
+summary: |+
   До Microsoft BizTalk Adapter 2.0 застосовується [Фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
-
 
   Це стосується наступних видань: для MSMQ, для mySAP Business Suite, для SAP
 
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 10/20/2004
   end: 01/12/2010
   extendedEnd: 01/13/2015
 releases:
-- version: Original Release
-  startDate: 10/20/2004
-  endDate: 01/13/2015
-content: "\n\n> [!NOTE]\n> Дата початку Microsoft BizTalk Adapter 2.0 для SAP – 2 листопада 2004 року. Дата початку Microsoft BizTalk Adapter для MSMQ 2.0 - 10 грудня 2004 року.\n\n## <a name=\"editions\"></a>Версії \n* для MSMQ\n* для mySAP Business Suite\n* для SAP"
+  - version: Original Release
+    startDate: 10/20/2004
+    endDate: 01/13/2015
+content: |
+
+
+  > [!NOTE]
+  > Дата початку Microsoft BizTalk Adapter 2.0 для SAP – 2 листопада 2004 року. Дата початку Microsoft BizTalk Adapter для MSMQ 2.0 - 10 грудня 2004 року.
+
+  ## <a name="editions"></a>Версії 
+  * для MSMQ
+  * для mySAP Business Suite
+  * для SAP

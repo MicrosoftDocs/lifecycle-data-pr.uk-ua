@@ -1,40 +1,43 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization Hosting 4.6 для настільних ПК з Windows
-  description: Microsoft Application Virtualization Hosting для настільних ПК з Windows керується політикою фіксованого життєвого циклу.
+  title: 'Microsoft Application віртуалізації хостинг 4,6 для настільних комп''ютерів Windows'
+  description: Microsoft Application Virtualization Hosting для настільних комп'ютерів під управлінням Windows керується фіксованою політикою життєвого циклу.
   ms.date: 09/01/2020
   keywords: for Windows Desktops
-  ms.openlocfilehash: 8a32729ae5fbf7f57a14b6a6ec048c7a1f412a52
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: uk-UA
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935471"
-name: Microsoft Application Virtualization Hosting 4.6 для настільних ПК з Windows
-summary: >+
-  Microsoft Application Virtualization Hosting 4.6 для настільних ПК з Windows керується політикою [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
+name: 'Microsoft Application віртуалізації хостинг 4,6 для настільних комп''ютерів Windows'
+summary: |+
+  Microsoft Application Virtualization Hosting 4.6 для настільних комп'ютерів під управлінням Windows керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
-
-  Це стосується наступних випусків: для настільних ПК з Windows
+  Це стосується наступних випусків: Windows Desktops
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 05/27/2010
   end: 07/14/2015
   extendedEnd: 07/14/2020
 releases:
-- version: Service Pack 3
-  startDate: 12/02/2013
-  endDate: 07/14/2020
-- version: Service Pack 2
-  startDate: 10/01/2012
-  endDate: 01/13/2015
-- version: Service Pack 1
-  startDate: 01/26/2011
-  endDate: 10/08/2013
-- version: Original Release
-  startDate: 05/27/2010
-  endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Посилання \n* [Інформація про виріб та міграцію](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Політика пакетів оновлень](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Оскільки клієнт App-V 4.6 використовує сервер App-V 4.5, підтримка сервера App-V 4.5 буде продовжуватися відповідно до дат життєвого циклу App-V 4.6 у разі його використання з підтримуваним клієнтом App-V 4.6.\n\n## <a name=\"editions\"></a>Версії \n* для настільних ПК з Windows"
+  - version: Service Pack 3
+    startDate: 12/02/2013
+    endDate: 07/14/2020
+  - version: Service Pack 2
+    startDate: 10/01/2012
+    endDate: 01/13/2015
+  - version: Service Pack 1
+    startDate: 01/26/2011
+    endDate: 10/08/2013
+  - version: Original Release
+    startDate: 05/27/2010
+    endDate: 04/10/2012
+content: |
+
+  ## <a name="links"></a>Посилання 
+  * [Інформація про виріб та міграцію](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)
+  * [Політика пакетів оновлень](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > Оскільки клієнт App-V 4.6 використовує сервер App-V 4.5, підтримка сервера App-V 4.5 буде продовжуватися відповідно до дат життєвого циклу App-V 4.6 у разі його використання з підтримуваним клієнтом App-V 4.6.
+
+  ## <a name="editions"></a>Версії 
+  * для Windows для настільних ПК
