@@ -3,25 +3,19 @@ metadata:
   title: Рішення Microsoft для розміщуваних у мережі інструментів обміну повідомленнями й співпраці 4.5
   description: Рішення Microsoft для розміщуваних у мережі інструментів обміну повідомленнями й співпраці 4.5 регулюються фіксованою політикою життєвого циклу.
   ms.date: 07/28/2020
-  ms.openlocfilehash: cbc7bce389f60d1972cae075005525780c82eed0
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: uk-UA
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "845399"
 name: Рішення Microsoft для розміщуваних у мережі інструментів обміну повідомленнями й співпраці 4.5
-summary: >+
+summary: |+
   Рішення Microsoft для розміщуваних у мережі інструментів обміну повідомленнями й співпраці 4.5 регулюються [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 09/11/2008
   end: 12/12/2011
 releases:
-- version: Original Release
-  startDate: 09/11/2008
-  endDate: 12/12/2011
-content: ''
+  - version: Original Release
+    startDate: 09/11/2008
+    endDate: 12/12/2011
+content: |+

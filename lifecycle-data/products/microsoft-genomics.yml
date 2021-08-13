@@ -3,23 +3,20 @@ metadata:
   title: Microsoft Genomics
   description: До Microsoft Genomics застосовується Сучасна політика життєвого циклу.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 9f52d7baf49b2bad411cda9bc96706cfc39bd5c0
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: HT
-  ms.contentlocale: uk-UA
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "872995"
 name: Microsoft Genomics
-summary: >+
+summary: |+
   До Microsoft Genomics застосовується [Сучасна](/lifecycle/policies/modern) політика життєвого циклу.
 
 
 products:
-- azure
+  - azure
 policyType: modern-online
 supportDates:
   start: 11/01/2017
 releases:
-- version: Original Release
-  startDate: 11/01/2017
-content: "\n## <a name=\"links\"></a>Посилання \n* [Службова інформація](/azure/genomics/version-release-history-genomics)"
+  - version: Original Release
+    startDate: 11/01/2017
+content: |+
+
+  ## <a name="links"></a>Посилання 
+  * [Службова інформація](/azure/genomics/version-release-history-genomics)
