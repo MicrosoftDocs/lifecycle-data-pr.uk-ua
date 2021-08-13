@@ -4,23 +4,30 @@ metadata:
   description: До Microsoft Office Communicator 2007 застосовується політика фіксованого життєвого циклу.
   ms.date: 09/10/2020
   keywords: Standard
-  ms.openlocfilehash: dbb46e37a768b34dd9240524f45723daa498f825
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: uk-UA
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001707"
 name: Microsoft Office Communicator 2007
-summary: "До Microsoft Office Communicator 2007 застосовується політика [фіксованого](/lifecycle/policies/fixed) життєвого циклу.\n\nЦе стосується наступних версій: Standard\n\n> [!IMPORTANT]\n> Підтримка цього продукту закінчилась. \n"
+summary: |
+  До Microsoft Office Communicator 2007 застосовується політика [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
+
+  Це стосується наступних версій: Standard
+
+  > [!IMPORTANT]
+  > Підтримка цього продукту закінчилась. 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 10/27/2007
   end: 01/08/2013
   extendedEnd: 01/09/2018
 releases:
-- version: Original Release
-  startDate: 10/27/2007
-  endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Посилання \n* [Вказівки щодо міграції](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>Версії \n* Standard"
+  - version: Original Release
+    startDate: 10/27/2007
+    endDate: 01/09/2018
+content: |
+
+  ## <a name="links"></a>Посилання 
+  * [Вказівки щодо міграції](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)
+
+
+  ## <a name="editions"></a>Версії 
+  * Standard
