@@ -3,29 +3,22 @@ metadata:
   title: Windows Server IoT 2019
   description: Windows Server IoT 2019 керується фіксованою політикою життєвого циклу.
   ms.date: 09/01/2020
-  keywords: Datacenter,Essentials,Standard,Telecommunications
-  ms.openlocfilehash: c4a5890e2ad230275c41bf77dcdb77699f5b8232
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: uk-UA
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939282"
+  keywords: 'Datacenter,Essentials,Standard,Telecommunications'
 name: Windows Server IoT 2019
-summary: >+
+summary: |+
   Windows Server IoT 2019 керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
-
 
   Це стосується наступних випусків: Datacenter, Essentials, Standard, Telecommunications
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 03/04/2019
   end: 01/09/2024
   extendedEnd: 01/09/2029
 releases:
-- version: Original Release
-  startDate: 03/04/2019
-  endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Посилання \n* [Поширені питання життєвого циклу: продукти Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Усі версії Windows Server IoT 2019 мають життєвий цикл Windows Server 2019.\n\n## <a name=\"editions\"></a>Версії \n* Datacenter\n* Essentials\n* Standard\n* Telecommunications\n"
+  - version: Original Release
+    startDate: 03/04/2019
+    endDate: 01/09/2029
+content: "\n## <a name=\"links\"></a>Посилання \n* [Поширені питання життєвого циклу: продукти Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Усі версії Windows Server IoT\_2019 мають життєвий цикл Windows Server\_2019.\n\n## <a name=\"editions\"></a>Версії \n* Datacenter\n* Essentials\n* Standard\n* Telecommunications\n"

@@ -1,34 +1,38 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 8
+  title: "Windows\_8"
   description: До Windows 8 застосовується політика фіксованого життєвого циклу.
   ms.date: 09/10/2020
-  keywords: Enterprise,Enterprise N,N,Pro with Media Center,Professional,Professional N,SL
-  ms.openlocfilehash: b68f0cd76dd872c62082863665109462e414f4be
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: uk-UA
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002336"
-name: Windows 8
-summary: >
+  keywords: 'Enterprise,Enterprise N,N,Pro with Media Center,Professional,Professional N,SL'
+name: "Windows\_8"
+summary: |
   До Windows 8 застосовується політика [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
-
 
   Це стосується наступних випусків: Enterprise, Enterprise N, N, Pro з Media Center, Professional, Professional N, SL
 
-
   > [!IMPORTANT]
-
   > Підтримка цього продукту закінчилась. Користувачам слід оновити систему до Windows 8.1, щоб продовжувати отримувати підтримку.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/30/2012
   extendedEnd: 01/12/2016
 releases:
-- version: Original Release
-  startDate: 10/30/2012
-  endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Посилання \n* [Запитання та відповіді щодо життєвого циклу: Windows 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Версії \n* Enterprise\n* Enterprise N\n* N\n* Pro з Media Center\n* Professional\n* Professional N\n* SL"
+  - version: Original Release
+    startDate: 10/30/2012
+    endDate: 01/12/2016
+content: |
+
+  ## <a name="links"></a>Посилання 
+  * [Запитання та відповіді щодо життєвого циклу: Windows 8.1](/lifecycle/faq/windows#windows-81)
+
+
+  ## <a name="editions"></a>Версії 
+  * Enterprise
+  * Enterprise N
+  * N
+  * Pro з Media Center
+  * Professional
+  * Professional N
+  * SL

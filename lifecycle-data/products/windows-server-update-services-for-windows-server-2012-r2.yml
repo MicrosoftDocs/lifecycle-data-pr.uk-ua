@@ -3,26 +3,25 @@ metadata:
   title: Служби оновлення Windows Server для Windows Server 2012 R2
   description: Служби Windows Server Update Services для Windows Server 2012 R2 керуються політикою життєвого циклу компонентів.
   ms.date: 01/22/2021
-  keywords: 
-  ms.openlocfilehash: efa11337dbeba8601a1ef70ef003f709f286e6b6
-  ms.sourcegitcommit: cea6a4b7fe734aba8b534ecdef302cb56c5f7cca
-  ms.translationtype: HT
-  ms.contentlocale: uk-UA
-  ms.lasthandoff: 01/23/2021
-  ms.locfileid: "1416771"
+  keywords: null
 name: Служби оновлення Windows Server для Windows Server 2012 R2
-summary: >+
+summary: |+
   Служби Windows Server Update Services для Windows Server 2012 R2  [керуються](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) політикою життєвого циклу компонентів.
 
 
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 11/25/2013
   end: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 11/25/2013
-  endDate: 10/10/2023
-content: "> [!TIP]\n> Даний компонент має життєвий цикл відповідно до свого батьківського продукту Windows Server 2012 R2\n\n## <a name=\"links\"></a>Посилання \n* [Windows Server 2012 R2](/lifecycle/)"
+  - version: Original Release
+    startDate: 11/25/2013
+    endDate: 10/10/2023
+content: |+
+  > [!TIP]
+  > Даний компонент має життєвий цикл відповідно до свого батьківського продукту Windows Server 2012 R2
+
+  ## <a name="links"></a>Посилання 
+  * [Windows Server 2012 R2](/lifecycle/)
