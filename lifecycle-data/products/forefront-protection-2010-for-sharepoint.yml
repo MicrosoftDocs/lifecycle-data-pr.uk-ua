@@ -3,25 +3,19 @@ metadata:
   title: Forefront Protection 2010 для SharePoint
   description: До Forefront Protection 2010 для SharePoint застосовується Фіксована політика життєвого циклу.
   ms.date: 08/21/2020
-  ms.openlocfilehash: cb0b92034979bf559cc72ac5d6b6302d3e986f39
-  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
-  ms.translationtype: HT
-  ms.contentlocale: uk-UA
-  ms.lasthandoff: 08/25/2020
-  ms.locfileid: "908958"
 name: Forefront Protection 2010 для SharePoint
-summary: >+
+summary: |+
   До Forefront Protection 2010 для SharePoint застосовується [Фіксована](/lifecycle/policies/fixed) політика життєвого циклу.
 
 
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 07/15/2010
   extendedEnd: 12/31/2015
 releases:
-- version: Original Release
-  startDate: 07/15/2010
-  endDate: 12/31/2015
-content: "\n\n> [!NOTE]\n> План-графік розробки засобів безпеки Forefront змінився.  Розробка цього продукту припинена 31 грудня 2015 року.\n\n\n"
+  - version: Original Release
+    startDate: 07/15/2010
+    endDate: 12/31/2015
+content: "\n\n> [!NOTE]\n> План-графік розробки засобів безпеки Forefront змінився. \_Розробка цього продукту припинена 31 грудня 2015 року.\n\n\n"
