@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Project 2021 (LTSC)
+  description: До Project 2021 (LTSC) застосовується політика фіксованого життєвого циклу.
+  ms.date: 09/16/2021
+  keywords: Office,Professional,Standard
+  ms.openlocfilehash: aee4c7de5a5febca50ef3530632ae4ef27bf3f24
+  ms.sourcegitcommit: 17be92666405b75359d58e4487bda40de53b13a7
+  ms.translationtype: HT
+  ms.contentlocale: uk-UA
+  ms.lasthandoff: 09/17/2021
+  ms.locfileid: "3458067"
+name: Project 2021 (LTSC)
+summary: >+
+  До Project 2021 (LTSC) застосовується політика [фіксованого](/lifecycle/policies/fixed) життєвого циклу.
+
+
+
+  Це стосується наступних випусків: Professional, Standard
+
+
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 09/16/2021
+  end: 10/13/2026
+releases:
+- version: Original Release
+  startDate: 09/16/2021
+  endDate: 10/13/2026
+content: "\n\n## <a name=\"links\"></a>Посилання \n* [Системні вимоги](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n\n\n## <a name=\"editions\"></a>Версії \n* Professional\n* Standard"
