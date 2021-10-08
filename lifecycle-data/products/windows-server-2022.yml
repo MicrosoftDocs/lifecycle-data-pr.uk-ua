@@ -2,21 +2,21 @@
 metadata:
   title: Windows Server 2022
   description: Windows Server 2022 керується фіксованою політикою життєвого циклу.
-  ms.date: 08/31/2021
+  ms.date: 09/23/2021
   keywords: 
-  ms.openlocfilehash: 8c3cf914c65ac5fe4d13296398a4f0bea73eb7f8
-  ms.sourcegitcommit: acb9601132598295da5c9f5a537f1a1af401417a
+  ms.openlocfilehash: 1ed53da378c243b1cb45d78aeb9770a1f6ec3e1d
+  ms.sourcegitcommit: 7c3fe4207bf2db7fe5db69c9c50fd1afb6070311
   ms.translationtype: HT
   ms.contentlocale: uk-UA
-  ms.lasthandoff: 09/01/2021
-  ms.locfileid: "3173058"
+  ms.lasthandoff: 09/30/2021
+  ms.locfileid: "3508038"
 name: Windows Server 2022
 summary: >+
   Windows Server 2022 керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
 
 
-  Це стосується таких випусків: Datacenter, Essentials, MultiPoint Premium, Standard
+  Це стосується наступних випусків: Datacenter, Datacenter: Azure Edition, Essentials, Standard
 
 
 
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 08/18/2021
   endDate: 10/14/2031
-content: "\n\n## <a name=\"links\"></a>Посилання \n* [Запитання й відповіді про життєвий цикл - Windows](/lifecycle/faq/windows)\n* [Інформація про продукт](/windows-server/windows-server-2022/get-started/whats-new)\n\n\n> [!NOTE]\n> Контейнери, випущені з Windows Server 2022, відповідають тим самим датам життєвого циклу. \n\n\n## <a name=\"editions\"></a>Версії \n* Datacenter\n* Datacenter: Azure Edition\n* Standard"
+content: "> [!TIP]\n> До Microsoft Edge застосовується [сучасна політика життєвого циклу](https://docs.microsoft.com/lifecycle/policies/modern). Ознайомтеся з [документацією про життєвий цикл Edge](https://docs.microsoft.com/deployedge/microsoft-edge-support-lifecycle), щоб дізнатися, як підтримувати актуальність та отримувати підтримку для цього браузера.\n\n\n## <a name=\"links\"></a>Посилання \n* [Запитання й відповіді про життєвий цикл - Windows](/lifecycle/faq/windows)\n* [Інформація про продукт](/windows-server/windows-server-2022/get-started/whats-new)\n\n\n> [!NOTE]\n> Контейнери, випущені з Windows Server 2022, відповідають тим самим датам життєвого циклу. \n\n\n## <a name=\"editions\"></a>Версії \n* Datacenter\n* Datacenter: Azure Edition\n* Essentials\n* Standard"
