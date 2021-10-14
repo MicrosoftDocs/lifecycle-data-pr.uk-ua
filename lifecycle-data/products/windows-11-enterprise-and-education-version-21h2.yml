@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 11 Корпоративна та Windows 11 для освіти (версія 21H2)
+  description: До Windows 11 Enterprise та Education (версія 21H2) застосовується сучасна політика життєвого циклу.
+  ms.date: 09/22/2021
+  keywords: 
+  ms.openlocfilehash: 8bccbb271d78ef9b03d0a2d9f92c78984e775f88
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: uk-UA
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509451"
+name: Windows 11 Корпоративна та Windows 11 для освіти (версія 21H2)
+summary: >+
+  До Windows 11 Корпоративна та Windows 11 для освіти застосовується (версія 21H2) застосовується [сучасна](/lifecycle/policies/modern) політика життєвого циклу.
+
+
+
+  Це стосується наступних випусків: Education, Enterprise
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 10/04/2021
+  end: 10/08/2024
+releases:
+- version: Original Release
+  startDate: 10/04/2021
+  endDate: 10/08/2024
+content: "\n\n## <a name=\"links\"></a>Посилання \n* [Windows як послуга (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Запитання й відповіді про життєвий цикл - Windows](/lifecycle/faq/windows)\n* [Додаткові ресурси Windows](/windows/resources/)\n* [Windows 11 IoT Enterprise](/lifecycle/products/windows-11-iot-enterprise)\n* [Windows 11 для дому та Windows 11 Pro](/lifecycle/products/windows-11-home-and-pro)\n\n\n> [!NOTE]\n> Якщо не вказано інше, зазначені далі оновлення функції щопіврічного каналу оновлення для Windows 11 можна інсталювати до зазначеної дати завершення базової підтримки.\n\n\n## <a name=\"editions\"></a>Версії \n* Education\n* Enterprise\n\n"

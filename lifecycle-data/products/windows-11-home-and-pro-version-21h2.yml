@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 11 для дому та Windows 11 Pro (версія 21H2)
+  description: До Windows 11 Home та Pro (версія 21H2) застосовується сучасна політика життєвого циклу.
+  ms.date: 09/23/2021
+  keywords: 
+  ms.openlocfilehash: ea691bf8b5c3e0a62e8d8d6e4bdc5ec3147faa22
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: uk-UA
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509483"
+name: Windows 11 для дому та Windows 11 Pro (версія 21H2)
+summary: >+
+  До Windows 11 для дому та Windows 11 Pro (версія 21H2) застосовується [сучасна](/lifecycle/policies/modern) політика життєвого циклу.
+
+
+
+  Це стосується наступних випусків: Home, Pro, Pro Education, Pro for Workstations
+
+
+
+products:
+- windows
+policyType: modern-on-prem
+supportDates:
+  start: 10/04/2021
+  end: 10/10/2023
+releases:
+- version: Original release (Version 21H2)
+  startDate: 10/04/2021
+  endDate: 10/10/2023
+content: "\n\n## <a name=\"links\"></a>Посилання \n* [Windows як послуга (WaaS)](/windows/deployment/update/waas-overview)\n* [Запитання й відповіді про життєвий цикл - Windows](/lifecycle/faq/windows)\n* [Додаткові ресурси Windows](/windows/resources/)\n* [Windows 11 Корпоративна та Windows 11 для освіти](/lifecycle/products/windows-11-enterprise-and-education)\n* [Windows 11 IoT Enterprise](/lifecycle/products/windows-11-iot-enterprise)\n\n\n\n\n## <a name=\"editions\"></a>Версії \n* Home\n* Pro\n* Pro Education\n* Pro для робочих станцій"

@@ -2,53 +2,39 @@
 metadata:
   title: Visual Studio 2012
   description: Visual Studio 2012 керується фіксованою політикою життєвого циклу.
-  ms.date: 09/01/2020
-  keywords: 'Agents,Community 2013,Express for Web,Express for Windows 8,Express for Windows Desktop,IntelliTrace Collector,Microsoft Azure Tools,Premium,Professional,Remote Tools,Shell (Integrated),Shell (Isolated),SQL Server Data Tools,Team Explorer,Test Professional 2013,Ultimate,Visual C++ Redistributable,Web Tools Extensions'
+  ms.date: 10/04/2021
+  keywords: 
+  ms.openlocfilehash: 9d4be228f6bc6fb4e6c418c13faa8886fcd045d1
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: uk-UA
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509198"
 name: Visual Studio 2012
-summary: |+
+summary: >+
   Visual Studio 2012 керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
 
-  Це стосується наступних випусків: Агенти, Community 2013, Express для Web, Express для Windows 8, Express для Windows Desktop, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Remote Tools, Shell (Integrated), Shell (Isolated), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ ++ вторинного розповсюдження, Web Tools Extensions
+
+
+  Це стосується наступних випусків: Express for Web, Express for Windows Desktop, Premium, Professional, Team Explorer, Ultimate
+
+
 
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
   start: 10/31/2012
   end: 01/09/2018
   extendedEnd: 01/10/2023
 releases:
-  - version: Update 5
-    startDate: 08/21/2015
-    endDate: 01/10/2023
-  - version: Update 4
-    startDate: 11/12/2013
-    endDate: 10/08/2019
-  - version: Original Release
-    startDate: 10/31/2012
-    endDate: 01/10/2023
-content: |
-
-  ## <a name="links"></a>Посилання 
-  * [Життєвий цикл продукту та обслуговування Visual Studio](/visualstudio/productinfo/vs-servicing-vs)
-
-
-  ## <a name="editions"></a>Версії 
-  * Агенти
-  * Community 2013
-  * Express для Web
-  * Express для Windows 8
-  * Express для Windows Desktop
-  * IntelliTrace Collector
-  * Інструменти Microsoft Azure
-  * Premium
-  * Professional
-  * Remote Tools
-  * Shell (Integrated)
-  * Shell (Isolated)
-  * SQL Server Data Tools
-  * Team Explorer
-  * Test Professional 2013
-  * Ultimate
-  * Visual C++ вторинного розповсюдження
-  * Web Tools Extensions
+- version: Update 5
+  startDate: 08/21/2015
+  endDate: 01/10/2023
+- version: Update 4
+  startDate: 11/12/2013
+  endDate: 10/08/2019
+- version: Original Release
+  startDate: 10/31/2012
+  endDate: 01/10/2023
+content: "\n\n## <a name=\"links\"></a>Посилання \n* [Інформація про обслуговування старих версій Visual Studio](/visualstudio/releases/2019/servicing#support-for-older-versions-of-visual-studio)\n* [Політика підтримки пакетів оновлень](/lifecycle/faq/fixed-policy#what-is-the-lifecycle-policy-for-service-packs-)\n\n\n> [!NOTE]\n> У межах життєвого циклу Visual Studio 2012 постачаються та підтримуються версії таких компонентів Visual Studio 2012: Агенти, IntelliTrace Collector, Microsoft Azure Tools, Remote Tools, SDK, Shell (інтегровані), Shell (ізольовані), SQL Server Data Tools, Team Explorer, Visual C++ вторинного розповсюдження, Web Tools Extensions.\n\n\n## <a name=\"editions\"></a>Версії \n* Express для Web\n* Express для Windows Desktop\n* Premium\n* Professional\n* Team Explorer\n* Ultimate"
