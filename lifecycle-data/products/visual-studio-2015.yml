@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2015
   description: Visual Studio 2015 керується фіксованою політикою життєвого циклу.
-  ms.date: 10/04/2021
+  ms.date: 10/11/2021
   keywords: 
-  ms.openlocfilehash: 492f0646827d31ba0f4c2906f64915c2b22dffc0
-  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.openlocfilehash: 1e07a427245d7d9fd41ca9628cdacdaf1d888241
+  ms.sourcegitcommit: e5d80ad2e1e33e12fda006a76248ec3fb74c7af6
   ms.translationtype: HT
   ms.contentlocale: uk-UA
-  ms.lasthandoff: 10/05/2021
-  ms.locfileid: "3509309"
+  ms.lasthandoff: 10/11/2021
+  ms.locfileid: "3514251"
 name: Visual Studio 2015
 summary: >+
   Visual Studio 2015 керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 10/14/2025
-content: "\n\n## <a name=\"links\"></a>Посилання \n* [Інформація про обслуговування старих версій Visual Studio](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n* [Політика підтримки пакетів оновлень](/lifecycle/faq/fixed-policy#what-is-the-lifecycle-policy-for-service-packs-)\n\n\n> [!NOTE]\n> У межах життєвого циклу Visual Studio 2015 постачаються та підтримуються версії таких компонентів Visual Studio 2015: Агенти, ESM, SDK для моделювання, PSM, Remote Tools, SDK, Shell (інтегровані), Shell (ізольовані), TPS, Visual C++ вторинного розповсюдження.\n\n\n## <a name=\"editions\"></a>Версії \n* Community\n* Enterprise\n* Express для Web\n* Express для Windows 10\n* Express для Windows Desktop\n* Professional\n* Release Management\n* Test Professional\n\n"
+content: "\n\n## <a name=\"links\"></a>Посилання \n* [Інформація про обслуговування старих версій Visual Studio](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n\n\n> [!NOTE]\n> У межах життєвого циклу Visual Studio 2015 постачаються та підтримуються версії таких компонентів Visual Studio 2015: Агенти, ESM, SDK для моделювання, PSM, Remote Tools, SDK, Shell (інтегровані), Shell (ізольовані), TPS, Visual C++ вторинного розповсюдження.\n\n\n## <a name=\"editions\"></a>Версії \n* Community\n* Enterprise\n* Express для Web\n* Express для Windows 10\n* Express для Windows Desktop\n* Professional\n* Release Management\n* Test Professional\n\n"
