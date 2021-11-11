@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: SharePoint Server (випуск за передплатою)
+  description: До SharePoint Server (версія за підпискою) застосовується сучасна політика життєвого циклу.
+  ms.date: 10/19/2021
+  keywords: 
+  ms.openlocfilehash: 3e5e5eb0b969e8d18a37532e4b5750be288bcebf
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
+  ms.translationtype: HT
+  ms.contentlocale: uk-UA
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3547002"
+name: SharePoint Server (випуск за передплатою)
+summary: >+
+  До SharePoint Server (випуск за передплатою) застосовується [сучасна](/lifecycle/policies/modern) політика життєвого циклу.
+
+
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 11/02/2021
+releases:
+- version: Original Release
+  startDate: 11/02/2021
+content: "\n\n\n\n> [!NOTE]\n> Перегляньте [документацію про продукт](https://docs.microsoft.com/sharepoint/sharepoint-server) та [документацію розробника](https://docs.microsoft.com/sharepoint/dev/)."
