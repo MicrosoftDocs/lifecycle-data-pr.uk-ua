@@ -3,30 +3,28 @@ metadata:
   title: Варіант інсталяції Windows Server 2016 Nano Server
   description: Варіант інсталяції Windows Server 2016 Nano Server керується сучасною політикою життєвого циклу.
   ms.date: 09/01/2020
-  keywords: 'Datacenter,Standard'
+  keywords: Datacenter,Standard
+  ms.openlocfilehash: 6e65dc34899d7c6fce38088debaf555a44c1e56d
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: uk-UA
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4142068"
 name: Варіант інсталяції Windows Server 2016 Nano Server
-summary: |+
+summary: >+
   Варіант інсталяції сервера Windows Server 2016 Nano Server керується [сучасною](/lifecycle/policies/modern) політикою життєвого циклу.
+
 
   Це стосується наступних випусків: Datacenter, Standard
 
 products:
-  - windows
+- windows
 policyType: modern-on-prem
 supportDates:
-  start: 10/15/2016
-  end: 10/09/2018
+  start: 2016-10-15T00:00:00.000-08:00
+  end: 2018-10-09T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 10/15/2016
-    endDate: 10/09/2018
-content: |
-
-  ## <a name="links"></a>Посилання 
-  * [Службова інформація](/windows-server/get-started/nano-in-semi-annual-channel)
-  * [Поширені питання життєвого циклу: продукти Windows](/lifecycle/faq/windows)
-
-
-  ## <a name="editions"></a>Версії 
-  * Datacenter
-  * Standard
+- version: Original Release
+  startDate: 2016-10-15T00:00:00.000-08:00
+  endDate: 2018-10-09T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Посилання \n* [Службова інформація](/windows-server/get-started/nano-in-semi-annual-channel)\n* [Поширені питання життєвого циклу: продукти Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Версії \n* Datacenter\n* Standard"
