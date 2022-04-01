@@ -3,9 +3,15 @@ metadata:
   title: Visio (план 2)
   description: До Visio (план 2) застосовується сучасна політика життєвого циклу.
   ms.date: 06/07/2021
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: 508ee5f8762226e3f2fb5e3376eeabc996a253a9
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: uk-UA
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4148800"
 name: Visio (план 2)
-summary: |+
+summary: >+
   До Visio (план 2) застосовується [сучасна](/lifecycle/policies/modern) політика життєвого циклу.
 
 
@@ -13,16 +19,11 @@ summary: |+
 
 
 products:
-  - office
+- office
 policyType: modern-online
 supportDates:
-  start: 10/18/2017
+  start: 2017-10-18T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 10/18/2017
-content: |+
-
-
-  ## <a name="links"></a>Посилання 
-  * [Системні вимоги](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources?rtc=1)
-  * [Службова інформація](/officeupdates/update-history-microsoft365-apps-by-date#supported-versions)
+- version: Original Release
+  startDate: 2017-10-18T00:00:00.000-08:00
+content: "\n\n## <a name=\"links\"></a>Посилання \n* [Системні вимоги](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources?rtc=1)\n* [Службова інформація](/officeupdates/update-history-microsoft365-apps-by-date#supported-versions)"

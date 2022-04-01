@@ -1,13 +1,13 @@
 ---
 title: Продукти, підтримка яких завершується у 2016 році
 description: Дізнайтеся, які продукти більше не будуть використовуватися, які продукти досягнуть завершення строку підтримки або перейдуть від базової підтримки до розширеної підтримки в 2016 році.
-ms.date: 09/17/2021
-ms.openlocfilehash: 173d56e15247cd3bb3e31ece82f9aa2d05a54146
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 01/14/2022
+ms.openlocfilehash: 02f886067fe5d4199a1f0e5f4505c6afa5cd6194
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4029570"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117574"
 ---
 # <a name="products-ending-support-in-2016"></a>Продукти, підтримка яких завершується у 2016 р.
 
@@ -20,13 +20,6 @@ ms.locfileid: "4029570"
 
 
 
-## <a name="release-end-of-servicing"></a>Завершення обслуговування
-
-Підтримка зазначених далі продуктів, які регулюються [Сучасною політикою](/lifecycle/policies/modern), завершується в 2016 році.
-
-| Продукт | Завершення обслуговування |
-| --- | --- |
-| [Microsoft Endpoint Configuration Manager, версія 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 8 грудня 2016 р. |
 
 
 ## <a name="products-reaching-end-of-support"></a>Кінець підтримки продукту

@@ -3,18 +3,24 @@ metadata:
   title: Служби Windows Server Update Services для Windows Server 2019
   description: Служби Windows Server Update Services для Windows Server 2019 керуються політикою життєвого циклу компонентів.
   ms.date: 07/28/2020
+  ms.openlocfilehash: b3b870a35e3b9b8b854cf704e3c7202b34ed94a1
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: uk-UA
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4129925"
 name: Служби Windows Server Update Services для Windows Server 2019
-summary: |+
+summary: >+
   Служби Windows Server Update Services for Windows Server 2019 керуються [політикою](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) життєвого циклу компонентів.
 
 
 products:
-  - windows
+- windows
 policyType: component
 supportDates:
-  start: 03/04/2019
+  start: 2019-03-04T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 03/04/2019
-    endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Посилання \n* [Windows Server 2019](/lifecycle/products/windows-server-2019)\n\n> [!NOTE]\n> Даний компонент має життєвий цикл відповідно до свого батьківського продукту Windows Server\_2019.\n\n\n"
+- version: Original Release
+  startDate: 2019-03-04T00:00:00.000-08:00
+  endDate: 2029-01-09T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Посилання \n* [Windows Server 2019](/lifecycle/products/windows-server-2019)\n\n> [!NOTE]\n> Даний компонент має життєвий цикл відповідно до свого батьківського продукту Windows Server 2019.\n\n\n"

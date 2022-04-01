@@ -1,13 +1,13 @@
 ---
 title: Продукти, підтримка яких завершується у 2028 році
 description: Дізнайтеся, які продукти більше не будуть використовуватися, які продукти досягнуть завершення строку підтримки або перейдуть від базової підтримки до розширеної підтримки в 2028 році.
-ms.date: 08/11/2021
-ms.openlocfilehash: d9483ab57d5626bb7db3be75fd915951aa68adf1
-ms.sourcegitcommit: 5e9349227c409d98c77eb151f27be486fb55a00c
+ms.date: 01/26/2022
+ms.openlocfilehash: a8b3c4f4e6e462fa015bad7b2c1b609d44d9838b
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "4029482"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4116982"
 ---
 # <a name="products-ending-support-in-2028"></a>Продукти, підтримка яких завершується у 2028 р.
 
@@ -39,3 +39,11 @@ ms.locfileid: "4029482"
 | [Dynamics SL 2018](/lifecycle/products/dynamics-sl-2018?branch=live)<br> | 11 липня 2028 р. |
 
 
+## <a name="products-moving-to-extended-support"></a>Продукти, які переходять на розширену підтримку
+
+У 2028 році зазначені далі продукти буде переведено з базової підтримки на розширену. Розширена підтримка містить як безкоштовні оновлення системи безпеки, так і інші платні оновлення та послуги з підтримки. Крім того, на етапі розширеної підтримки корпорація Майкрософт не прийматиме запити на змінення дизайну або нові функції.
+
+| Продукт | Завершення базової підтримки |
+| --- | --- |
+| [BizTalk Server 2020](/lifecycle/products/biztalk-server-2020?branch=live)<br> | 11 квітня 2028 р. |
+| [Microsoft Host Integration Server 2020](/lifecycle/products/microsoft-host-integration-server-2020?branch=live)<br> | 11 липня 2028 р. |
