@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2015
   description: Visual Studio 2015 керується фіксованою політикою життєвого циклу.
-  ms.date: 10/11/2021
+  ms.date: 2022/04/14
   keywords: 
-  ms.openlocfilehash: b6e8222fe770516c85dab8108e9652b57c22a1c4
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: 6b8c57a8c0f8f15e75c9c7aa3fab0b49c84f03f4
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: uk-UA
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4142623"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4519029"
 name: Visual Studio 2015
 summary: >+
   Visual Studio 2015 керується [фіксованою](/lifecycle/policies/fixed) політикою життєвого циклу.
@@ -33,5 +33,5 @@ releases:
   endDate: 2025-10-14T22:59:59.999-08:00
 - version: Original Release
   startDate: 2015-07-20T00:00:00.000-08:00
-  endDate: 2025-10-14T22:59:59.999-08:00
+  endDate: 2017-07-11T22:59:59.999-08:00
 content: "\n\n## <a name=\"links\"></a>Посилання \n* [Інформація про обслуговування старих версій Visual Studio](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n\n\n> [!NOTE]\n> У межах життєвого циклу Visual Studio 2015 постачаються та підтримуються версії таких компонентів Visual Studio 2015: Агенти, ESM, SDK для моделювання, PSM, Remote Tools, SDK, Shell (інтегровані), Shell (ізольовані), TPS, Visual C++ вторинного розповсюдження.\n\n\n## <a name=\"editions\"></a>Версії \n* Community\n* Enterprise\n* Express для Web\n* Express для Windows 10\n* Express для Windows Desktop\n* Professional\n* Release Management\n* Test Professional\n\n"

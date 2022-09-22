@@ -1,13 +1,13 @@
 ---
 title: Продукти, підтримка яких завершується у 2014 році
 description: Дізнайтеся, які продукти більше не будуть використовуватися, які продукти досягнуть завершення строку підтримки або перейдуть від базової підтримки до розширеної підтримки в 2014 році.
-ms.date: 08/11/2021
-ms.openlocfilehash: 6dede11fc813825dd096d7fbfa49e6c25ad15b9d
-ms.sourcegitcommit: 5e9349227c409d98c77eb151f27be486fb55a00c
+ms.date: 07/26/2022
+ms.openlocfilehash: 1a767b8ab82e08e49e07aac1d60e0b2eff42f412
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "4029495"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518393"
 ---
 # <a name="products-ending-support-in-2014"></a>Продукти, підтримка яких завершується у 2014 р.
 

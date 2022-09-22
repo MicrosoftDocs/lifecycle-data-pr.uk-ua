@@ -1,13 +1,13 @@
 ---
 title: Продукти, підтримка яких завершується у 2011 році
 description: Дізнайтеся, які продукти більше не будуть використовуватися, які продукти досягнуть завершення строку підтримки або перейдуть від базової підтримки до розширеної підтримки в 2011 році.
-ms.date: 09/17/2021
-ms.openlocfilehash: 58db5162e8b1cea853892a8ee5786bee83054acc
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 07/26/2022
+ms.openlocfilehash: 2dc1cf852c2f226b2b759e305fe4e72d2c2b8e80
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4029559"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518437"
 ---
 # <a name="products-ending-support-in-2011"></a>Продукти, підтримка яких завершується у 2011 р.
 
