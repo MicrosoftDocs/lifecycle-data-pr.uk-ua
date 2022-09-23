@@ -1,13 +1,13 @@
 ---
 title: Продукти, підтримка яких завершується у 2021 році
 description: Дізнайтеся, які продукти більше не будуть використовуватися, які продукти досягнуть завершення строку підтримки або перейдуть від базової підтримки до розширеної підтримки в 2021 році.
-ms.date: 01/14/2022
-ms.openlocfilehash: e0be3c1d9300e53c4eb912b0f9347902948fb0f8
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 09/13/2022
+ms.openlocfilehash: d92c5d932bd58716fea6238162788a45d0dced00
+ms.sourcegitcommit: 83c4bec3ec265ce0fb67fc5dc6b134f8e011dfff
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117500"
+ms.lasthandoff: 09/13/2022
+ms.locfileid: "4520854"
 ---
 # <a name="products-ending-support-in-2021"></a>Продукти, підтримка яких завершується у 2021 р.
 
@@ -37,12 +37,12 @@ ms.locfileid: "4117500"
 | Продукт | Завершення обслуговування |
 | --- | --- |
 | [Диспетчер конфігурації кінцевих точок, версія 1906](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 26 січня 2021 р. |
+| [Azure IoT Edge, версія 1.0](/lifecycle/products/azure-iot-edge?branch=live)<br> | 1 лютого 2021 р. |
 | [Локальна система Dynamics 365 Business Central (сучасна політика), випуск 2019 року, хвиля 2, версія 15.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 13 квітня 2021 р. |
 | [Windows 10 Enterprise та Education, версія 1803](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Enterprise та Education, версія 1809](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home та Pro, версія 1909](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, версія 1803](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows 10 IoT Enterprise, версія 1809](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, версія 1909](/lifecycle/products/windows-server?branch=live)<br> | 11 травня 2021 р. |
-| [Microsoft Endpoint Configuration Manager, версія 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br>[Диспетчер конфігурації кінцевих точок Microsoft, версія 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 29 травня 2021 р. |
+| [Диспетчер конфігурації кінцевих точок Microsoft, версія 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 29 травня 2021 р. |
 | [.NET Core 2.1 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | 21 серпня 2021 р. |
 | [Диспетчер конфігурації кінцевих точок Microsoft, версія 2002](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 1 жовтня 2021 р. |
-| [Локальна система Dynamics 365 Business Central (сучасна політика), випуск 2020 року, хвиля 1, версія 16.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 12 жовтня 2021 р. |
 | [Windows 10 Enterprise та Education, версія 2004](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home та Pro, версія 2004](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, версія 2004](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, версія 2004](/lifecycle/products/windows-server?branch=live)<br> | 14 грудня 2021 р. |
 
 
