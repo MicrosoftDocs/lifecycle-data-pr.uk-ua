@@ -1,13 +1,13 @@
 ---
 title: Продукти, підтримка яких завершується у 2024 році
 description: Дізнайтеся, які продукти більше не будуть використовуватися, які продукти досягнуть завершення строку підтримки або перейдуть від базової підтримки до розширеної підтримки в 2024 році.
-ms.date: 08/31/2022
-ms.openlocfilehash: 810bb5ce124705b8100cfc934d14e8ebf5343554
-ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+ms.date: 09/21/2022
+ms.openlocfilehash: a4bd0494685a8d220747b0f76b3e1ba3ea68f78a
+ms.sourcegitcommit: 56d443d7c51462b98387364440f5064d3b61139e
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/09/2022
-ms.locfileid: "4518141"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "4526962"
 ---
 # <a name="products-ending-support-in-2024"></a>Продукти, підтримка яких завершується у 2024 р.
 
@@ -34,8 +34,10 @@ ms.locfileid: "4518141"
 
 | Продукт | Завершення обслуговування |
 | --- | --- |
+| [Microsoft Endpoint Configuration Manager, версія 2207](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 12 лютого 2024 р. |
 | [Windows 10 Enterprise та Education, версія 21H2](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise, версія 21H2](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 11 червня 2024 р. |
-| [Windows 11 Корпоративна та Windows 11 для освіти (версія 21H2)](/lifecycle/products/windows-11-enterprise-and-education-version-21h2?branch=live)<br>[Windows 11 IoT Enterprise (версія 21H2), оригінальний випуск (версія 21H2)](/lifecycle/products/windows-11-iot-enterprise-version-21h2?branch=live)<br> | 8 жовтня 2024 р. |
+| [Windows 11 Enterprise та Education, версія 21H2](/lifecycle/products/windows-11-enterprise-and-education?branch=live)<br>[Windows 11 IoT Enterprise, версія 21H2](/lifecycle/products/windows-11-iot-enterprise?branch=live)<br> | 8 жовтня 2024 р. |
+| [Windows 11 Home та Pro, версія 22H2](/lifecycle/products/windows-11-home-and-pro?branch=live)<br> | 14 жовтня 2024 р. |
 | [PowerShell, PowerShell 7.2 (поточна LTS-версія)](/lifecycle/products/powershell?branch=live)<br> | 8 листопада 2024 р. |
 | [Azure IoT Edge версії 1.4 (LTS)](/lifecycle/products/azure-iot-edge?branch=live)<br>[.NET 6.0 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | 12 листопада 2024 р. |
 
